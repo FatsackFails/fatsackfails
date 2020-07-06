@@ -1,5 +1,5 @@
 [build]
-  command = "npm run netlify"
+  command = "npm run build"
   publish = "dist"
   # functions = "./src/functions"
 
