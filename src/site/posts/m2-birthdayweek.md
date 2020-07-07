@@ -12,8 +12,7 @@ excerpt: >-
 teaser: >-
   M2creates comin' in hot with those dollar, dollar bills y'all!
 post_type: video
-category:
-  - Highlights
+category: Highlights
 tags:
   - Overwatch
   - BirthdayWeek

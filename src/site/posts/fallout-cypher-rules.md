@@ -6,12 +6,10 @@ dateMod: Last Modified
 post_type: article
 image_card: /images/Fallout Cypher Banner 02.png
 image_card_alt: Fallout Cypher
-image_card_credit: 
+image_card_credit:
 excerpt: >-
   These alternate radiation rules, addiction and tolerance rules were used in my Fallout: Cypher Lonestar and the Trinity campaign. These rules change the game in significant ways, so if you decide to use them yourself and there's something you don't like about them, feel free to change or get rid of something. <br><br>The Radiation rules are heavily inspired by (totally not stolen from) <a href="https://inspstrikes.blogspot.com/2015/12/nuts-bolts-57-atom-bomb-baby-fallout-4.html" target="_blank">Marc Plourde and his blog Inspiration Strikes!</a> His Fallout 4 Cypher posts helped me immensely when I first started looking into running my own Fallout game in the Cypher System.
-category:
-  - Tabletop RPGs
-  - Blog
+category: Tabletop RPGs
 tags:
   - Cypher System
 seo_title: 'Cypher System Homebrew - 01 Fallout: Cypher Alternate Rules'

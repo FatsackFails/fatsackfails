@@ -10,8 +10,7 @@ dateMod: Last Modified
 excerpt: Fell off the ledge once. Wait, make that twice.
 teaser: Fell off the ledge once. Wait, make that twice.
 post_type: video
-category:
-  - Highlights
+category: Highlights
 tags:
   - Little Nightmares
 seo_title: Double Dead

@@ -12,9 +12,7 @@ excerpt: >-
   List of the mods used in my Stardew with M2 run. If there's any special config, or workaround for compatibility I'll mention it as well. As of writing my Stardew Valley is version 1.4.5 for the Steam PC edition so, depending on when you're reading this, some or even all of these may be broken, outdated, or made obsolete. Be sure to check the latest updates, read the update notes, and poke around in the mod comment sections to get a feel if these mods still work. For multiplayer, both M2 and I have these mods installed.
 teaser: >-
   List of the mods used in my Stardew with M2 run.
-category:
-  - Modding
-  - Blog
+category: Modding
 tags:
   - Stardew Valley
 seo_title: Fatsack's Stardew Valley Modlist

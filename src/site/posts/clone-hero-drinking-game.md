@@ -12,11 +12,9 @@ image_card_credit: >-
 excerpt: >-
   Fatsack's rules for the Clone Hero Drinking game! As always be responsible with your alcohol. Don't over do it, eat food before hand, and drink water!
 teaser: >-
-category:
-  - Blog
+category: Fun On Stream
 tags:
   - Clone Hero
-  - Drinking
 seo_title: Clone Hero Drinking Game
 seo_desc: >-
   Fatsack's rules for the Clone Hero Drinking game! As always be responsible with your alcohol. Don't over do it, eat food before hand, and drink water!

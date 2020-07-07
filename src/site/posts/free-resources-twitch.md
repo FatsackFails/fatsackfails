@@ -12,9 +12,7 @@ excerpt: >-
   I've compiled a list of 18 free resources and tools that will improve your Twitch stream. I explain how I've used each one for my own stream, so you can decide if it'd be useful for you. Some links in this article are affiliate or referral links, meaning if you click them you help support me in one way or another. I'll make sure to let you know every time one of these links show up, as well as explain what you can expect from using them.
 teaser: >-
   18 free resources to improve your Twitch stream.
-category:
-  - Streamer Resources
-  - Blog
+category: Streamer Resources
 tags:
   - Freebies
 seo_title: Free Resources Every Twitch Streamer Needs to Know About

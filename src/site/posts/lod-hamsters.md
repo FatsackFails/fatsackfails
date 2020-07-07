@@ -11,8 +11,7 @@ excerpt: >-
   [IgorIsland](https://twitch.tv/igorisland) and Fatsack reminiscence about the end cinematic for Diablo II and mistake an insect for a house pet.
 teaser: IgorIsland and Fatsack reminiscence about the end cinematic for Diablo II and mistake an insect for a house pet.
 post_type: video
-category:
-  - Highlights
+category: Highlights
 tags:
   - Diablo II
 seo_title: >-

@@ -12,8 +12,7 @@ excerpt: >-
 teaser: >-
   This is why we can't have nice things.
 post_type: video
-category:
-  - Highlights
+category: Highlights
 tags:
   - Breathedge
 seo_title: So Many Space Buddies

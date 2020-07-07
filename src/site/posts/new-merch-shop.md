@@ -13,9 +13,7 @@ excerpt: >-
   <section class="flex justify-center"><a class="fs-btn" href="https://shop.spreadshirt.com/fatsackgaming"target="_blank" rel="noopener">Merch</a></section>
 teaser: >-
   New merch shop is live.
-category:
-  - Fatsack News
-  - Blog
+category: Fatsack News
 tags:
   - Merch
 seo_title: New Merch Shop

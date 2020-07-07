@@ -12,9 +12,7 @@ excerpt: >-
   These optional Carry Capacity and Encumbrance rules allow player characters a quick, easy to use system to both track items and deal with the consequences of carrying too much loot at once. Inspired by <a href="http://www.giffyglyph.com/darkerdungeons/" target="_blank">Giffyglyph's Darker Dungeons</a> supplement  for D&D 5e, specifically the <a href="http://www.giffyglyph.com/darkerdungeons/rules/inventory_space.html" target="_blank">Inventory Space</a> rules. Giffyglyph's rules were a great reference tool when approaching inventory management and apply it to Cypher System, which does not exist in the core rules.
 teaser: >-
   Optional Carry Capacity and Encumbrance rules for Cypher System.
-category:
-  - Tabletop RPGs
-  - Blog
+category: Tabletop RPGs
 tags:
   - Cypher System
 seo_title: Cypher System Homebrew - 03 Carry Capacity and Encumbrance
@@ -75,7 +73,8 @@ If needed the GM can also assign a Carry Capacity to an object to represent how 
 
 <p class="text-base text-center py-4"> Photo by <a href="https://unsplash.com/@8moments" target="_blank">Simon Matzinger</a> on Unsplash</p>
 
-## Item EP Cost Suggestions
+
+## Item EP Cost Suggestions
 
 The following are suggestions for the GM to use to assign EP cost to items. Feel free to use or adjust these costs as needed.
 
@@ -128,7 +127,8 @@ Most Light weapons cost 1 EP, although some can cost less than 1 EP if they're p
 
 [Back to Contents](#toc)
 
-## Cypher and Artifact Ideas
+
+## Cypher and Artifact Ideas
 
 The following are a few examples or ideas for the GM to use when creating cyphers or artifacts that utilize the Carry Capacity and encumbrance rules in interesting ways:
 

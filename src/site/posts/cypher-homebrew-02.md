@@ -11,9 +11,7 @@ excerpt: >-
   These Character Options allow for player characters to play as the various races in the Fallout universe and were used in my Fallout: Cypher Lonestar and the Trinity campaign. These options change the game in significant ways, and <a href="/blog/fallout-cypher-rules/" target="_blank">utilize the alternate radiation, addiction and chem tolerance rules I've shared previously.</a><br><br>Dogs as playable characters were partly inspired by <a href="http://www.ravendeskgames.com/vurt-the-tabletop-roleplaying-game" target="_blank">Vurt: The Tabletop Roleplaying Game</a>, a fantastic Cyberpunk setting for the Cypher System.
 teaser: >-
   Play as the various races in the Fallout universe in the Cypher System.
-category:
-  - Tabletop RPGs
-  - Blog
+category: Tabletop RPGs
 tags:
   - Cypher System
 seo_title: 'Cypher System Homebrew - 02 Fallout: Cypher Character Options'

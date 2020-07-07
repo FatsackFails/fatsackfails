@@ -10,10 +10,8 @@ image_card_credit: >-
   Photo by <a href="https://unsplash.com/@renebbernal" target="_blank">Rene Bernal</a> on Unsplash
 excerpt: >-
   From November 26th till December 10th, I'm raising funds for <a href="https://www.savethechildren.org/" target="_blank">Save The Children's</a> StreamTeam #GamingTuesday2019 event. The campaign goal is $200, but if we're able to raise $100 before December 2nd I'll celebrate with a MorphsuitHype stream where I'll wear a full body pink spandex morph suit.<div class="flex flex-wrap justify-center mt-4"><a href="https://tiltify.com/@fatsack51/fatsack-gaming-tuesday-2019" target="_blank" class="fs-btn mr-4">View Campaign</a><a href="https://donate.tiltify.com/@fatsack51/fatsack-gaming-tuesday-2019" target="_blank" class="fs-btn">Donate to Campaign</a></div>
-teaser: 
-category:
-  - Fatsack News
-  - Blog
+teaser:
+category: Fatsack News
 tags:
   - Charity
 seo_title: 'Fatsack''s #GamingTuesday2019 Charity Event'

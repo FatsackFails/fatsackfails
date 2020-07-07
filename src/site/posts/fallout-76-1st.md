@@ -10,9 +10,8 @@ image_card_credit: >-
   Original image by Bethesda
 excerpt: >-
   Fallout 76 needed a win with the new Fallout 1st subscription service, but the backlash seems to prove it wasn't. It's in my humble opinion that had Bethesda released the private world feature for free at launch, the whole service would have been much better received despite being broken at launch. Regardless I'm looking forward to getting Fallout 1st after the Wastelanders DLC comes out.
-teaser: 
+teaser:
 category:
-  - Blog
 tags:
   - Fallout 76
   - Opinion

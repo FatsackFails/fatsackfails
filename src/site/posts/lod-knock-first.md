@@ -10,8 +10,7 @@ dateMod: Last Modified
 excerpt: Fatsack got stuck walking through this doorway earlier in the game and made a big deal about it. Karma answers the door this time.
 teaser: Fatsack got stuck walking through this doorway earlier in the game and made a big deal about it. Karma answers the door this time.
 post_type: video
-category:
-  - Highlights
+category: Highlights
 tags:
   - Diablo II
 seo_title: Maybe Knock First Next Time

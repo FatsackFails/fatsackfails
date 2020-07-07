@@ -45,34 +45,39 @@ module.exports = {
   // Categories: A list of every category
   catList: collection => {
     let catSet = new Set();
-    collection.getAll().forEach(function(item) {
-      if ("category" in item.data) {
-        let categories = item.data.category;
-        if (typeof categories === "string") {
-          categories = [categories];
-        }
-        for (const category of categories) {
-          catSet.add(category);
-        }
-      }
-    });
-    return [...catSet].sort(function(a, b) {
-      return a.toLowerCase().localeCompare(b.toLowerCase());
-    });
+    // collection.getAll().forEach(function(item) {
+    //   if ("category" in item.data) {
+    //     let categories = item.data.category;
+    //     if (typeof categories === "string") {
+    //       categories = [categories];
+    //     }
+    //     for (const category of categories) {
+    //       catSet.add(category);
+    //     }
+    //   }
+    // });
+    // return [...catSet].sort(function(a, b) {
+    //   return a.toLowerCase().localeCompare(b.toLowerCase());
+    // });
+    collection.getAllSorted().forEach(item =>
+        typeof item.data.category === "string"
+        &&  catSet.add(item.data.category))
+
+    return [...catSet]
   },
 
   // Return a collection for each Category
   category: collection => {
     let categories = {}
     collection.getAllSorted().forEach(item => {
-
-      let category = item.data.category;
-
+      let category = item.data.category
       if (typeof category !== "string")
         return
       if (Array.isArray(categories[category]))
+        //  category array exists? Just push
         categories[category].push(item)
       else
+        //  Otherwise create it and make `item` the first item.
         categories[category] = [item]
     })
 

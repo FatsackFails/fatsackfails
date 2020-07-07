@@ -12,8 +12,7 @@ excerpt: >-
 teaser: >-
   I almost had the timing right. If I'd timed it 2 seconds earlier.
 post_type: video
-category:
-  - Highlights
+category: Highlights
 tags:
   - Little Nightmares
 seo_title: Leap of Faith

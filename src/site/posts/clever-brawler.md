@@ -22,9 +22,7 @@ excerpt: >-
   Version</a></div>
 teaser: >-
   New Fighting Style & Martial Archetype for the D&D 5e Variant Fighter by Vorpal Dice Press.
-category:
-  - Tabletop RPGs
-  - Blog
+category: Tabletop RPGs
 tags:
   - D&D
 seo_title: Clever Brawler Variant Fighter Subclass - D&D 5e

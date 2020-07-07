@@ -2,10 +2,6 @@
   "nav_brand": "logoAndText",
   "main": [
     {
-      "label": "Home",
-      "url": "/"
-    },
-    {
       "label": "Posts",
       "url": "/posts/"
     },

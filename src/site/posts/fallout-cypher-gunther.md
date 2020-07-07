@@ -12,12 +12,11 @@ excerpt: >-
 teaser: >-
   Fallout: Cypher with Gunther Hardwight
 post_type: video
-category:
-  - Tabletop RPGs
-  - Play Throughs
+category: Tabletop RPGs
 tags:
   - Fallout
   - Cypher System
+  - Play Throughs
 seo_title: 'Fallout: Cypher - Gunther Hardwight Episodes'
 seo_desc: >-
   Episodes of Fallout: Cypher focusing on Gunther Hardwight played by Ghosticus. Fallout: Cypher is an on-going tabletop roleplay campaign set in the Fallout universe for the Cypher System.

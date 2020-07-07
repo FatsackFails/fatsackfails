@@ -12,11 +12,11 @@ excerpt: >-
 teaser: >-
   Fatsack fails at Pony Island by Daniel Mullins Games.
 post_type: video
-category:
-  - Play Throughs
+category: Highlights
 tags:
   - Pony Island
   - Halloween
+  - Play Throughs
 seo_title: Pony Island Full Play Through
 seo_desc: Fatsack fails at Pony Island by Daniel Mullins Games.
 ---

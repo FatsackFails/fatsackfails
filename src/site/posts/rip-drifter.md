@@ -13,8 +13,7 @@ excerpt: >-
 teaser: >-
   Human: Fall Flat is a fickle mistress.
 post_type: video
-category:
-  - Highlights
+category: Highlights
 tags:
   - 'Human Fall Flat'
 seo_title: 'Well, RIP Drifter'

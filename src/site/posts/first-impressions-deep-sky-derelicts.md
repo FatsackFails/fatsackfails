@@ -12,9 +12,7 @@ excerpt: >-
   First Impressions are game reviews where I play a game for one streaming session on my Twitch channel and talk about my initial thoughts afterwards. This review is for Deep Sky Derelicts, developed by Snowhound Games and published by 1C Entertainment. I want to disclose that I was provided with a free copy of the game by the publisher. This review also has an affiliate link to buy the game at the end of the article, where I will earn a small commission from the sale at no extra cost to you.
 teaser: >-
   My initial thoughts on Deep Sky Derelicts.
-category:
-  - Game Reviews
-  - Blog
+category: Game Reviews
 tags:
   - Deep Sky Derelicts
 seo_title: "First Impressions: Deep Sky Derelicts"

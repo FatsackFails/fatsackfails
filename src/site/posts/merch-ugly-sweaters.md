@@ -16,9 +16,7 @@ excerpt: >-
   </section>
 teaser: >-
   Get your holiday merch.
-category:
-  - Fatsack News
-  - Blog
+category: Fatsack News
 tags:
   - Merch
 seo_title: Ugly Sweaters Are Here

@@ -12,9 +12,7 @@ excerpt: >-
   My website is now powered by <a href="https://streamsites.xyz/" target="_blank">Stream Sites</a>, which you should totally check out if you're looking for a easy to use platform to establish your web presence and get eyeballs on your Twitch channel.
 teaser: >-
   FatsackFails.com is on Stream Sites.
-category:
-  - Fatsack News
-  - Blog
+category: Fatsack News
 tags:
   - Stream Sites
 seo_title: 'New Site, Who Dis?'

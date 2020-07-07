@@ -7,12 +7,11 @@ video_type: vod
 clipper:
 date: 2020-03-18T19:01:32.414Z
 dateMod: Last Modified
-excerpt: 
+excerpt:
 teaser: >-
   A quick showcase of the overlay used for the Diablo II Median XL streams.
 post_type: video
-category:
-  - Stream Showcase
+category: Stream Showcase
 tags:
   - Diablo II
 seo_title: Diablo Stream Overlay Showcase

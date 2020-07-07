@@ -11,9 +11,7 @@ excerpt: >-
   #BirthdayWeek is here! From February 20th through February 27th, Fatsack is celebrating his 30th birthday and you can celebrate too!<br><br><div class="flex flex-wrap justify-center"><a href="/birthdayweek" class="fs-btn w-full lg:w-auto lg:mb-0 md:mr-2">#BirthdayWeek Page </a></div>
 teaser: >-
   #BirthdayWeek 2020. Let's go!
-category:
-  - Fatsack News
-  - Blog
+category: Fatsack News
 tags:
   - Birthday Week
 seo_title: '#BirthdayWeek 2020 is Here!'

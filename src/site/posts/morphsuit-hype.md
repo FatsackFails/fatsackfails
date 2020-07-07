@@ -12,8 +12,7 @@ excerpt: >-
 teaser: >-
   You can really tell Fatsack loves the #MorphsuitHype.
 post_type: video
-category:
-  - Highlights
+category: Highlights
 tags:
   - Super Smash Bros Ultimate
 seo_title: '#MorphsuitHype'

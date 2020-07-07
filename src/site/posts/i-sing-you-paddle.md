@@ -12,8 +12,7 @@ excerpt: >-
 teaser: >-
   Ghosticus let me row the boat in Human: Fall Flat. It — it did not go well.
 post_type: video
-category:
-  - Highlights
+category: Highlights
 tags:
   - 'Human Fall Flat'
 seo_title: >-

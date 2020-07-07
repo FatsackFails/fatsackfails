@@ -12,12 +12,11 @@ excerpt: >-
 teaser: >-
   Fallout: Cypher with Ace Gammagun
 post_type: video
-category:
-  - Tabletop RPGs
-  - Play Throughs
+category: Tabletop RPGs
 tags:
   - Fallout
   - Cypher System
+  - Play Throughs
 seo_title: 'Fallout: Cypher - Miguel Garcia Episodes'
 seo_desc: >-
   Episodes of Fallout: Cypher focusing on Miguel Garcia played by Resonant Drifter. Fallout: Cypher is an on-going tabletop roleplay campaign set in the Fallout universe for the Cypher System.

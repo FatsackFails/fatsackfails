@@ -12,8 +12,7 @@ excerpt: >-
 teaser: >-
   Today's forecast: zombies with a slight chance of death.
 post_type: video
-category:
-  - Highlights
+category: Highlights
 tags:
   - World War Z
 seo_title: Making It Rain

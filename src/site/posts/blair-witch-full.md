@@ -12,11 +12,11 @@ excerpt: >-
 teaser: >-
   Fatsack Fails at Blair Witch by Bloober Team.
 post_type: video
-category:
-  - Play Throughs
+category: Highlights
 tags:
   - Blair Witch
   - Halloween
+  - Play Throughs
 seo_title: Blair Witch Full Play Through
 seo_desc: >-
   Fatsack Fails at Blair Witch by Bloober Team. This play through contains Jump Scare Alerts!
