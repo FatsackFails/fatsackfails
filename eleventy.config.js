@@ -7,7 +7,7 @@ const config = require('./src/site/_data/theme.json');
 // 11ty Files
 const filters = require('./src/utils/filters.js');
 const collections = require('./src/utils/collections.js');
-const transforms = require('./src/utils/transforms.js');
+//const transforms = require('./src/utils/transforms.js');
 
 // Markdown Plugins
 const markdownIt = require('markdown-it');

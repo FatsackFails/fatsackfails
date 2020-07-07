@@ -2,7 +2,7 @@
   "buttons": [
     {
       "button_text": "Twitch Sub",
-      "button_link": "https://www.twitch.tv/subs/fatsack51"
+      "button_link": "https://www.twitch.tv/subs/fatsackfails"
     },
     {
       "button_text": "Purchase Bits",
@@ -17,12 +17,16 @@
       "button_link": "https://store.steampowered.com/wishlist/id/fatsack51/"
     },
     {
+      "button_text": "DriveThruRPG",
+      "button_link": "https://www.drivethrurpg.com/wishlist_public.php?public_id=567425&list_id=1246122&buying_for=fatsack51%40gmail.com"
+    },
+    {
       "button_text": "Humble Monthly",
       "button_link": "https://www.humblebundle.com/monthly/checkout?selected_plan=monthly_basic&gift=true"
     },
     {
       "button_text": "Donate",
-      "button_link": "https://streamlabs.com/fatsack51"
+      "button_link": "https://streamelements.com/fatsackfails/tip"
     },
     {
       "button_text": "Patreon",
@@ -30,7 +34,7 @@
     },
     {
       "button_text": "Merch",
-      "button_link": "https://www.designbyhumans.com/shop/Fatsack51/"
+      "button_link": "https://shop.spreadshirt.com/fatsackgaming"
     }
   ]
 }

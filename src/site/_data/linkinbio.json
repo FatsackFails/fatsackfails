@@ -1,12 +1,32 @@
 {
   "linkinbio": [
     {
-      "text": "Buy Me A Coffee",
-      "link": "https://buymeacoffee.com/m2"
+      "text": "Twitch",
+      "link": "https://twitch.tv/fatsackfails"
     },
     {
-      "text": "Stalk my Tweets",
-      "link": "https://twitter.com/m2creates"
+      "text": "Website",
+      "link": "https://fatsackfails.com"
+    },
+    {
+      "link": "https://fatsackfails.com/tags/streamer%20resources/",
+      "text": "FREE Streamer Resources"
+    },
+    {
+      "text": "Waste Your Money",
+      "link": "https://fatsackfails.com/support"
+    },
+    {
+      "text": "Instagram",
+      "link": "https://instagram.com/fatsackfails"
+    },
+    {
+      "text": "Twitter",
+      "link": "https://twitter.com/fatsackfails"
+    },
+    {
+      "text": "OnlyFans",
+      "link": "https://onlyfans.com/fatsackfails"
     }
   ]
 }
