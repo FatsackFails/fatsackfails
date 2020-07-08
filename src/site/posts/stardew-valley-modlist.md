@@ -7,9 +7,9 @@ post_type: article
 image_card: /images/stardew-modlist.jpg
 image_card_alt:
 image_card_credit: >-
-  Original photo by <a href="https://unsplash.com/@mbzzgeorgia" target="_blank">Michael Bourgault</a> on Unsplash
+  [Michael Bourgault](https://unsplash.com/@mbzzgeorgia) on Unsplash
 excerpt: >-
-  List of the mods used in my Stardew with M2 run. If there's any special config, or workaround for compatibility I'll mention it as well. As of writing my Stardew Valley is version 1.4.5 for the Steam PC edition so, depending on when you're reading this, some or even all of these may be broken, outdated, or made obsolete. Be sure to check the latest updates, read the update notes, and poke around in the mod comment sections to get a feel if these mods still work. For multiplayer, both M2 and I have these mods installed.
+  List of the mods used in my Stardew with M2 run. If there's any special config, or workaround for compatibility I'll mention it as well.
 teaser: >-
   List of the mods used in my Stardew with M2 run.
 category: Modding
@@ -19,6 +19,8 @@ seo_title: Fatsack's Stardew Valley Modlist
 seo_desc: >-
   List of the mods used in my Stardew with M2 run. If there's any special config, or workaround for compatibility I'll mention it as well. As of writing my Stardew Valley is version 1.4.3 for the Steam PC edition so, depending on when you're reading this, some or even all of these may be broken, outdated, or made obsolete. Be sure to check the latest updates, read the update notes, and poke around in the mod comment sections to get a feel if these mods still work. For multiplayer, both M2 and I have these mods installed.
 ---
+<section class="font-mono pb-8">As of writing my Stardew Valley is version 1.4.5 for the Steam PC edition so, depending on when you're reading this, some or even all of these may be broken, outdated, or made obsolete. Be sure to check the latest updates, read the update notes, and poke around in the mod comment sections to get a feel if these mods still work. For multiplayer, both M2 and I have these mods installed.</section>
+
 [[toc]]
 
 ## Core Dependency Mods

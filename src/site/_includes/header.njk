@@ -1,9 +1,9 @@
 {# Main Nav #}
-<header class="flex-shrink-0 w-full bg-white dark:bg-{{ theme.colors.main }}-900 p-4 mt-0 shadow-md border-b-4 border-{{ theme.colors.accent }}-500">
-  <div class="container mx-auto flex items-center justify-between text-{{ theme.colors.main }}-900 dark:text-{{ theme.colors.main }}-100">
+<header class="flex-shrink-0 w-full bg-white dark:bg-{{ theme.colors.main }}-700 p-4 mt-0 shadow-md border-b-4 border-{{ theme.colors.accent }}-500">
+  <div class="container mx-auto flex items-center justify-between text-{{ theme.colors.main }}-900 dark:text-{{ theme.colors.main }}-100 font-semibold">
     <div class="flex justify-start">
 			{# Branding #}
-			<a class="flex items-center hover:text-{{ theme.colors.accent }}-600 dark-hover:text-{{ theme.colors.accent }}-600 hover:no-underline font-semibold" href="/">
+			<a class="flex items-center hover:text-{{ theme.colors.accent }}-600 dark-hover:text-{{ theme.colors.accent }}-600 hover:no-underline" href="/">
         {% if navigation.nav_brand === "logo" %}
         <img src="{{ site.logo }}" alt="{{ site.name }}" class="h-8 w-auto mr-2">
         {% elif navigation.nav_brand === "text" %}
@@ -26,17 +26,17 @@
 		</div>
 		<div class="flex justify-end -mx-2">
       {# Search #}
-      <button href="/search" id="search-link" title="Search" class="p-2 border-2 border-transparent rounded-full hover:text-{{ theme.colors.main}}-100 dark-hover:text-{{ theme.colors.main}}-900 hover:bg-{{ theme.colors.main }}-900 dark-hover:bg-{{ theme.colors.main }}-100">
+      <button href="/search" id="search-link" title="Search" class="p-2 border-2 border-transparent rounded-full hover:text-{{ theme.colors.main}}-100 dark-hover:text-{{ theme.colors.main}}-900 hover:bg-{{ theme.colors.main }}-700 dark-hover:bg-{{ theme.colors.accent }}-500 mr-2 focus:outline-none">
         <svg class="icon-search h-4 w-4" fill="currentColor" stroke="currentColor" role="img" aria-hidden="true">
           <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/images/icons/icon-library.svg#icon-search"></use>
         </svg>
       </button>
 			{# Dark/Light Mode Toggle #}
-			<button class="darkmodebtn js-darkmode-toggle p-2 border-2 border-transparent rounded-full text-base hover:text-{{ theme.colors.main}}-100 dark-hover:text-{{ theme.colors.main}}-900 hover:bg-{{ theme.colors.main }}-900 dark-hover:bg-{{ theme.colors.main }}-100" title="Toggle Dark Mode" role="switch" aria-checked="false">
-				<svg class="icon-light h-4 w-4" fill="currentColor" stroke="currentColor" role="img" aria-hidden="true">
+			<button class="darkmodebtn js-darkmode-toggle p-2 border-2 border-transparent rounded-full text-base text-{{ theme.colors.main}}-100 dark:text-{{ theme.colors.main}}-700 hover:text-{{ theme.colors.main}}-100 dark-hover:text-{{ theme.colors.main}}-100 bg-{{ theme.colors.main }}-700 dark:bg-{{ theme.colors.main }}-100 hover:bg-{{ theme.colors.accent }}-500 dark-hover:bg-{{ theme.colors.accent }}-500 focus:outline-none" title="Toggle Dark Mode" role="switch" aria-checked="false">
+				<svg class="icon-light h-4 w-4" fill="currentColor" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" role="img" aria-hidden="true">
 					<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/images/icons/icon-library.svg#icon-sun"></use>
 				</svg>
-				<svg class="icon-dark h-4 w-4" fill="currentColor" stroke="currentColor" role="img" aria-hidden="true">
+				<svg class="icon-dark h-4 w-4" fill="currentColor" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-hidden="true">
 					<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/images/icons/icon-library.svg#icon-moon"></use>
 				</svg>
 			</button>
@@ -55,7 +55,7 @@
 {# Scroll Progress Bar for Posts
 TODO: only include on collections.post #}
 <div id="scrollHeader" class="bg-{{ theme.colors.accent }}-100 fixed w-full z-10 top-0 hidden animated flex-shrink-0">
-  <div class="bg-white dark:bg-{{ theme.colors.main }}-900">
+  <div class="bg-white dark:bg-{{ theme.colors.main }}-700">
     <div class="flex flex-wrap items-center content-center">
       {# Branding #}
       <div class="flex w-1/2 justify-start text-white font-semibold">

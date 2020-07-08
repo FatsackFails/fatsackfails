@@ -1,6 +1,6 @@
 ---
 title: Category
-subtitle: Categorized
+subtitle: Categorized Under
 slug: category
 image_card:
 image_card_alt:

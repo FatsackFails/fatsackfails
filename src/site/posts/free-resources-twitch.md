@@ -7,9 +7,9 @@ post_type: article
 image_card: /images/free-resources-hero.png
 image_card_alt: Free Twitch Streamer Resources
 image_card_credit: >-
-  Original photo by <a href="https://unsplash.com/@axville" target="_blank">Emmanuel</a> on Unsplash
+  [Emmanuel](https://unsplash.com/@axville) on Unsplash
 excerpt: >-
-  I've compiled a list of 18 free resources and tools that will improve your Twitch stream. I explain how I've used each one for my own stream, so you can decide if it'd be useful for you. Some links in this article are affiliate or referral links, meaning if you click them you help support me in one way or another. I'll make sure to let you know every time one of these links show up, as well as explain what you can expect from using them.
+  I've compiled a list of 18 free resources and tools that will improve your Twitch stream. I explain how I've used each one for my own stream, so you can decide if it'd be useful for you.
 teaser: >-
   18 free resources to improve your Twitch stream.
 category: Streamer Resources
@@ -19,6 +19,8 @@ seo_title: Free Resources Every Twitch Streamer Needs to Know About
 seo_desc: >-
   I've compiled a list of 18 free Twitch resources and tools that will improve your stream. I explain how I've used each one for my own stream, so you can decide if it'd be useful for you.
 ---
+<section class="font-mono pb-8">Some links in this article are affiliate or referral links, meaning if you click them you help support me in one way or another. I'll make sure to let you know every time one of these links show up, as well as explain what you can expect from using them.
+</section>
 I've been streaming for over 5 years on Twitch and throughout that time I've learned one important lesson: creating quality content takes time and effort. There's so many things you have to keep track of: creating graphics, picking out the right music to play, posting to social media, setting up your overlays, and that's before you even go live!
 
 Whenever I find a way to make my job easier or faster to do, I make note of it because that's important to me. If that's important to you too, here's a selection of free tools and resources for Twitch streamers that I think you need to know about.

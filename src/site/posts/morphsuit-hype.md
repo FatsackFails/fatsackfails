@@ -8,7 +8,6 @@ clipper: Fatsack
 date: 2019-12-06T11:39:02.660Z
 dateMod: Last Modified
 excerpt: >-
-  Thanks to the generous donations from everyone for <a href="/blog/gaming-tuesday-2019/" target="_blank">Fatsack's Save the Children's #GamingTuesday charity fundraiser</a>, Fatsack had to wear this pink spandex morphsuit during the stream. You can really tell Fatsack loves the #MorphsuitHype.
 teaser: >-
   You can really tell Fatsack loves the #MorphsuitHype.
 post_type: video
@@ -19,3 +18,4 @@ seo_title: '#MorphsuitHype'
 seo_desc: >-
   Thanks to the generous donations of everyone for Save the Children's #GamingTuesday fundraiser event Fatsack had to wear this pink spandex morphsuit during the stream. You can really tell Fatsack loves the #MorphsuitHype.
 ---
+Thanks to the generous donations from everyone for <a href="/blog/gaming-tuesday-2019/" target="_blank">Fatsack's Save the Children's #GamingTuesday charity fundraiser</a>, Fatsack had to wear this pink spandex morphsuit during the stream. You can really tell Fatsack loves the #MorphsuitHype.

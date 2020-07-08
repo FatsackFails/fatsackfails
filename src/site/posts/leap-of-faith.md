@@ -8,9 +8,8 @@ clipper: m2creates
 date: 2018-10-18
 dateMod: Last Modified
 excerpt: >-
-  I almost had the timing right. If I'd timed it 2 seconds earlier.
 teaser: >-
-  I almost had the timing right. If I'd timed it 2 seconds earlier.
+  I almost had the timing right.
 post_type: video
 category: Highlights
 tags:
@@ -19,3 +18,4 @@ seo_title: Leap of Faith
 seo_desc: >-
   I almost had the timing right. If I'd timed it 2 seconds earlier.
 ---
+I almost had the timing right. If I'd timed it 2 seconds earlier.

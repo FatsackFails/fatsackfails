@@ -7,9 +7,9 @@ post_type: article
 image_card: /images/first-impressions-deep-sky-derelicts.jpg
 image_card_alt: First Impressions Deep Sky Derelicts Banner
 image_card_credit: >-
-  Original image provided by 1C Entertainment
+  1C Entertainment
 excerpt: >-
-  First Impressions are game reviews where I play a game for one streaming session on my Twitch channel and talk about my initial thoughts afterwards. This review is for Deep Sky Derelicts, developed by Snowhound Games and published by 1C Entertainment. I want to disclose that I was provided with a free copy of the game by the publisher. This review also has an affiliate link to buy the game at the end of the article, where I will earn a small commission from the sale at no extra cost to you.
+  First Impressions are game reviews where I play a game for one streaming session on my Twitch channel and talk about my initial thoughts afterwards. This review is for Deep Sky Derelicts, developed by Snowhound Games and published by 1C Entertainment.
 teaser: >-
   My initial thoughts on Deep Sky Derelicts.
 category: Game Reviews
@@ -19,6 +19,8 @@ seo_title: "First Impressions: Deep Sky Derelicts"
 seo_desc: >-
   First Impressions are game reviews where I play a game for one streaming session on my Twitch channel and talk about my initial thoughts afterwards. This review is for Deep Sky Derelicts, developed by Snowhound Games and published by 1C Entertainment.
 ---
+<section class="font-mono pb-8">I want to disclose that I was provided with a free copy of the game by the publisher. This review also has an affiliate link to buy the game at the end of the article, where I will earn a small commission from the sale at no extra cost to you.</section>
+
 Right away I'm intrigued with what Deep Sky Derelicts presents to me as I create my crew and play through the first Derelict. A rogue-like dungeon crawler? Turn based card battle system? Pulp sci-fi comic book aesthetic and art style? Hell yeah! That sounds like a really cool combo.
 
 <div class="resp-container my-8"><iframe
@@ -73,4 +75,4 @@ Snowhound Games has put together something that's fun and exciting right from th
     allowfullscreen="true">
 </iframe></div>
 
-Deep Sky Derelicts Definitive Edition is available on Steam, Xbox One, PS4, and Switch. [If you want to help me out, you can buy the Steam version on Humble Bundle with my affiliate link.](https://www.humblebundle.com/store/deep-sky-derelicts-definitive-edition?partner=fatsack51) I'll get a little money from the sale as commission at no extra cost to you.
+Deep Sky Derelicts Definitive Edition is available on Steam, Xbox One, PS4, and Switch. If you want to help me out, you can [buy the Steam version on Humble Bundle with my affiliate link.](https://www.humblebundle.com/store/deep-sky-derelicts-definitive-edition?partner=fatsack51) I'll get a little money from the sale as commission at no extra cost to you.

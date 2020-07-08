@@ -8,8 +8,6 @@ clipper: Mermalade
 date: 2019-11-21T04:01:00.000Z
 dateMod: Last Modified
 excerpt: >-
-  You're in a better place now, <a href="https://twitch.tv/resonantdrifter" target="_blank">Resonant Drifter</a>
-  👼 Human: Fall Flat is a fickle mistress.
 teaser: >-
   Human: Fall Flat is a fickle mistress.
 post_type: video
@@ -19,3 +17,4 @@ tags:
 seo_title: 'Well, RIP Drifter'
 seo_desc: "You're in a better place now, Resonant Drifter \U0001F47C Human: Fall Flat is a fickle mistress.\n"
 ---
+You're in a better place now, <a href="https://twitch.tv/resonantdrifter" target="_blank">Resonant Drifter</a> 👼 Human: Fall Flat is a fickle mistress.

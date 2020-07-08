@@ -8,7 +8,6 @@ clipper:
 date: 2019-10-30T22:33:38.587Z
 dateMod: Last Modified
 excerpt: >-
-  Fatsack Fails at Blair Witch by Bloober Team. This play through contains Jump Scare Alerts!
 teaser: >-
   Fatsack Fails at Blair Witch by Bloober Team.
 post_type: video
@@ -21,3 +20,4 @@ seo_title: Blair Witch Full Play Through
 seo_desc: >-
   Fatsack Fails at Blair Witch by Bloober Team. This play through contains Jump Scare Alerts!
 ---
+Fatsack Fails at Blair Witch by Bloober Team. This play through contains Jump Scare Alerts!

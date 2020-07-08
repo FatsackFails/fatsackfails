@@ -7,10 +7,9 @@ post_type: article
 image_card: /images/merch.jpg
 image_card_alt: Merch Store Banner
 image_card_credit: >-
-  Original photo by <a href="https://unsplash.com/@impatrickt" target="_blank">Patrick Tomasso</a> on Unsplash. Model photo by Spreadshirt.
+  [Patrick Tomasso](https://unsplash.com/@impatrickt) on Unsplash. Model photo by Spreadshirt.
 excerpt: >-
   New merch shop is live powered by Spreadshirt.  Old designs are being retired, with new ones coming soon!
-  <section class="flex justify-center"><a class="fs-btn" href="https://shop.spreadshirt.com/fatsackgaming"target="_blank" rel="noopener">Merch</a></section>
 teaser: >-
   New merch shop is live.
 category: Fatsack News
@@ -20,7 +19,8 @@ seo_title: New Merch Shop
 seo_desc: >-
   New Fatsack Gaming merch shop is live powered by Spreadshirt.  Old designs are being retired, with new ones coming soon!
 ---
-I've made the move over to Spreadshirt! <a href="https://shop.spreadshirt.com/fatsackgaming" target="_blank">Fatsack Gaming Merch</a> can now be found here. Spreadshirt has a bunch of cool options available to both me as a creator, and to you as a customer in terms of product available, customizing, sizes, and cost.
+<section class="flex justify-center pb-8"><a href="https://shop.spreadshirt.com/fatsackfails"target="_blank" rel="noopener">Spreadshirt Merch Shop</a></section>
+I've made the move over to Spreadshirt! <a href="https://shop.spreadshirt.com/fatsackfails" target="_blank">Fatsack Fails Merch</a> can now be found here. Spreadshirt has a bunch of cool options available to both me as a creator, and to you as a customer in terms of product available, customizing, sizes, and cost.
 
 I've retired most of the designs from the old shop, and will be adding new ones in the time coming. Some of these will be updated versions of the former designs, but a lot of these will be new designs!
 

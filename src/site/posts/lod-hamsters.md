@@ -8,8 +8,7 @@ clipper: Fatsack
 date: 2020-03-14T18:54:22.721Z
 dateMod: Last Modified
 excerpt: >-
-  [IgorIsland](https://twitch.tv/igorisland) and Fatsack reminiscence about the end cinematic for Diablo II and mistake an insect for a house pet.
-teaser: IgorIsland and Fatsack reminiscence about the end cinematic for Diablo II and mistake an insect for a house pet.
+teaser: IgorIsland mistakes an insect for a house pet.
 post_type: video
 category: Highlights
 tags:
@@ -18,3 +17,4 @@ seo_title: >-
   Lord of Destruction: Harbinger of Hamsters
 seo_desc: IgorIsland and Fatsack reminiscence about the end cinematic for Diablo II and mistake an insect for a house pet.
 ---
+[IgorIsland](https://twitch.tv/igorisland) and I reminiscence about the end cinematic for Diablo II and mistake an insect for a house pet.

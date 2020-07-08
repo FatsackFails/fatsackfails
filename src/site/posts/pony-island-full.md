@@ -8,7 +8,6 @@ clipper:
 date: 2017-10-14T02:22:47.952Z
 dateMod: Last Modified
 excerpt: >-
-  Fatsack fails at Pony Island by Daniel Mullins Games.
 teaser: >-
   Fatsack fails at Pony Island by Daniel Mullins Games.
 post_type: video
@@ -20,3 +19,4 @@ tags:
 seo_title: Pony Island Full Play Through
 seo_desc: Fatsack fails at Pony Island by Daniel Mullins Games.
 ---
+Fatsack fails at Pony Island by Daniel Mullins Games.

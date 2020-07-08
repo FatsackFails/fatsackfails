@@ -1,11 +1,11 @@
 {
   "theme": "ghostwind",
   "colors": {
-    "main": "purple",
-    "accent": "pink",
+    "main": "fspurple",
+    "accent": "fspink",
     "pwa": "#6B46C1",
-    "progress": "#D53F8C",
-    "postFooter": "pink"
+    "progress": "#FA88C8",
+    "postFooter": "fspink"
   },
   "fonts": {
     "post": {

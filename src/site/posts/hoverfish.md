@@ -7,7 +7,7 @@ video_type: clip
 clipper: ghosticus
 date: 2018-07-15
 dateMod: Last Modified
-excerpt: I ate my fish friend in Subnautica.
+excerpt:
 teaser: I ate my fish friend in Subnautica.
 post_type: video
 category: Highlights
@@ -16,3 +16,4 @@ tags:
 seo_title: We were friends, Ethan!
 seo_desc: I ate my fish friend in Subnautica.
 ---
+I ate my fish friend in Subnautica. RIP Hoverfish, you were a true homie.

@@ -8,7 +8,6 @@ clipper: Mermalade
 date: 2019-11-21T04:10:00.000Z
 dateMod: Last Modified
 excerpt: >-
-  <a href="https://twitch.tv/ghosticus" target="_blank">Ghosticus</a> let me row the boat in Human: Fall Flat. It — it did not go well.
 teaser: >-
   Ghosticus let me row the boat in Human: Fall Flat. It — it did not go well.
 post_type: video
@@ -20,3 +19,4 @@ seo_title: >-
 seo_desc: >-
   Ghosticus let me row the boat in Human: Fall Flat. It — it did not go well.
 ---
+<a href="https://twitch.tv/ghosticus" target="_blank">Ghosticus</a> let me row the boat in Human: Fall Flat. It — it did not go well.

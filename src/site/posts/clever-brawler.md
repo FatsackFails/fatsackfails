@@ -7,19 +7,13 @@ post_type: article
 image_card: /images/tabletop01-cropped.jpg
 image_card_alt: Some board game pieces on a table representing characters in battle.
 image_card_credit: >-
-  Photo by <a href="https://unsplash.com/@clintbustrillos">Clint Bustrillos</a>
+  [Clint Bustrillos](https://unsplash.com/@clintbustrillos)
   on Unsplash
 excerpt: >-
-  New Fighting Style & Martial Archetype for the Variant Fighter by <a
-  href="https://twitter.com/vorpaldicepress" target="_blank"> Vorpal Dice
-  Press</a>.
+  New Fighting Style & Martial Archetype for the Variant Fighter by [Vorpal Dice
+  Press](https://twitter.com/vorpaldicepress).
   Focuses mainly on Improvised Weapons and Unarmed combat as well as the
   Maneuvers feature to better suit the 'Wandering Hero' role.
-  <div class="flex flex-wrap justify-center mt-4">
-  <a href="https://www.gmbinder.com/share/-LrIf4k8Z37lw1PmDFOR" target="_blank"
-  class="fs-btn mr-4">GM Binder Version</a><a
-  href="/images/clever-brawler-v1-0.pdf" target="_blank" class="fs-btn">PDF
-  Version</a></div>
 teaser: >-
   New Fighting Style & Martial Archetype for the D&D 5e Variant Fighter by Vorpal Dice Press.
 category: Tabletop RPGs
@@ -29,6 +23,12 @@ seo_title: Clever Brawler Variant Fighter Subclass - D&D 5e
 seo_desc: >-
   New Fighting Style & Martial Archetype for the D&D 5e Variant Fighter by Vorpal Dice Press. Focuses mainly on Improvised Weapons and Unarmed combat as well as the Maneuvers feature to bring the 'Wandering Action Hero' concept to Dungeons & Dragons 5th Edition.
 ---
+<div class="flex flex-wrap justify-center mb-8">
+<a href="https://www.gmbinder.com/share/-LrIf4k8Z37lw1PmDFOR" target="_blank"
+class="fs-btn mr-4">GM Binder Version</a><a
+href="/images/clever-brawler-v1-0.pdf" target="_blank" class="fs-btn">PDF
+Version</a></div>
+
 <p>I've been playing Dungeons & Dragons 5e over on <a href="https://twitch.tv/resonantdrifter" target="_blank">Resonant Drifter's</a> Twitch channel every Tuesday for some time now with my character Traelus Hasi'Tali. Traelus is an Improvised Weapon Fighter, and his character concept is the wandering hero who goes from town to town adventuring and being able to handle unexpected combat without having a proper weapon. I kitbashed his class features a while ago using various sources to try and get a quick and dirty version of the class that would suit my needs.</p>
 
 <div class="flex flex-wrap justify-center"> <img src="/images/traelus-hasa-tali.png" alt="An altered image of Iolaus from the Hercules and Xena animated movie to represent Traelus Hasi'Tali">

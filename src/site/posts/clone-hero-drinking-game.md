@@ -7,26 +7,22 @@ post_type: article
 image_card: /images/drinks.jpg
 image_card_alt:
 image_card_credit: >-
-  Photo by <a href="https://unsplash.com/@outdoor_junkiez" target="_blank">Drew
-  Farwell</a> on Unsplash
+  [Drew Farwell](https://unsplash.com/@outdoor_junkiez) on Unsplash
 excerpt: >-
-  Fatsack's rules for the Clone Hero Drinking game! As always be responsible with your alcohol. Don't over do it, eat food before hand, and drink water!
+  My rules for the Clone Hero Drinking game! As always be responsible with your alcohol. Don't over do it, eat food before hand, and drink water!
 teaser: >-
 category: Fun On Stream
 tags:
   - Clone Hero
 seo_title: Clone Hero Drinking Game
 seo_desc: >-
-  Fatsack's rules for the Clone Hero Drinking game! As always be responsible with your alcohol. Don't over do it, eat food before hand, and drink water!
+  My rules for the Clone Hero Drinking game! As always be responsible with your alcohol. Don't over do it, eat food before hand, and drink water!
 ---
 I've been Clone Hero on the stream lately, and I've come up with some rules for a Drinking Game on nights when I just want to chill and hang out. I'm writing them down here so I don't forget, and so you can play along if you choose!
 
-<div>
-<p class="font-bold md:text-2xl md:text-center md:w-10/12">Remember: You don't have to play this game with alcohol. Any beverage is fine! If you do imbibe, always be responsible with your drinking. This game is meant to be something fun to do with friends, not ruin your night.
-</p>
-</div>
+<p class="font-mono">Remember: You don't have to play this game with alcohol. Any beverage is fine! If you do imbibe, always be responsible with your drinking. This game is meant to be something fun to do with friends, not ruin your night.</p>
 
-<h2 class="text-4xl text-center mt-4">Drinking Game Rules</h2>
+## Drinking Game Rules
 
 <p class="text-2xl">Drink</p>
 <ul>

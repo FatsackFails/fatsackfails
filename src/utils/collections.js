@@ -98,6 +98,13 @@ module.exports = {
 
     return post.reverse()
     // return collection.getFilteredByGlob('**/post/*.md').reverse();
+  },
+
+  // Searchable
+  searchable: collection => {
+    const post = collection.getFilteredByGlob(['**/posts/*.md', '**/page/*.md']);
+    return post.reverse()
+    // return collection.getFilteredByGlob('**/post/*.md').reverse();
   }
 
 }
