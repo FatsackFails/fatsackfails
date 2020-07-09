@@ -663,6 +663,13 @@ export default {
               hint: 'https://twitch.tv/yourhandle'
             },
             {
+              label: 'Instagram',
+              name: 'instagram',
+              widget: 'string',
+              required: false,
+              hint: 'https://instagram.com/yourhandle'
+            },
+            {
               label: 'YouTube',
               name: 'youtube',
               widget: 'string',

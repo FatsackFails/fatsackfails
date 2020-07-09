@@ -1,7 +1,7 @@
 {# Site Meta: src/site/_includes/meta.njk #}
 
 {% set title = archive_title or heading or title %}
-{% set metaTitle =  seo.meta_title or renderData.title or title or site.name %}
+{% set metaTitle =  seo_title or renderData.title or title or site.name %}
 {% set metaDescription = seo_desc or renderData.desc or site.description %}
 {% set metaImage = image_card or site.image_card %}
 {% set metaImageAlt = image_caption or site.image_card_alt %}
@@ -20,6 +20,9 @@
 <link rel="canonical" href="{{site.url}}{{ page.url }}">
 {%- if site.google_verification %}
 <meta name="google-site-verification" content="{{ site.google_verification }}">
+{%- endif %}
+{%- if site.pinterest_verification %}
+<meta name="p:domain_verify" content="{{ site.pinterest_verification }}">
 {%- endif %}
 
 {# Schema #}
@@ -55,7 +58,7 @@
 <meta property="og:locale" content="{{ site.language }}">
 
 {# sameAs links #}
-{% for service, link in social %}
+{% for network, link in social %}
 <link href="{{ link }}" rel="me">
 {% endfor %}
 
