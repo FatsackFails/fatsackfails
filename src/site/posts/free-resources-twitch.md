@@ -1,23 +1,22 @@
 ---
+excerpt: I've compiled a list of 18 free resources and tools that will improve
+  your Twitch stream. I explain how I've used each one for my own stream, so you
+  can decide if it'd be useful for you.
+image_card_credit: "[Emmanuel](https://unsplash.com/@axville) on Unsplash"
 title: Free Resources Every Twitch Streamer Needs to Know About
 slug: free-resources-twitch
 date: 2020-07-06T08:42:45.567Z
 dateMod: Last Modified
 post_type: article
-image_card: /images/free-resources-hero.png
-image_card_alt: Free Twitch Streamer Resources
-image_card_credit: >-
-  [Emmanuel](https://unsplash.com/@axville) on Unsplash
-excerpt: >-
-  I've compiled a list of 18 free resources and tools that will improve your Twitch stream. I explain how I've used each one for my own stream, so you can decide if it'd be useful for you.
-teaser: >-
-  18 free resources to improve your Twitch stream.
 category: Streamer Resources
 tags:
   - Freebies
+image_card: /images/free-resources-hero.png
+image_card_alt: Free Twitch Streamer Resources
+teaser: 18 free resources to improve your Twitch stream.
 seo_title: Free Resources Every Twitch Streamer Needs to Know About
-seo_desc: >-
-  I've compiled a list of 18 free Twitch resources and tools that will improve your stream. I explain how I've used each one for my own stream, so you can decide if it'd be useful for you.
+seo_desc: I've compiled a list of 18 free Twitch resources and tools that will
+  improve your stream.
 ---
 <section class="font-mono pb-8">Some links in this article are affiliate or referral links, meaning if you click them you help support me in one way or another. I'll make sure to let you know every time one of these links show up, as well as explain what you can expect from using them.
 </section>
