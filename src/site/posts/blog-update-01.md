@@ -22,4 +22,4 @@ There's a Light/Dark Mode toggle now! I like Dark Mode for most things I use on 
 
 There's even more smaller features like estimated read time for blog posts, easy share buttons for pages, and a bunch of fixes behind the scenes that make using the website for both me and you easier and more pleasant.
 
-I'm the guinea pig for [Stream Sites](https://streamsites.xyz)'s features and updates, so expect to hear more as M2 and I continue to improve the platform. We want Stream Sites to be easy, fast, and useful for anyone wanting to establish have their online presence.
+I'm the guinea pig for [Stream Sites](https://streamsites.xyz)'s features and updates, so expect to hear more as M2 and I continue to improve the platform. We want Stream Sites to be easy, fast, and useful for anyone wanting to establish their online presence.
