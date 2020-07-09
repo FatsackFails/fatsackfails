@@ -46,21 +46,15 @@ Dynamic Data:
         </div>
       </header>
 
-      <main id="main" class="main flex flex-col m-auto text-center md:w-4/5 flex-grow flex-shrink-0" role="main" tabindex="-1">
+      <main id="main" class="main flex flex-col sm:m-auto text-center md:w-4/5 flex-grow flex-shrink-0" role="main" tabindex="-1">
 
         <h1 class="page-title text-2xl md:text-3xl mt-0">{{ title }}</h1>
 
-        {# Optional Page Content #}
-        <div class="text-sm md:text-base">
-          {{ content | safe }}
-        </div>
+        <div class="content text-sm md:text-base">{{ content | safe }}</div>
 
-        {# Button List #}
-        <ul class="content text-center text-{{ theme.colors.main }}-100 py-8 w-full">
+        <ul class="text-center text-{{ theme.colors.main }}-100 py-4 w-full">
           {% for item in linkinbio.linkinbio %}
-          <a href="{{ item.link | safe }}" target="_blank" class="lg:p-4 py-3 px-0 block rounded max-w-xl font-bold hover:text-{{ theme.colors.main }}-900 bg-{{ theme.colors.accent }}-600 hover:bg-{{ theme.colors.accent }}-400 mb-4">
-            <li>{{ item.text }}</li>
-          </a>
+          <a href="{{ item.link | safe }}" target="_blank" class="rounded lg:p-4 py-3 px-0 block font-bold hover:text-{{ theme.colors.main }}-900 bg-{{ theme.colors.accent }}-600 hover:bg-{{ theme.colors.accent }}-400 mb-4"><li>{{ item.text }}</li></a>
           {% endfor %}
         </ul>
 

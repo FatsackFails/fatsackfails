@@ -10,3 +10,4 @@ seo_desc: Get in touch!
 type: core
 layout: linkinbio.njk
 ---
+Here's where I can be found all over the internet!
