@@ -91,12 +91,14 @@ export default {
       label: 'Video ID',
       name: 'video_id',
       widget: 'string',
+      required: false,
       hint: 'Get this from the video URL. Clip example: HedonisticConsiderateOrcaWutFace'
     },
     {
       label: 'Video Type',
       name: 'video_type',
       widget: 'select',
+      required: false,
       options: [
         {
           label: 'Twitch Clip',
@@ -165,11 +167,7 @@ export default {
       name: 'seo_desc',
       widget: 'text',
       required: false,
-      hint: 'A short description to tease this in a Search or Social Media preview.',
-      pattern: [
-        '.{,240}',
-        'Max 240 characters'
-      ]
+      hint: 'A short description to tease this in a Search or Social Media preview.'
     }
   ]
 }
