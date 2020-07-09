@@ -1,36 +1,41 @@
 {
   "buttons": [
     {
-      "button_text": "Twitch Sub",
-      "button_link": "https://www.twitch.tv/subs/fatsack51"
+      "button_text": "Donations through StreamElements show up as alerts on stream! Make it rain!",
+      "button_link": "https://streamelements.com/fatsackfails/tip"
     },
     {
-      "button_text": "Purchase Bits",
+      "button_text": "Get awesome Fatsack Fails swag! T-shirts, mugs, and more!",
+      "button_link": "https://shop.spreadshirt.com/fatsackfails"
+    },
+    {
+      "button_text": "Sub on Twitch to get exclusive emotes, badges and no ads. Gift Subs to other members in chat!",
+      "button_link": "https://www.twitch.tv/subs/fatsackfails"
+    },
+    {
+      "button_text": "Purchase Bits from Twitch to use in chat. Earn badges, unique emotes and your name in the chat's leaderboard!",
       "button_link": "https://www.twitch.tv/bits"
     },
     {
-      "button_text": "Twitch Prime",
-      "button_link": "https://www.twitch.tv/prime/"
-    },
-    {
-      "button_text": "Steam Wishlist",
-      "button_link": "https://store.steampowered.com/wishlist/id/fatsack51/"
+      "button_text": "DriveThruRPG",
+      "button_link": "https://www.drivethrurpg.com/wishlist_public.php?public_id=567425&list_id=1246122&buying_for=fatsack51%40gmail.com"
     },
     {
       "button_text": "Humble Monthly",
       "button_link": "https://www.humblebundle.com/monthly/checkout?selected_plan=monthly_basic&gift=true"
     },
     {
-      "button_text": "Donate",
-      "button_link": "https://streamlabs.com/fatsack51"
+      "button_text": "Twitch Sub",
+      "button_link": "https://www.twitch.tv/subs/fatsackfails"
+
     },
     {
       "button_text": "Patreon",
       "button_link": "https://www.patreon.com/fatsack51"
     },
     {
-      "button_text": "Merch",
-      "button_link": "https://www.designbyhumans.com/shop/Fatsack51/"
+      "button_text": "Steam Wishlist",
+      "button_link": "https://store.steampowered.com/wishlist/id/fatsack51/"
     }
   ]
 }

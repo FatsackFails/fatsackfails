@@ -17,7 +17,7 @@ Dynamic Data:
     {% include "meta.njk" %}
 
     {# include styles #}
-    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/main.min.css">
 
     {# Favicon #}
     <link rel="icon" type="image/ico" href="{{ site.favicon }}">
@@ -32,13 +32,17 @@ Dynamic Data:
 
       <header id="header" class="header bg-{{ theme.colors.main }}-900 p-6 border-b border-{{ theme.colors.main }}-900 flex-shrink-0">
       	<div class="container flex flex-wrap justify-center items-center m-auto">
-      		<a class="company-logo-link block text-{{ theme.colors.main }}-100 font-bold text-3xl md:mb-0 no-underline" href="/" aria-label="Back to home">
-      		  {% if navigation.nav_logo %}
-      		    <img src="{{ site.logo }}" alt="{{ site.name }}" class="h-12 w-auto">
-      		  {% else %}
-      		    {{ site.name }}
-      		  {% endif %}
-      		</a>
+      		{# Branding #}
+    			<a class="flex items-center hover:text-{{ theme.colors.accent }}-600 dark-hover:text-{{ theme.colors.accent }}-600 hover:no-underline" href="/">
+            {% if navigation.nav_brand === "logo" %}
+            <img src="{{ site.logo }}" alt="{{ site.name }}" class="h-8 w-auto">
+            {% elif navigation.nav_brand === "text" %}
+            <span class="w-0 md:w-auto md:block">{{ site.name }}</span>
+            {% elif navigation.nav_brand === "logoAndText" %}
+            <img src="{{ site.logo }}" alt="{{ site.name }}" class="h-8 w-auto mr-4">
+    				<span class="hidden w-0 md:w-auto md:block -ml-2">{{ site.name }}</span>
+            {% endif %}
+    			</a>
         </div>
       </header>
 
@@ -46,23 +50,27 @@ Dynamic Data:
 
         <h1 class="page-title text-2xl md:text-3xl mt-0">{{ title }}</h1>
 
-        <div class="text-sm md:text-base">{{ content | safe }}</div>
+        {# Optional Page Content #}
+        <div class="text-sm md:text-base">
+          {{ content | safe }}
+        </div>
 
+        {# Button List #}
         <ul class="content text-center text-{{ theme.colors.main }}-100 py-8 w-full">
           {% for item in linkinbio.linkinbio %}
-          <a href="{{ item.link | safe }}" target="_blank" class="lg:p-4 py-3 px-0 block font-bold hover:text-{{ theme.colors.main }}-900 bg-{{ theme.colors.accent }}-600 hover:bg-{{ theme.colors.accent }}-400 mb-4"><li>{{ item.text }}</li></a>
+          <a href="{{ item.link | safe }}" target="_blank" class="lg:p-4 py-3 px-0 block font-bold hover:text-{{ theme.colors.main }}-900 bg-{{ theme.colors.accent }}-600 hover:bg-{{ theme.colors.accent }}-400 mb-4">
+            <li>{{ item.text }}</li>
+          </a>
           {% endfor %}
         </ul>
 
       </main>
 
       <footer id="footer" class="footer h-card bg-{{ theme.colors.main }}-900 flex-shrink-0" role="contentinfo">
-        <div hidden>
-          <img class="u-photo" src="{{ site.author_avatar }}">
-          <p class="p-note">{{ site.author_bio }}</p>
-        </div>
         <div class="footer-inner container m-auto text-{{ theme.colors.main }}-100 pb-8 text-center text-xs md:text-sm">
-          <p>© 2020 <a class="p-name u-url" rel="me" href="{{ site.url }}">{{ site.author_name }}</a>. Built with <a class="hover:text-{{ theme.colors.accent }}-500" href="https://streamsites.xyz/">Stream Sites</a>.</p>
+          <p class="pt-2 md:pt-0">
+            © 2020 <a class="p-name u-url" rel="me" href="{{ site.url }}">{{ site.author_name }}</a>.{% if site.footer_credit === "yes" %} Built with <a class="hover:text-{{ theme.colors.accent }}-500 underline" href="https://streamsites.xyz/">Stream Sites</a>.{% endif %}
+          </p>
         </div>
       </footer>
 

@@ -1,10 +1,10 @@
 ---
 title: Posts
-subtitle: My awesome posts
+subtitle: Blogs, Game Reviews, Stream Highlights, and More!
 image_card:
 image_card_alt:
 seo_title: Posts
-seo_desc: Read all of my awesome posts.
+seo_desc: Blogs, Game Reviews, Stream Highlights, and More!
 pagination:
   data: collections.posts
   size: 12

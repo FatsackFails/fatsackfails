@@ -4,3 +4,6 @@
 dist/
 node_modules/
 LocalValetDriver.php
+package-lock.json
+src/site/posts/samples
+samples

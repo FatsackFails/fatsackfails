@@ -18,7 +18,7 @@ layout: default.njk
 <article class="mx-auto">
 
   {# Title, Date, Tags #}
-  <div class="text-center pt-20 pb-12 flex flex-col">
+  <div class="text-center pt-20 pb-12 flex flex-col px-8">
     <h1 class="order-2 font-bold break-normal text-3xl md:text-5xl mb-0 {{ fontTitle }}">{{ title }}</h1>
     <p class="order-1 text-sm md:text-base text-{{ theme.colors.accent }}-600 dark:text-{{ theme.colors.main }}-100 font-bold {{ fontMeta }}">
       <time datetime="{{ date }}">{{ date | readableDate | upper }}</time>
@@ -42,7 +42,7 @@ layout: default.njk
         {% if video_type === "youtube" and image_card %}
           <img class="preview-image" src="{{ previewImage }}">
         {% elif video_type === "youtube" %}
-          <img class="preview-image" src="http://i3.ytimg.com/vi/{{ video_id }}/maxresdefault.jpg">
+          <img class="preview-image" src="https://i3.ytimg.com/vi/{{ video_id }}/maxresdefault.jpg">
         {% else %}
           <img class="preview-image" src="{{ previewImage }}">
         {% endif %}
@@ -51,11 +51,14 @@ layout: default.njk
     </div>
   </div>
   {% elif image_card %}
-  <div class="w-full max-w-6xl mx-auto bg-white bg-cover md:rounded overflow-hidden" style="height: 50vh; background-image:url('{{ image_card }}'); background-position: center center; background-repeat: no-repeat; background-size: cover;"></div>
+  <div class="hidden lg:block w-full max-w-6xl mx-auto bg-white bg-cover md:rounded overflow-hidden" style="height: 60vh; background-image:url('{{ image_card }}'); background-position: center center; background-repeat: no-repeat; background-size: cover;"></div>
+  <div class="lg:hidden w-full max-w-6xl mx-auto bg-white bg-cover overflow-hidden relative pb-16/9">
+    <img src="{{ image_card }}" class="absolute h-full w-full object-cover">
+  </div>
   {% endif %}
 
   {# Content Wrapper #}
-  <div class="container w-full max-w-5xl mx-auto {% if image_card %}-mt-32{% endif %} bg-{{ theme.colors.main }}-100 dark:bg-{{ theme.colors.main }}-900">
+  <div class="container w-full max-w-5xl mx-auto {% if image_card %}lg:-mt-16{% endif %} bg-white dark:bg-{{ theme.colors.main }}-700 rounded-t">
 
     {# Post Content #}
     <div class="content highlight-{{ theme.colors.accent }} w-full md:px-24 {% if image_card %}p-8 md:pt-24{% else %}px-8{% endif %} pb-0 text-xl leading-normal">
@@ -97,15 +100,15 @@ layout: default.njk
   </div>
 
   {# Author Block #}
-  <div class="h-card container max-w-5xl mx-auto flex w-full items-center px-8 md:px-24 pt-12 pb-20">
-    <img class="u-photo w-10 h-10 rounded-full mr-4" src="{{ site.author_avatar }}" alt="Avatar of {{ site.author_name }}">
-    <div class="flex-1 {{ fontAuthor }} text-{{ theme.colors.main }}-900 dark:text-{{ theme.colors.main }}-100">
-      <p class="p-name text-base md:text-lg font-bold leading-none">{{ site.author_name }}</p>
-      <p class="p-note text-sm md:text-base">{{ site.author_bio }}</p>
+  <div class="h-card container max-w-5xl mx-auto flex w-full items-center px-8 md:px-24 pt-12 pb-20 bg-white dark:bg-{{ theme.colors.main }}-700 rounded-b">
+    <img class="u-photo w-16 h-16 rounded-full mr-4" src="{{ site.author_avatar }}" alt="Avatar of {{ site.author_name }}">
+    <div class="flex-1 {{ fontAuthor }} text-{{ theme.colors.main }}-900 dark:text-{{ theme.colors.main }}-100 pr-4">
+      <p><span class="p-name font-bold leading-none">{{ site.author_name }}</span> -
+      <span class="p-note">{{ site.author_bio }}</span></p>
     </div>
-    <div class="justify-end">
-      <a href="/about" class="bg-transparent border border-{{ theme.colors.accent }}-500 hover:bg-{{ theme.colors.accent }}-400 text-sm text-{{ theme.colors.main }}-900 dark:text-{{ theme.colors.main }}-100 dark-hover:text-{{ theme.colors.main }}-900 font-bold py-2 px-4 rounded-full">{{ authorLink }}</a>
-    </div>
+    {# <div class="justify-end">
+      <a href="/about" class="my-5 h-16 shadow-md font-medium py-2 px-4 text-pink-100 cursor-pointer bg-pink-500 hover:bg-pink-400 rounded text-lg text-center w-48">{{ authorLink }}</a>
+    </div> #}
   </div>
 
 </article>
@@ -138,8 +141,8 @@ layout: default.njk
 </section> #}
 
 {# More Posts #}
-<section class="w-full bg-{{ theme.colors.main }}-800 px-6 py-8">
-  <h2 class="{{ fontMorePosts }} text-2xl md:text-3xl px-8 m-0 py-12 text-center text-{{ theme.colors.accent }}-100">{{ morePosts }}</h2>
+<section class="w-full px-6 py-8">
+  <h2 class="{{ fontMorePosts }} text-2xl md:text-3xl px-8 m-0 py-12 text-center text-{{ theme.colors.main }}-900 dark:text-{{ theme.colors.accent }}-100">{{ morePosts }}</h2>
   <div class="flex flex-wrap mx-auto max-w-6xl justify-center">
     {% set postslist = collections.posts | limit(3) %}
     {% include "postslist.njk" %}

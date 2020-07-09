@@ -2,22 +2,16 @@
   "nav_brand": "logoAndText",
   "main": [
     {
-      "label": "About",
-      "url": "/about/"
-    },
-    {
       "label": "Posts",
       "url": "/posts/"
     },
     {
-      "label": "Contact",
-      "url": "/contact/"
+      "label": "Support",
+      "url": "/support/"
     }
   ],
-  "footer": [
-    {
-      "label": "Privacy",
-      "url": "/privacy/"
-    }
-  ]
+  "nav_button": {
+    "button_text": "Go to Twitch",
+    "button_link": "https://twitch.tv/fatsackfails"
+  }
 }
