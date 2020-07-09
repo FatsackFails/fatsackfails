@@ -58,7 +58,7 @@ Dynamic Data:
         {# Button List #}
         <ul class="content text-center text-{{ theme.colors.main }}-100 py-8 w-full">
           {% for item in linkinbio.linkinbio %}
-          <a href="{{ item.link | safe }}" target="_blank" class="lg:p-4 py-3 px-0 block font-bold hover:text-{{ theme.colors.main }}-900 bg-{{ theme.colors.accent }}-600 hover:bg-{{ theme.colors.accent }}-400 mb-4">
+          <a href="{{ item.link | safe }}" target="_blank" class="lg:p-4 py-3 px-0 block rounded max-w-xl font-bold hover:text-{{ theme.colors.main }}-900 bg-{{ theme.colors.accent }}-600 hover:bg-{{ theme.colors.accent }}-400 mb-4">
             <li>{{ item.text }}</li>
           </a>
           {% endfor %}
