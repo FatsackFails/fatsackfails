@@ -1,16 +1,16 @@
 {
   "linkinbio": [
     {
-      "text": "Twitch",
-      "link": "https://twitch.tv/fatsackfails"
+      "text": "Featured Post",
+      "link": "/featured"
     },
     {
       "text": "Website",
-      "link": "https://fatsackfails.com"
+      "link": "/"
     },
     {
-      "link": "https://fatsackfails.com/category/streamer-resources/",
-      "text": "FREE Streamer Resources"
+      "text": "Twitch",
+      "link": "https://twitch.tv/fatsackfails/about"
     },
     {
       "text": "Support Fatsack",
