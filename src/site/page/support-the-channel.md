@@ -4,6 +4,7 @@ subtitle: Support Fatsack
 slug: support
 seo_title: Support the Stream
 seo_desc: Support Fatsack Fails and waste your money doing so!
+page_type: custom
 ---
 <div class="container flex flex-wrap">
   <article class="max-w-sm sm:max-w-1/2 px-2 pb-8 sm:pb-4">
