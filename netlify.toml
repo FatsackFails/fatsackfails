@@ -2,6 +2,9 @@
   command = "CI= npm run netlify"
   publish = "dist"
 
+[[plugins]]
+  package = "netlify-plugin-image-optim"
+
 [build.processing]
   skip_processing = false
 
