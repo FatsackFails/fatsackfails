@@ -1,9 +1,15 @@
 # Redirects from what the browser requests to what Netlify serves
-/home             /
+/home            /
 /featured        /posts/free-resources-twitch/
-/rss              /rss.xml
-/atom             /atom.xml
-/sitemap          /sitemap.xml
+/analytics       https://app.usefathom.com/share/urpahtzu/fatsackfails.com
+/discord         https://discord.com/invite/WURKdKc
+/twitch          https://twitch.tv/fatsackfails
+/twitter         https://twitter.com/fatsackfails
+/instagram       https://instagram.com/fatsackfails
+/gumroad         https://gumroad.com/fatsackfails
+/rss             /rss.xml
+/atom            /atom.xml
+/sitemap         /sitemap.xml
 /highlights/stories-untold-full/		/posts/stories-untold-full/
 /highlights/until-dawn-full/		/posts/until-dawn-full/
 /highlights/pony-island-full/		/posts/pony-island-full/
