@@ -12,7 +12,7 @@
   <article class="w-full sm:w-1/2 lg:w-1/3 px-2 pb-12">
     <a href="{{ post.url }}" class="h-full bg-{{ theme.colors.main }}-100 dark:bg-{{ theme.colors.main }}-700 rounded overflow-hidden hover:shadow-2xl relative smooth no-underline hover:no-underline flex flex-col border-l-4 border-b-4 border-{{ theme.colors.accent }}-500">
       <div class="relative pb-16/9">
-        <img src="{{ featuredImage }}" class="absolute h-full w-full rounded-t object-cover">
+        <img src="{{ featuredImage }}" alt="{{ featuredImageAlt }}" class="absolute h-full w-full rounded-t object-cover">
       </div>
       <div class="px-6 pt-6 h-auto min-h-32 flex-grow">
         <p class="text-{{ theme.colors.main }}-800 dark:text-{{ theme.colors.main }}-100 text-xs md:text-sm {{ theme_ghostwind.fonts.postslist.tags }}">
