@@ -23,10 +23,7 @@ seo_desc: New Fighting Style & Martial Archetype for the D&D 5e Variant Fighter
   to Dungeons & Dragons 5th Edition.
 ---
 <div class="flex flex-wrap justify-center mb-8">
-<a href="https://www.gmbinder.com/share/-LrIf4k8Z37lw1PmDFOR" target="_blank"
-class="fs-btn mr-4">GM Binder Version</a><a
-href="/images/clever-brawler-v1-0.pdf" target="_blank" class="fs-btn">PDF
-Version</a></div>
+<a href="https://www.gmbinder.com/share/-LrIf4k8Z37lw1PmDFOR" target="_blank" class="fs-btn mr-4">GM Binder Version</a> <a href="/images/clever-brawler-v1-0.pdf" target="_blank" onclick="fathom.trackGoal('QJ6NPGMJ', 0);">PDF Version</a></div>
 
 <p>I've been playing Dungeons & Dragons 5e over on <a href="https://twitch.tv/resonantdrifter" target="_blank">Resonant Drifter's</a> Twitch channel every Tuesday for some time now with my character Traelus Hasi'Tali. Traelus is an Improvised Weapon Fighter, and his character concept is the wandering hero who goes from town to town adventuring and being able to handle unexpected combat without having a proper weapon. I kitbashed his class features a while ago using various sources to try and get a quick and dirty version of the class that would suit my needs.</p>
 
@@ -82,4 +79,4 @@ At this point I felt pretty good about how the Subclass was shaping up, so all t
 <p>On a successful hit, the creature takes damage equal to your ability modifier and has to make a Strength saving throw or be knocked prone. Either way you fall prone as well.</p>
 </div>
 
-Feel free to check out the full write up of the Subclass on <a href="https://www.gmbinder.com/share/-LrIf4k8Z37lw1PmDFOR" target="_blank">GM Binder</a> or download the <a href="/images/clever-brawler-v1-0.pdf" target="_blank">PDF</a> to use yourself!
+Feel free to check out the full write up of the Subclass on <a href="https://www.gmbinder.com/share/-LrIf4k8Z37lw1PmDFOR" target="_blank">GM Binder</a> or download the <a href="/images/clever-brawler-v1-0.pdf" target="_blank" onclick="fathom.trackGoal('QJ6NPGMJ', 0);">PDF</a> to use yourself!
