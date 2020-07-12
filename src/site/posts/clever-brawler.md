@@ -1,27 +1,26 @@
 ---
+excerpt: New Fighting Style & Martial Archetype for the Variant Fighter by
+  [Vorpal Dice Press](https://twitter.com/vorpaldicepress). Focuses mainly on
+  Improvised Weapons and Unarmed combat as well as the Maneuvers feature to
+  better suit the 'Wandering Hero' role.
+image_card_credit: "[Clint Bustrillos](https://unsplash.com/@clintbustrillos) on Unsplash"
 title: Clever Brawler Variant Fighter Subclass - D&D 5e
 slug: clever-brawler
 date: 2019-10-18T15:51:45.982Z
 dateMod: Last Modified
 post_type: article
-image_card: /images/tabletop01-cropped.jpg
-image_card_alt: Some board game pieces on a table representing characters in battle.
-image_card_credit: >-
-  [Clint Bustrillos](https://unsplash.com/@clintbustrillos)
-  on Unsplash
-excerpt: >-
-  New Fighting Style & Martial Archetype for the Variant Fighter by [Vorpal Dice
-  Press](https://twitter.com/vorpaldicepress).
-  Focuses mainly on Improvised Weapons and Unarmed combat as well as the
-  Maneuvers feature to better suit the 'Wandering Hero' role.
-teaser: >-
-  New Fighting Style & Martial Archetype for the D&D 5e Variant Fighter by Vorpal Dice Press.
 category: Tabletop RPGs
 tags:
-  - D&D
+  - Dungeons and Dragons
+image_card: /images/tabletop01-cropped.jpg
+image_card_alt: Some board game pieces on a table representing characters in battle.
+teaser: New Fighting Style & Martial Archetype for the D&D 5e Variant Fighter by
+  Vorpal Dice Press.
 seo_title: Clever Brawler Variant Fighter Subclass - D&D 5e
-seo_desc: >-
-  New Fighting Style & Martial Archetype for the D&D 5e Variant Fighter by Vorpal Dice Press. Focuses mainly on Improvised Weapons and Unarmed combat as well as the Maneuvers feature to bring the 'Wandering Action Hero' concept to Dungeons & Dragons 5th Edition.
+seo_desc: New Fighting Style & Martial Archetype for the D&D 5e Variant Fighter
+  by Vorpal Dice Press. Focuses mainly on Improvised Weapons and Unarmed combat
+  as well as the Maneuvers feature to bring the 'Wandering Action Hero' concept
+  to Dungeons & Dragons 5th Edition.
 ---
 <div class="flex flex-wrap justify-center mb-8">
 <a href="https://www.gmbinder.com/share/-LrIf4k8Z37lw1PmDFOR" target="_blank"
