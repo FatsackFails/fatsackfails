@@ -15,9 +15,10 @@ class DarkMode {
     this.toggleBtn = document.querySelector(SELECTORS.toggleBtn)
     this.isActive = false
 
-    if (this.toggleBtn) {
-      this.toggleBtn.addEventListener('click', () => this.toggle())
-    }
+  this.toggleBtn.addEventListener('click', () => {
+    fathom.trackGoal('UZG5VJG0', 0)
+    this.toggle()
+  });
 
     this.init()
   }
