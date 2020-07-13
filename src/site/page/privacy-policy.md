@@ -60,7 +60,7 @@ Your information, including Personal Data, may be transferred to — and maintai
 If you are located outside United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to United States and process it there.
 
 Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
-Fatsack Gaming will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+Fatsack Fails will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
 
 ## Disclosure Of Data
 
@@ -68,7 +68,7 @@ Fatsack Gaming will take all steps reasonably necessary to ensure that your data
 
 We may disclose your Personal Data in the good faith belief that such action is necessary to:
 - To comply with a legal obligation
-- To protect and defend the rights or property of Fatsack Gaming
+- To protect and defend the rights or property of Fatsack Fails
 - To prevent or investigate possible wrongdoing in connection with the Website
 - To protect the personal safety of users of the Website or the public
 - To protect against legal liability
@@ -88,6 +88,8 @@ These third parties have access to your Personal Data only to perform these task
 Our Website may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
 
 We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or Websites.
+
+Certain third party links may also be affiliate links. We advise reviewing our [Affiliate Disclaimer](/affiliate-disclaimer) to learn what that means and how it can affect you.
 
 ## Children's Privacy
 
