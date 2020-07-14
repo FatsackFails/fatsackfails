@@ -12,11 +12,11 @@
     let videoType = document.getElementById("video-frame").dataset.type;
     function getUrl() {
       if (videoType === "clip") {
-        return "https://clips.twitch.tv/embed?clip=";
+        return "https://clips.twitch.tv/embed?parent=fatsackfails.com&clip=";
       } else if (videoType === "vod") {
-        return "https://player.twitch.tv/?autoplay=false&video=v";
+        return "https://player.twitch.tv/?autoplay=false&parent=fatsackfails.com&video=v";
       } else if (videoType === "collection") {
-        return "https://player.twitch.tv/?autoplay=false&collection=";
+        return "https://player.twitch.tv/?autoplay=false&parent=fatsackfails.com&collection=";
       } else if (videoType === "youtube"){
         return "https://www.youtube-nocookie.com/embed/";
       } else if (videoType === "playlist") {
