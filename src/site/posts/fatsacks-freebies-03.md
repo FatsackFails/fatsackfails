@@ -11,9 +11,9 @@ image_card: /images/fatsacks-freebies-03-flair.png
 excerpt: "This pack of 24 Twitch Sub Badge Flairs I've created goes well with my
   [Sub Badge set](/posts/fatsack-freebies-01). This product is *Pay What You
   Want*, meaning if you want to get it for free all you have to do is put `0` in
-  the price!\r If you'd like you can see the [thread on
-  Twitter](https://twitter.com/FatsackFails/status/1283871221499781120) of me
-  making these.
+  the price!\r If you'd like you can read the [thread on
+  Twitter](https://twitter.com/FatsackFails/status/1283871221499781120) where I
+  discuss making these.
 
   \r\n"
 teaser: Let your Tier 2 and Tier 3 Subs stand out with these Badge Flairs!
