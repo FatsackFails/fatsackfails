@@ -76,4 +76,4 @@ I highly recommend checking out [Learn Eleventy From Scratch](https://piccalil.l
 
 If you want to get the basics of what Eleventy can do, Tatiana Mac has a great blog series: [Beginner's Guide to Eleventy](https://tatianamac.com/posts/beginner-eleventy-tutorial-parti/).
 
-I hope my words here help you in getting Windows 10 ready for front end web development! Let me know if you find something that would make this setup more useful! If you want to see what I've been able to do with Eleventy, you can check out [my site's repo](https://github.com/FatsackFails/fatsackfails).
+I hope my words here help you in getting Windows 10 ready for front end web development! Let me know if you find something that would make this setup more useful! If you want to see what I'm doing with Eleventy, you can check out [my site's repo](https://github.com/FatsackFails/fatsackfails).
