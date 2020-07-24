@@ -26,25 +26,23 @@ Getting WSL 2 set up took way longer than it should have due to my Windows not w
 
 Once Windows is updated to the correct version, we can [enable WSL 2 as described by Microsoft's help docs](https://docs.microsoft.com/en-us/windows/wsl/install-win10). Make sure you open PowerShell as an Admin or the commands won't go through.
 
-#### Enable Windows Subsystem for Linux
-
 ```bash
+# Enable Windows Subsystem for Linux
 dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
-```
 
-#### Enable the 'Virtual Machine Platform' component
-
-```bash
+# Enable the 'Virtual Machine Platform' component
 dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
-```
 
-#### Set WSL 2 as your default version
-
-```bash
+# Set WSL 2 as your default version
 wsl --set-default-version 2
 ```
 
-You'll probably see a message after running that command: `WSL 2 requires an update to its kernel component. For information please visit https://aka.ms/wsl2kernel.` Simply [follow the link](https://aka.ms/wsl2kernel), install the MSI and after it's finished run the command again.
+You'll probably see a message after running that command: `WSL 2 requires an update to its kernel component. For information please visit https://aka.ms/wsl2kernel.` [Follow the link](https://aka.ms/wsl2kernel), install the MSI and after it's finished run the command again.
+
+```bash
+# Run this again after installing the kernel component.
+wsl --set-default-version 2
+```
 
 Once that's all done, WSL 2 is enabled on your PC! Now you can install Linux. Go to the Microsoft Store and head to the [WSL section](https://aka.ms/wslstore) and get whichever flavor of Linux you want to use. I picked Ubuntu as that's the one I'm most familiar with. Launch it once it's installed, and then you can [set up the user name and password](https://docs.microsoft.com/en-us/windows/wsl/user-support).
 
@@ -65,10 +63,10 @@ From here you'll want to download all the different packages you'll need for wha
 For my online course I first needed to install Node.js with `npm init -y`, but I had to install curl and nvm before I could run that command.
 
 ```bash
-# First install curl
+# Install curl
 sudo apt install curl
 
-# Then install nvm
+# Install nvm
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
 ```
 
