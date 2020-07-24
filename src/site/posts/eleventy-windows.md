@@ -28,19 +28,19 @@ Once Windows is updated to the correct version, we can [enable WSL 2 as describe
 
 #### Enable Windows Subsystem for Linux
 
-```
+```bash
 dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
 ```
 
 #### Enable the 'Virtual Machine Platform' component
 
-```
+```bash
 dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
 ```
 
 #### Set WSL 2 as your default version
 
-```
+```bash
 wsl --set-default-version 2
 ```
 
@@ -64,8 +64,18 @@ From here you'll want to download all the different packages you'll need for wha
 
 For my online course I first needed to install Node.js with `npm init -y`, but I had to install curl and nvm before I could run that command.
 
-`sudo apt install curl`
+```bash
+# First install curl
+sudo apt install curl
 
-`curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash`
+# Then install nvm
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
+```
 
-It took me some time getting WSL 2, Linux, Hyper, and VS Code up and running, but once I did I was able to jump into the course work and start learning! I highly recommend checking out [Learn Eleventy From Scratch](https://piccalil.li/course/learn-eleventy-from-scratch/) if you want an in depth look at Eleventy, great design practices, and a lot of practical knowledge of creating accessible web content. If you want to get the basics of what Eleventy can do, Tatiana Mac has a great blog series: [Beginner's Guide to Eleventy](https://tatianamac.com/posts/beginner-eleventy-tutorial-parti/). I hope my words here help you in getting Windows 10 ready for front end web development! Let me know if you find something that would make this setup more useful!
+It took me some time getting WSL 2, Linux, Hyper, and VS Code up and running, but once I did I was able to jump into the course work and start learning!
+
+I highly recommend checking out [Learn Eleventy From Scratch](https://piccalil.li/course/learn-eleventy-from-scratch/) if you want an in depth look at Eleventy, great design practices, and a lot of practical knowledge of creating accessible web content.
+
+If you want to get the basics of what Eleventy can do, Tatiana Mac has a great blog series: [Beginner's Guide to Eleventy](https://tatianamac.com/posts/beginner-eleventy-tutorial-parti/).
+
+I hope my words here help you in getting Windows 10 ready for front end web development! Let me know if you find something that would make this setup more useful!
