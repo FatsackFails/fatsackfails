@@ -61,6 +61,10 @@
 		"postcss-cli": "^7.1.1",
 		"tailwindcss": "^1.4.6",
 		"tailwindcss-dark-mode": "^1.1.4",
+<<<<<<< HEAD
 		"terser": "^4.8.0"
+=======
+		"terser": "^4.8.0",
+>>>>>>> 51f9d8c02444c6855c0a28ec01ff10078ca8bbc8
 	}
 }
