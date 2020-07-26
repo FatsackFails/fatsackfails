@@ -14,6 +14,8 @@ layout: default.njk
 {% set prevPostLabel = theme.labels.prevPost or "Older: " %}
 {% set authorLink = theme.labels.authorLink or "Read More" %}
 {% set morePosts = theme.labels.morePosts or "More Posts to Peruse" %}
+{# Grab other posts that aren't this one for the 'more from the blog' feed #}
+{% set recommendedPosts = helpers.getSiblingContent(collections.posts, page) %}
 
 <article class="mx-auto">
 
@@ -141,13 +143,15 @@ layout: default.njk
 </section> #}
 
 {# More Posts #}
+{% if recommendedPosts %}
 <section class="w-full px-6 py-8">
   <h2 class="{{ fontMorePosts }} text-2xl md:text-3xl px-8 m-0 py-12 text-center text-{{ theme.colors.main }}-900 dark:text-{{ theme.colors.accent }}-100">{{ morePosts }}</h2>
   <div class="flex flex-wrap mx-auto max-w-6xl justify-center">
-    {% set postslist = collections.posts | limit(3) %}
+    {% set postslist = recommendedPosts %}
     {% include "postslist.njk" %}
   </div>
 </section>
+{% endif %}
 
 {# Scroll Progress Script
 TODO: move to default.njk #}
