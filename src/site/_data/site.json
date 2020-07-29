@@ -1,6 +1,6 @@
 {
-  "google_verification": "",
   "pinterest_verification": "",
+  "google_verification": "",
   "domain": "fatsackfails.com",
   "privacy_email": "hello@fatsackfails.com",
   "author_email": "hello@fatsackfails.com",
@@ -16,14 +16,14 @@
   "twitch_handle": "fatsackfails",
   "author_bio": "Content creator on Twitch. Likes video games, TTRPGs, eclectic music, and stiff drinks. He/Him",
   "favicon": "/images/favicon.png",
-  "image_card": "/images/ss-card.jpg",
+  "image_card": "/images/site-card.png",
   "twitch_client": "",
   "language": "en-US",
   "search_engine": "https://duckduckgo.com/",
   "locale": "en",
   "description": "The main hub for everything related to Fatsack Fails. Blogs, Merch, Streamer Resources, and more.",
   "footer_credit": "yes",
-  "image_card_alt": "Stream Sites logo",
+  "image_card_alt": "Fatsack Fails",
   "author_name": "Fatsack",
   "author_twitter": "@fatsackfails"
 }
