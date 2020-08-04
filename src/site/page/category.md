@@ -4,8 +4,6 @@ subtitle: Categorized Under
 slug: category
 image_card:
 image_card_alt:
-seo_title: Categorized "{{ category }}"
-seo_desc: All posts categorized "{{ category }}"
 pagination:
   data: collections.category
   size: 1
@@ -14,6 +12,8 @@ pagination:
 eleventyComputed:
   archive_title: >-
     {{ subtitle }} "{{ category }}"
+  archive_desc: >-
+    All posts categorized {{ category }}
 layout: archive.njk
 type: core
 key: categorized

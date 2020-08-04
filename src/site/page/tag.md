@@ -4,8 +4,6 @@ subtitle: Tagged Under
 slug: tags
 image_card:
 image_card_alt:
-seo_title: Tagged {{ tag }}
-seo_desc: All posts tagged {{ tag }}
 pagination:
   data: collections
   size: 1
@@ -23,6 +21,8 @@ pagination:
 eleventyComputed:
   archive_title: >-
     {{ title }} {{ tag }}
+  archive_desc: >-
+    All posts tagged {{ tag }}
 layout: archive.njk
 type: core
 key: tagged
