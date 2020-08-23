@@ -7,25 +7,34 @@ image_card:
 image_card_alt:
 excerpt: >-
 
-seo_title: About Fatsack
-seo_desc: Get to know Fatsack!
+seo_title: About
+seo_desc: Learn more.
 type: core
 layout: page.njk
 ---
-I started streaming in 2015 as a way to scratch an itch that I could no longer scratch in the real world due to a busy schedule and other responsibilities. I was very active with musical theater throughout high school, and I tried to pursue theater further after graduating. Unfortunately, due to becoming an adult™ I could no longer afford the time and money needed to be involved with theater productions.
+## About This Site
+Hey there, I'm Ethan! This is my personal site where I collect all of my thoughts about video games, web development, live streaming, content creation, and more. It's also where you can watch content from my Twitch channel, read reviews and recommendations, and check out the different resources I make for live streamers.
 
-Streaming on Twitch allows me to have that moment in the spotlight again, with less time and money that has to be invested up front. It also allows me to be the attention whore that I so desperately have to be.
+<div class="flex flex-wrap bg-fspurple-800 font-mono justify-center my-8 mx-auto">
+I'm currently available for stream consultations, as well as graphic design work for your Twitch channel. Get in touch!
+</div>
 
-I'm not a pro-player in any sense of the word, and very often fail miserably at the game at hand. I don't get angry very easily, so I try to turn my failures into the audience's entertainment. We keep a tally of how often I've died, and hand out chat points for spectacular fails.
+## What You Get Out of This
+If you are a content creator like me, you're probably figuring things out as you go. Whenever I figure out something new I like to write about it. You can learn from my mistakes, and get insight on how to approach different things like live streaming, video game modding, web development and many other things.
 
-I've taken a casual approach to streaming, with a fairly laid back attitude for everything involved in it. The rules for my channel are pretty basic: treat others how you would like to be treated.
+I also create things, and when I make something that I think will be useful I share it here for you. I also review stuff and make recommendations about the different things I find useful or entertaining.
 
-I play a lot of different types of games. If there isn't a whole lot of spoken dialogue in a game, I like to read the text out loud with different voices and turn it into a performance. I enjoy games that I can tinker with using mods like Skyrim and Fallout.
+Finally, if you're a member of my Twitch community, you'll find curated content of the best stuff that's happened live. You'll also find the latest news for any exciting community events going on, important info about the live stream, or other projects I'm working on.
 
-RPGs, rhythm games, adventure games, shooters, MOBAs, visual novels, I enjoy an eclectic assortment of games. Tabletop RPGs become mini-performances when I play them. Expect silly voices, ACTING™, and other aspects to make the experience of watching as enjoyable as possible.
+## Fast Fatsack Facts
+I'm 30 years old. My birthday is February 27th, 1990. I like to celebrate the entire week leading up to my birthday (because I'm full of myself) with a fake holiday known as Birthday Week.
 
-I enjoy writing homebrew for the Tabletop RPG games I play and sharing them for others to use in their own games.
+I currently live in Austin, Texas. It's nice here, but very hot and VERY humid. Originally from New Mexico. I lived in Albuquerque most of my life, and went to high school in Los Alamos.
 
-When I'm not streaming I'm enjoy reading, comics, podcasts, video essays, as well as working on my craft as a jack of all trades designer.
+I've been streaming on Twitch since 2015. I stream lots of different types of games and enjoy interacting with chat. Fallout 4 was the first game I streamed on Twitch.
 
-I also like to design my own emotes, overlays, sound effects, and artwork for my channel. I enjoy learning how to make things and sharing that knowledge with others.
+I like to learn new things, and enjoying improving my skills by making things. I create a lot of the art and graphic design for my channel, design parts or tweak sections of my website, and dabble in a lot of different disciplines.
+
+<div class="flex flex-wrap bg-fspurple-800 font-mono justify-center my-8 mx-auto">
+Have a business opportunity, or want to collaborate with me? Get in touch!
+</div>
