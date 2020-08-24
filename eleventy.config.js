@@ -7,6 +7,7 @@ const config = require('./src/site/_data/theme.json');
 // 11ty Files
 const filters = require('./src/utils/filters.js');
 const collections = require('./src/utils/collections.js');
+const shortcodes = require('./src/utils/shortcodes.js');
 //const transforms = require('./src/utils/transforms.js');
 
 // Markdown Plugins
@@ -34,7 +35,14 @@ module.exports = function (eleventyConfig) {
   Object.keys(collections).forEach(collectionName => {
     eleventyConfig.addCollection(collectionName, collections[collectionName])
   });
-
+  
+/**
+   * Add Shortcodes
+   * @link https://www.11ty.io/docs/shortcodes/
+   */
+  Object.keys(shortcodes).forEach(shortcodeName => {
+    eleventyConfig.addShortcode(shortcodeName, shortcodes[shortcodeName])
+  });
   // WIP: Transforms
   // Object.keys(transforms).forEach(transformName => {
   //   eleventyConfig.addTransform(transformName, transforms[transformName])
