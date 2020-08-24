@@ -24,13 +24,13 @@ Dynamic Data:
 
   </head>
 
-  <body class="h-full w-full font-sans text-lg leading-normal bg-{{ theme.colors.main }}-900 text-{{ theme.colors.main }}-100 px-6">
+  <body class="h-full w-full font-sans text-lg leading-normal bg-{{ theme.colors.main }}-700 text-{{ theme.colors.main }}-100 px-6">
 
     <a href="#main" class="sr-skip-link">skip to main content</a>
 
     <div class="wrapper flex flex-col items-stretch min-h-full">
 
-      <header id="header" class="header bg-{{ theme.colors.main }}-900 p-6 border-b border-{{ theme.colors.main }}-900 flex-shrink-0">
+      <header id="header" class="header bg-{{ theme.colors.main }}-700 p-6 flex-shrink-0">
       	<div class="container flex flex-wrap justify-center items-center m-auto">
       		{# Branding #}
     			<a class="flex items-center hover:text-{{ theme.colors.accent }}-600 dark-hover:text-{{ theme.colors.accent }}-600 hover:no-underline" href="/">
@@ -54,13 +54,13 @@ Dynamic Data:
 
         <ul class="text-center text-{{ theme.colors.main }}-100 py-4 w-full">
           {% for item in linkinbio.linkinbio %}
-          <a href="{{ item.link | safe }}" target="_blank" class="rounded lg:p-4 py-3 px-0 block font-bold hover:text-{{ theme.colors.main }}-900 bg-{{ theme.colors.accent }}-600 hover:bg-{{ theme.colors.accent }}-400 mb-4"><li>{{ item.text }}</li></a>
+          <a href="{{ item.link | safe }}" target="_blank" class="rounded lg:p-4 py-3 px-0 block font-bold mb-4 text-fspurple-100 hover:text-fspurple-900 shadow-md font-medium cursor-pointer border-fspink-500 border-4 hover:bg-fspink-500 rounded text-lg text-center no-underline"><li>{{ item.text }}</li></a>
           {% endfor %}
         </ul>
 
       </main>
 
-      <footer id="footer" class="footer h-card bg-{{ theme.colors.main }}-900 flex-shrink-0" role="contentinfo">
+      <footer id="footer" class="footer h-card bg-{{ theme.colors.main }}-700 flex-shrink-0" role="contentinfo">
         <div class="footer-inner container m-auto text-{{ theme.colors.main }}-100 pb-8 text-center text-xs md:text-sm">
           <p class="pt-2 md:pt-0">
             © 2020 <a class="p-name u-url" rel="me" href="{{ site.url }}">{{ site.author_name }}</a>.{% if site.footer_credit === "yes" %} Built with <a class="hover:text-{{ theme.colors.accent }}-500 underline" href="https://streamsites.xyz/">Stream Sites</a>.{% endif %}
