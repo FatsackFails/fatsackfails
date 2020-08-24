@@ -329,17 +329,18 @@ pre[class*="language-"] {
   background-image: linear-gradient(180deg, transparent 70%, rgba(250, 136, 200, .7) 0);
 }
 
-.highlight-fspink .no-underline,
-.mode-dark .highlight-fspink .no-underline,
-.highlight-fspink a:hover.no-underline,
-.highlight-fspink a:active.no-underline,
-.highlight-fspink a:focus.no-underline,
-.mode-dark .highlight-fspink a:hover.no-underline,
-.mode-dark .highlight-fspink a:focus.no-underline,
-.mode-dark .highlight-fspink a:active.no-underline {
+[class*="highlight-"] .no-underline,
+[class*="highlight-"] a:hover.no-underline,
+[class*="highlight-"] a:active.no-underline,
+[class*="highlight-"] a:focus.no-underline,
+.mode-dark [class*="highlight-"] .no-underline,
+.mode-dark [class*="highlight-"] a:hover.no-underline,
+.mode-dark [class*="highlight-"] a:active.no-underline,
+.mode-dark [class*="highlight-"] a:focus.no-underline {
   background-image: none;
   color: unset;
 }
+
 /* Markdown Formatting */
 
 .content p {
