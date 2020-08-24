@@ -13,5 +13,11 @@
   "nav_button": {
     "button_text": "Go to Twitch",
     "button_link": "https://twitch.tv/fatsackfails"
-  }
+  },
+  "footer": [
+    {
+      "label": "Affiliate Disclaimer",
+      "url": "/affiliate-disclaimer/"
+    }
+  ]
 }
