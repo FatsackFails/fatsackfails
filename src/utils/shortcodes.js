@@ -35,18 +35,13 @@ module.exports = {
     </div>`;
   },
 
-  button: (button_text, button_url) => {
-    return `<div class="mt-8 flex lg:flex-shrink-0 lg:mt-0 text-fspurple-100 hover:text-fspurple-900">
-      <div class="inline-flex rounded-md shadow">
-        <a href="${button_url}" class="shadow-md font-medium py-2 px-4 cursor-pointer border-fspink-500 border-4 hover:bg-fspink-500 rounded text-lg text-center w-48 no-underline">
-          ${button_text}
-        </a>
-      </div>
-    </div>`;
+  button: (button_text, button_url, target) => {
+    return `<a href="${button_url}" ${target} rel="noopener noreferrer" class="h-16 text-fspurple-100 hover:text-fspurple-900 bg-fspurple-700 shadow-md font-medium py-2 px-4 cursor-pointer border-fspink-500 border-4 hover:bg-fspink-500 rounded text-lg text-center w-48 no-underline">
+    ${button_text}</a>`;
   },
 
-  buttonIcon: (button_text, button_url, icon) => {
-    return `<a href="${button_url}" target="_blank" rel="noopener noreferrer" class="h-16 text-fspurple-100 hover:text-fspurple-900 bg-fspurple-700 shadow-md font-medium py-2 px-4 cursor-pointer border-fspink-500 border-4 hover:bg-fspink-500 rounded text-lg text-center w-48 no-underline">
+  buttonIcon: (button_text, button_url, icon, target) => {
+    return `<a href="${button_url}" ${target} rel="noopener noreferrer" class="h-16 text-fspurple-100 hover:text-fspurple-900 bg-fspurple-700 shadow-md font-medium py-2 px-4 cursor-pointer border-fspink-500 border-4 hover:bg-fspink-500 rounded text-lg text-center w-48 no-underline">
       <svg class="inline-block h-5 w-5 mr-2" fill="currentColor" role="img" aria-hidden="true">
         <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/images/icons/icon-library.svg#${icon}"></use>
       </svg>
