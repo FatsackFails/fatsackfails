@@ -21,7 +21,7 @@ layout: default.njk
 
   {# Title, Date, Tags #}
   <div class="text-center pt-20 pb-12 flex flex-col px-8">
-    <h1 class="order-2 font-bold break-normal text-3xl md:text-5xl mb-0 {{ fontTitle }}">{{ title }}</h1>
+    <h1 class="order-2 font-extrabold tracking-tight break-normal text-3xl md:text-5xl mb-0 {{ fontTitle }}">{{ title }}</h1>
     <p class="order-1 text-sm md:text-base text-{{ theme.colors.accent }}-600 dark:text-{{ theme.colors.main }}-100 font-bold {{ fontMeta }}">
       <time datetime="{{ date }}">{{ date | readableDate | upper }}</time>
       <span class="px-1 text-{{ theme.colors.main }}-900 dark:text-{{ theme.colors.main }}-100">/</span>
