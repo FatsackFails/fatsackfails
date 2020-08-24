@@ -1,18 +1,25 @@
 <section class="container max-w-5xl mx-auto px-6">
-<div class="flex flex-col p-8 md:flex-row container mx-auto justify-between">
-  <img alt="Fatsack" class="rounded-full sm:h-72 sm:w-72 lg:w-90 lg:h-90" src="/images/fatsack.png">
-  <div class="md:max-w-md md:ml-5 text-left">
-      <h1 class="sm:text-3xl md:text-4xl lg:text-5xl text-2xl uppercase font-black mb-5">Hi, I'm Fatsack.</h1>
-      <p class="mb-8">Since 2015 I've been sharing my passion for video games, graphic design, web development, tabletop roleplaying, and weird eclectic music with my community on Twitch. Expect silly humor, good conversation, and positive attitudes with a dash of so-bad-it's-good gameplay.</p>
-      <a href="https://twitch.tv/fatsackfails/about" target="_blank" rel="noopener noreferrer" class="h-16 text-fspurple-100 hover:text-fspurple-900 shadow-md font-medium py-2 px-4 cursor-pointer border-fspink-500 border-4 hover:bg-fspink-500 rounded text-lg text-center w-48 no-underline">
-        <svg class="inline-block h-5 w-5 mr-2" fill="currentColor" role="img" aria-hidden="true">
-          <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/images/icons/icon-library.svg#twitch"></use>
-        </svg>
-      Follow me on Twitch</a>
-  </div>
-</div>
+  <h1 class="sm:text-3xl md:text-4xl lg:text-5xl text-2xl uppercase font-extrabold mb-5">Hi, I'm Fatsack.
+  </h1>
+
+  <section class="md:flex flex-wrap">
+    <div class="md:w-1/2 md:mx-auto mb-8">
+      <img alt="Fatsack" class="rounded sm:h-72 sm:w-72 lg:w-90 lg:h-90" src="/images/fatsack.png">
+    </div>
+    <section class="md:w-1/2 md:mx-auto mb-8">
+      <p class="mb-4">This is my personal site where I collect all of my thoughts to share with you. It's also where you can watch content from my Twitch channel, read reviews and recommendations, and check out the different resources I make for live streamers.
+      </p>
+
+      <p class="mb-8">Since 2015 I've been sharing my passion for video games, graphic design, web development, tabletop roleplaying, and weird eclectic music with my community on Twitch. Expect silly humor, good conversation, and positive attitudes with a dash of so-bad-it's-good gameplay.
+      </p>
+
+      {% buttonIcon "Follow me on Twitch", "https://twitch.tv/fatsackfails/about", "twitch", 'target="_blank"' %}
+    </section>
+  </section>
+  {% cta "I'm currently available for:", "stream consultations & graphic design for your Twitch channel.", "Get in touch!", "/contact/" %}
 </section>
-<section class="container xl:min-w-6xl max-w-6xl mx-auto py-12 px-6 lg:px-0">
+
+<section class="container xl:min-w-6xl max-w-6xl mx-auto pt-12 px-6 lg:px-0">
   <div class="flex flex-wrap mx-auto">
     {% set postslist = collections.category["Streamer Resources"] | reverse | limit(1) %}
     {% include "postslist.njk" %}
@@ -20,6 +27,20 @@
     {% include "postslist.njk" %}
     {% set postslist = collections.category["Fatsack News"] | reverse | limit(1) %}
     {% include "postslist.njk" %}
+  </div>
+</section>
+
+<section class="container max-w-5xl mx-auto px-6 -mt-12">
+<h2 class="sm:text-2xl md:text-3xl lg:text-4xl text-xl uppercase font-extrabold mb-5">What You Get Out of This</h2>
+<p class="mb-4">If you are a content creator like me, you're probably figuring things out as you go. Whenever I figure out something new I like to write about it. You can learn from my mistakes, and get insight on how to approach different things like live streaming, video game modding, web development and many other things.</p>
+
+<p class="mb-4">I also create things, and when I make something that I think will be useful I share it here for you. I also review stuff and make recommendations about the different things I find useful or entertaining.</p>
+
+<p class="mb-4">Finally, if you're a member of my Twitch community, you'll find curated content of the best stuff that's happened live. You'll also find the latest news for any exciting community events going on, important info about the live stream, or other projects I'm working on.</p>
+</section>
+
+<section class="container xl:min-w-6xl max-w-6xl mx-auto pt-12 px-6 lg:px-0">
+  <div class="flex flex-wrap mx-auto">
     {% set postslist = collections.category["Game Reviews"] | reverse | limit(1) %}
     {% include "postslist.njk" %}
     {% set postslist = collections.category["Tabletop RPGs"] | reverse | limit(1) %}
@@ -27,4 +48,51 @@
     {% set postslist = collections["Play Throughs"] | reverse | limit(1) %}
     {% include "postslist.njk" %}
   </div>
+</section>
+
+{# <section class="container max-w-5xl mx-auto px-6 -mt-12">
+  <h2 class="sm:text-2xl md:text-3xl lg:text-4xl text-xl uppercase font-extrabold mb-5">Fast Fatsack Facts
+  </h2>
+  <p class="mb-4">I'm 30 years old. My birthday is February 27th, 1990. I like to celebrate the entire week leading up to my birthday (because I'm full of myself) with a fake holiday known as Birthday Week.
+  </p>
+
+  <p class="mb-4">I currently live in Austin, Texas. It's nice here, but very hot and VERY humid. Originally from New Mexico. I lived in Albuquerque most of my life, and went to high school in Los Alamos.
+  </p>
+
+  <p class="mb-4">I've been streaming on Twitch since 2015. I stream lots of different types of games and enjoy interacting with chat. Fallout 4 was the first game I streamed on Twitch.
+  </p>
+
+  <p class="mb-8">I like to learn new things, and enjoying improving my skills by making things. I create a lot of the art and graphic design for my channel, design parts or tweak sections of my website, and dabble in a lot of different disciplines.
+  </p>
+
+<section class="mb-12">
+  {% cta "Want to collaborate with me?", "Have a business opportunity?", "Let's chat!", "/contact/" %}
+</section>
+
+</section> #}
+<section class="container max-w-5xl mx-auto px-6 -mt-12">
+  <h2 class="sm:text-2xl md:text-3xl lg:text-4xl text-xl uppercase font-extrabold mb-5">Fast Fatsack Facts
+  </h2>
+
+  <section class="md:flex flex-wrap">
+    <div class="md:w-1/2 md:mx-auto mb-8">
+      <img alt="Fatsack" class="rounded sm:h-72 sm:w-72 lg:w-100 lg:h-100" src="/images/about-fatsack-01.jpg">
+    </div>
+    <section class="md:w-1/2 md:mx-auto mb-8">
+      <p class="mb-4">I'm 30 years old. My birthday is February 27th, 1990. I like to celebrate the entire week leading up to my birthday (because I'm full of myself) with a fake holiday known as Birthday Week.
+      </p>
+
+      <p class="mb-4">I currently live in Austin, Texas. It's nice here, but very hot and VERY humid. Originally from New Mexico. I lived in Albuquerque most of my life, and went to high school in Los Alamos.
+      </p>
+
+      <p class="mb-4">I've been streaming on Twitch since 2015. I stream lots of different types of games and enjoy interacting with chat. Fallout 4 was the first game I streamed on Twitch.
+      </p>
+
+      <p class="mb-4">I like to learn new things, and enjoying improving my skills by making things. I create a lot of the art and graphic design for my channel, design parts or tweak sections of my website, and dabble in a lot of different disciplines.
+      </p>
+    </section>
+  </section>
+<section class="mb-12">
+  {% cta "Want to collaborate with me?", "Have a business opportunity?", "Let's chat!", "/contact/" %}
+</section>
 </section>
