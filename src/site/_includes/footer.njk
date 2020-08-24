@@ -20,20 +20,26 @@
       </nav>
       {# Social Links #}
       <address>
-        <ul class="flex flex-row flex-wrap list-none">
-        {% for icon, link in social %}
-          {% if link %}
+        <ul class="flex flex-row flex-wrap list-none" aria-label="Social Media Links">
+          {% for item, link in social %}
+          {% if link != "" %}
           <li>
-            <a href="{{ link | safe }}" class="block p-2 hover:text-{{ theme.colors.accent }}-500" aria-label="{{ icon | capitalize }}" rel="me noopener noreferrer" title="{{ icon }}" target="_blank">
-              <svg class="inline-block h-5 w-5 sm:h-4 sm:w-4" fill="currentColor" role="img" aria-hidden="true">
-                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/images/icons/icon-library.svg#icon-{{ icon }}"></use>
+            <a href="{{ link | safe }}" class="inline-block lg:p-2 {% if loop.first %}-ml-2{% endif %} {% if item.icon != "" %} py-3 px-1{% else %} pl-2 pr-1 hover:text-{{ theme.colors.accent }}-500{% endif %} not-italic" aria-label="{{ item | capitalize }}" title="{{ item }}" target="_blank" rel="me noopener noreferrer">
+            {% if item.icon != "" %}
+              <svg class="block" role="img" aria-hidden="true" width="18" height="18">
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/images/icons/icon-library.svg#{{ item }}"></use>
               </svg>
             </a>
+            {% else %}
+              {{ item }}
+            </a>{%- if not loop.last %}/{%- endif %}
+            {% endif %}
           </li>
           {% endif %}
-        {% endfor %}
+          {% endfor %}
         </ul>
       </address>
+      {# /end Social Links #}
     </div>
   </div>
 </footer>
