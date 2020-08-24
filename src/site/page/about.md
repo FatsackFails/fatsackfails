@@ -12,9 +12,12 @@ seo_desc: Learn more.
 type: core
 layout: page.njk
 ---
+<div class="flex flex-wrap justify-center"> <img src="/images/about-fatsack-01.jpg" alt="Ethan Kellogg is Fatsack Fails">
+</div>
+
 This is my personal site where I collect all of my thoughts about video games, web development, live streaming, content creation, and more. It's also where you can watch content from my Twitch channel, read reviews and recommendations, and check out the different resources I make for live streamers.
 
-<div class="flex flex-wrap bg-fspurple-800 font-mono justify-center my-8 mx-auto">
+<div class="flex flex-wrap bg-fspurple-800 font-mono justify-center m-8">
 I'm currently available for stream consultations, as well as graphic design work for your Twitch channel. Get in touch!
 </div>
 
@@ -34,6 +37,6 @@ I've been streaming on Twitch since 2015. I stream lots of different types of ga
 
 I like to learn new things, and enjoying improving my skills by making things. I create a lot of the art and graphic design for my channel, design parts or tweak sections of my website, and dabble in a lot of different disciplines.
 
-<div class="flex flex-wrap bg-fspurple-800 font-mono justify-center my-8 mx-auto">
+<div class="flex flex-wrap bg-fspurple-800 font-mono justify-center m-8 ">
 Have a business opportunity, or want to collaborate with me? Get in touch!
 </div>
