@@ -113,6 +113,7 @@ module.exports = {
         '72': '18rem',
         '80': '20rem',
         '90': '22rem',
+        '100': '25rem',
       },
       width: {
         '30': '30%',
@@ -120,6 +121,7 @@ module.exports = {
         '72': '18rem',
         '80': '20rem',
         '90': '22rem',
+        '100': '25rem',
       },
       boxShadow: {
         'md-top': '0 4px 6px -1px rgba(0, 0, 0, .1), 0 -6px 4px -1px rgba(0, 0, 0, .06)',
