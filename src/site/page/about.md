@@ -1,6 +1,6 @@
 ---
-title: About Fatsack
-subtitle: Learn More
+title: Hey there, I'm Ethan!
+subtitle: Learn More About Fatsack
 slug: about
 form: no
 image_card:
@@ -12,8 +12,7 @@ seo_desc: Learn more.
 type: core
 layout: page.njk
 ---
-## About This Site
-Hey there, I'm Ethan! This is my personal site where I collect all of my thoughts about video games, web development, live streaming, content creation, and more. It's also where you can watch content from my Twitch channel, read reviews and recommendations, and check out the different resources I make for live streamers.
+This is my personal site where I collect all of my thoughts about video games, web development, live streaming, content creation, and more. It's also where you can watch content from my Twitch channel, read reviews and recommendations, and check out the different resources I make for live streamers.
 
 <div class="flex flex-wrap bg-fspurple-800 font-mono justify-center my-8 mx-auto">
 I'm currently available for stream consultations, as well as graphic design work for your Twitch channel. Get in touch!
