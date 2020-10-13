@@ -10,7 +10,7 @@ tags:
   - Play Throughs
 image_card: /images/phasmophobia.jpg
 image_card_alt: Fatsack Fails at Phasmophobia
-video_id: "769410193"
+video_id: "769392292"
 video_type: vod
 excerpt: ""
 teaser: Paranormal Wacktivity
