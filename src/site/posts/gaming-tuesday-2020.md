@@ -26,12 +26,15 @@ seo_desc: "I'm participating in Save The Children's #GamingTuesday 2020 charity
 
 Here we go again! Once more I'm helping the Save The Children's #GamingTuesday charity event. That means from November 24th until December 8th, I'll be <a href="https://tiltify.com/@fatsackfails/fatsack-fails-gaming-tuesday-2020/donate" target="_blank">fundraising and running charity streams</a> on the channel to raise money. 2020 has been a rough year for many people across the globe, and Save The Children is working <a href="https://www.savethechildren.org/us/what-we-do" target="_blank">to provide COVID relief and many other benefits</a> to children all across the world. 
 
-Last year we raised $400 dollars for the event, doubling our original goal. This year I'm hoping we can raise at least $400 again, so I'll need your help! Please donate what you can, even if it's only a few dollars. According to Save The Children, even just $1 can provide four children with pneumonia treatment, so every little bit helps. Please share this with your friends and family and encourage them to donate as well.
+Last year we raised $400 dollars for the event, doubling our original goal. This year I'm hoping we can raise at least $400 again, so I'll need your help! Please donate what you can, even if it's only a few dollars. 
 
-If we meet the $400 goal before the Giving Tuesday holiday, December 2nd, we'll celebrate with a special MorphsuitHype stream where I wear a silly hot pink spandex morphsuit for the whole stream! We may even have more special surprises if we hit surpass the initial goal!
+According to Save The Children, even just $1 can provide four children with pneumonia treatment, so every little bit helps. Please share this with your friends and family and encourage them to donate as well.
 
-<div class="flex flex-wrap font-mono justify-center my-8 mx-auto"> <div class="flex flex-wrap justify-center pb-4"> <img src="/images/hype-emote.png" alt="FatsacKHype Emote"> <img src="/images/morph-love-emote.png" alt="fsMorphLove Emote">
-</div>
+You can donate at any time, but if you do during one of my Twitch livestreams, a special alert will pop up announcing your donation!
+
+<div class="flex flex-wrap justify-center pb-4"> <img src="/images/hype-emote.png" alt="FatsacKHype Emote"> <img src="/images/morph-love-emote.png" alt="fsMorphLove Emote"> </div>
+
+If we meet the $400 goal before the Giving Tuesday holiday, December 2nd, we'll celebrate with a special MorphsuitHype stream where I wear a silly hot pink spandex morphsuit for the whole stream! We may even have more special surprises if we surpass the initial goal!
 
 <div class="flex flex-wrap justify-center pb-8"><a href="https://tiltify.com/@fatsackfails/fatsack-fails-gaming-tuesday-2020" target="_blank" class="fs-btn mr-4">View Campaign</a><a href="https://tiltify.com/@fatsackfails/fatsack-fails-gaming-tuesday-2020/donate" target="_blank" class="fs-btn">Donate to Campaign</a></div>
 
