@@ -32,9 +32,5 @@ According to Save The Children, even just $1 can provide four children with pneu
 
 You can donate at any time, but if you do during one of my Twitch livestreams, a special alert will pop up announcing your donation!
 
-<div class="flex flex-wrap justify-center pb-4"> <img src="/images/hype-emote.png" alt="FatsacKHype Emote"> <img src="/images/morph-love-emote.png" alt="fsMorphLove Emote"> </div>
-
 If we meet the $400 goal before the Giving Tuesday holiday, December 2nd, we'll celebrate with a special MorphsuitHype stream where I wear a silly hot pink spandex morphsuit for the whole stream! We may even have more special surprises if we surpass the initial goal!
-
-<div class="flex flex-wrap justify-center pb-8"><a href="https://tiltify.com/@fatsackfails/fatsack-fails-gaming-tuesday-2020" target="_blank" class="fs-btn mr-4">View Campaign</a><a href="https://tiltify.com/@fatsackfails/fatsack-fails-gaming-tuesday-2020/donate" target="_blank" class="fs-btn">Donate to Campaign</a></div>
 
