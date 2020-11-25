@@ -32,5 +32,12 @@ According to Save The Children, even just $1 can provide four children with pneu
 
 You can donate at any time, but if you do during one of my Twitch livestreams, a special alert will pop up announcing your donation!
 
-If we meet the $400 goal before the Giving Tuesday holiday, December 2nd, we'll celebrate with a special MorphsuitHype stream where I wear a silly hot pink spandex morphsuit for the whole stream! We may even have more special surprises if we surpass the initial goal!
+If we meet the $400 goal before the Giving Tuesday holiday, December 1st, we'll celebrate with a special MorphsuitHype stream where I wear a silly hot pink spandex morphsuit for the whole stream! We may even have more special surprises if we surpass the initial goal!
+
+<h2>Stretch Goals!</h2>
+<p>We met the $400 goal on the first night! So here are some new stretch goals:</p>
+<ul>
+  <li class="">$800 Fatsack Fails at Phasmophobia - PhasMORPHobia Stream</li>
+  <li class="">$1200 Fatsack Fails at Dark Souls w/ Crowd Control - Prepare to Die</li>
+</ul>
 
