@@ -7,7 +7,8 @@ post_type: article
 category: Streamer Resources
 tags:
   - Freebies
-image_card: /images/fatsacks-freebies-03-flair.png
+image_card: /images/free-twitch-sub-badge-flairs.png
+image_card_alt: Free Twitch Sub Badge Flairs
 excerpt: "This pack of 24 Twitch Sub Badge Flairs I've created goes well with my
   [Sub Badge set](/posts/fatsack-freebies-01). This product is *Pay What You
   Want*, meaning if you want to get it for free all you have to do is put `0` in
