@@ -1,13 +1,13 @@
 ---
-excerpt: Another FREE resource for Twitch Affiliate streamers! I've created this
+excerpt: I've created this
   pack of 41 free to use Sub Emotes for your Twitch channel that matches my [Sub
-  Badge set](/blog/fatsacks-freebies-01) I made earlier. Make sure to put Zero
+  Badge set](/posts/free-twitch-sub-badges) I made earlier. Make sure to put Zero
   in the Price to download for free! You can read my [Twitter
   thread](https://twitter.com/FatsackFails/status/1254271072066777090) where I
   discuss making these.
 image_card_credit: null
 title: Fatsack's Freebies 02 - FREE Twitch Affiliate Sub Emotes
-slug: fatsacks-freebies-02
+slug: free-twitch-emotes
 date: 2020-04-26T22:23:58.114Z
 dateMod: Last Modified
 post_type: article

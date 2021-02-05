@@ -1,6 +1,6 @@
 ---
 title: Fatsack's Freebies 03 - FREE Twitch Sub Badge Flairs
-slug: fatsacks-freebies-03
+slug: free-twitch-badge-flairs
 date: 2020-07-17T00:22:31.238Z
 dateMod: Last Modified
 post_type: article
