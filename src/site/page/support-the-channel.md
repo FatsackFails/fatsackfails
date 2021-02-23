@@ -10,7 +10,7 @@ page_type: custom
   <article class="max-w-sm sm:max-w-1/2 px-2 pb-8 sm:pb-4">
     <a href="{{ ctas.buttons[0].button_link | safe }}" class="h-full bg-{{ theme.colors.main }}-100 dark:bg-{{ theme.colors.main }}-700 rounded overflow-hidden hover:shadow-2xl relative smooth no-underline hover:no-underline flex flex-col border-l-4 border-b-4 border-{{ theme.colors.accent }}-500" target="_blank">
       <div class="relative pb-16/9">
-        <img src="/images/card-donate.png" class="absolute h-full w-full rounded-t-r object-cover" alt="Donate through StreamElements">
+        <img src="/images/card-donate.png" class="absolute h-full w-full rounded-t-r object-cover" alt="Tip through StreamElements">
       </div>
       <span class="p-4 text-base">{{ ctas.buttons[0].button_text }}</span>
     </a>
