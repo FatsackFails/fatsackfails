@@ -34,4 +34,6 @@ Here are some of the highlights from the survey:
 * Four out of five players believed that compelling characters are very important
 * Most preferred platforms were PC at 53%, Playstation at 18%, Switch at 17%, and Xbox at 4%
 
+For me seeing the results was very interesting. It's great to see some of my favorite games like Fallout 2 get included in the top turn-based RPGs. It also makes me REALLY want to check out Divinity Original Sin 2. There's still a huge demand for single player RPG experiences that respect your time, have meaningful choices and mechanics, and are PC focused first. Looking forward to seeing what Xenotheria has to offer in this respect.
+
 The entire survey results, including features, preferences and other details can be found on [Ganymede's website](https://www.ganymede.games/). They've also started a second wave of this survey, which means you can participate as well!
