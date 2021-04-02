@@ -88,7 +88,7 @@ module.exports = {
   // News - aggregates multiple categories
   news: collection => {
     const categorySet = new Set()
-    collectionApi.getAll().forEach((item) => {
+    collection.getAll().forEach((item) => {
       if (!item.data.category) return
       item.data.category['Fatsack News', 'Gaming News']
         .forEach((category) => categorySet.add(category))
