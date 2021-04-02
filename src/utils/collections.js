@@ -100,6 +100,12 @@ module.exports = {
     // return collection.getFilteredByGlob('**/post/*.md').reverse();
   },
 
+  // Aggregate multiple tags
+  news: collection => {
+    const post = collection.getFilteredByTags('Fatsack News', 'Gaming News');
+    return post.reverse()
+  },
+
   // Searchable
   searchable: collection => {
     const post = collection.getFilteredByGlob(['**/posts/*.md', '**/page/*.md']);
