@@ -85,6 +85,17 @@ module.exports = {
     return post.reverse()
   },
 
+  // News - aggregates multiple categories
+  news: collection => {
+    const categorySet = new Set()
+    collectionApi.getAll().forEach((item) => {
+      if (!item.data.category) return
+      item.data.category['Fatsack News', 'Gaming News']
+        .forEach((category) => categorySet.add(category))
+    })
+    return [...categorySet].reverse();
+  },
+
   // Searchable
   searchable: collection => {
     const post = collection.getFilteredByGlob(['**/posts/*.md', '**/page/*.md']);
