@@ -87,13 +87,9 @@ module.exports = {
 
   // News - aggregates multiple categories
   news: collection => {
-    const categorySet = new Set()
-    collection.getAll().forEach((item) => {
-      if (!item.data.category) return
-      item.data.category['Fatsack News', 'Gaming News']
-        .forEach((category) => categorySet.add(category))
-    })
-    return [...categorySet].reverse();
+    const post = collection.getAll().filter(function(item) {
+      return ['Fatsack News', 'Gaming News'] in item.data.category;
+    });
   },
 
   // Searchable
