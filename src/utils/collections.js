@@ -87,11 +87,9 @@ module.exports = {
 
   // News - aggregates multiple categories
   news: collection => {
-    const post = collection.getFilteredByGlob('**/posts/*.md').filter(function(item) {
-      let news = item.data.category['Fatsack News', 'Gaming News'];
-      return news;
-    });
-
+    const post = collection.getFilteredByGlob('**/posts/*.md').filter(
+      item => ['Fatsack News', 'Gaming News'].includes(item.data.category)
+    )
     return post.reverse();
   },
 
