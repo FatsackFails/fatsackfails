@@ -47,9 +47,9 @@ module.exports = {
     let catSet = new Set();
     collection.getAllSorted().forEach(item =>
         typeof item.data.category === "string"
-        &&  catSet.add(item.data.category))
+        &&  catSet.add(item.data.category));
 
-    return [...catSet]
+    return [...catSet];
   },
 
   // Return a collection for each Category
@@ -65,9 +65,9 @@ module.exports = {
       else
         //  Otherwise create it and make `item` the first item.
         categories[category] = [item]
-    })
+    });
 
-    return categories
+    return categories;
   },
 
   // Posts
@@ -82,20 +82,24 @@ module.exports = {
       post[i].data["nextPost"] = nextPost
     }
 
-    return post.reverse()
+    return post.reverse();
   },
 
   // News - aggregates multiple categories
   news: collection => {
-    const post = collection.getAll().filter(function(item) {
-      return ['Fatsack News', 'Gaming News'] in item.data.category;
+    const post = collection.getFilteredByGlob('**/posts/*.md').filter(function(item) {
+      let news = item.data.category['Fatsack News', 'Gaming News'];
+      return news;
     });
+
+    return post.reverse();
   },
 
   // Searchable
   searchable: collection => {
     const post = collection.getFilteredByGlob(['**/posts/*.md', '**/page/*.md']);
-    return post.reverse()
+
+    return post.reverse();
   }
 
 }
