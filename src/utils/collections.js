@@ -45,20 +45,6 @@ module.exports = {
   // Categories: A list of every category
   catList: collection => {
     let catSet = new Set();
-    // collection.getAll().forEach(function(item) {
-    //   if ("category" in item.data) {
-    //     let categories = item.data.category;
-    //     if (typeof categories === "string") {
-    //       categories = [categories];
-    //     }
-    //     for (const category of categories) {
-    //       catSet.add(category);
-    //     }
-    //   }
-    // });
-    // return [...catSet].sort(function(a, b) {
-    //   return a.toLowerCase().localeCompare(b.toLowerCase());
-    // });
     collection.getAllSorted().forEach(item =>
         typeof item.data.category === "string"
         &&  catSet.add(item.data.category))
@@ -97,20 +83,12 @@ module.exports = {
     }
 
     return post.reverse()
-    // return collection.getFilteredByGlob('**/post/*.md').reverse();
-  },
-
-  // Aggregate multiple tags
-  news: collection => {
-    const post = collection.getFilteredByTags('Fatsack News', 'Gaming News');
-    return post.reverse()
   },
 
   // Searchable
   searchable: collection => {
     const post = collection.getFilteredByGlob(['**/posts/*.md', '**/page/*.md']);
     return post.reverse()
-    // return collection.getFilteredByGlob('**/post/*.md').reverse();
   }
 
 }
