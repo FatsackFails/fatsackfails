@@ -25,7 +25,7 @@
     {% include "postslist.njk" %}
     {% set postslist = collections.category["Highlights"] | reverse | limit(1) %}
     {% include "postslist.njk" %}
-    {% set postslist = collections.category["Fatsack News","Gaming News"] | reverse | limit(1) %}
+    {% set postslist = collections.category["Fatsack News","Gaming News"] %}
     {% include "postslist.njk" %}
   </div>
 </section>
