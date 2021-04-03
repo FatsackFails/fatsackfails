@@ -4,8 +4,9 @@ slug: blog-update-01
 date: 2020-07-09T06:31:46.506Z
 dateMod: Last Modified
 post_type: article
-category: Fatsack News
+category: News
 tags:
+  - Fatsack News
   - Stream Sites
 image_card: /images/blog-site-update.png
 excerpt: "FatsackFails.com gets an update! Refreshed design, and new features as

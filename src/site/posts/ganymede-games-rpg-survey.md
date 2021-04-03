@@ -4,8 +4,9 @@ slug: ganymede-games-rpg-survey
 date: 2021-03-30T20:52:35.315Z
 dateMod: Last Modified
 post_type: article
-category: Gaming News
+category: News
 tags:
+  - Gaming News
   - Ganymede Games
   - Data
 image_card: /images/ganymede-games-rpg-survey-hero.jpg

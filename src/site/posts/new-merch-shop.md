@@ -12,8 +12,9 @@ excerpt: >-
   New merch shop is live powered by Spreadshirt.  Old designs are being retired, with new ones coming soon!
 teaser: >-
   New merch shop is live.
-category: Fatsack News
+category: News
 tags:
+  - Fatsack News
   - Merch
 seo_title: New Merch Shop
 seo_desc: >-

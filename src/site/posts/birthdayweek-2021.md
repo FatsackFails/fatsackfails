@@ -4,8 +4,9 @@ slug: birthdayweek-2021
 date: 2021-02-23T00:50:55.974Z
 dateMod: Last Modified
 post_type: article
-category: Fatsack News
+category: News
 tags:
+  - Fatsack News
   - BirthdayWeek
 image_card: /images/birthday-week-2021.png
 image_card_alt: Fatsack's Birthday Week is here!

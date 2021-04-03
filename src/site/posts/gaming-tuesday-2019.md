@@ -11,8 +11,9 @@ image_card_credit: >-
 excerpt: >-
   From November 26th till December 10th, I'm raising funds for [Save The Children's](https://www.savethechildren.org/) StreamTeam #GamingTuesday2019 event.
 teaser:
-category: Fatsack News
+category: News
 tags:
+  - Fatsack News
   - Charity
 seo_title: 'Fatsack''s #GamingTuesday2019 Charity Event'
 seo_desc: >-

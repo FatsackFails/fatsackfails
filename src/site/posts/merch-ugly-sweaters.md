@@ -12,8 +12,9 @@ excerpt: >-
   Ugly Sweater designs are here! Get your holiday merch and support the channel. Two versions available!
 teaser: >-
   Get your holiday merch.
-category: Fatsack News
+category: News
 tags:
+  - Fatsack News
   - Merch
 seo_title: Ugly Sweaters Are Here
 seo_desc: >-

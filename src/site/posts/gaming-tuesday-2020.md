@@ -12,8 +12,9 @@ slug: gaming-tuesday-2020
 date: 2020-11-22T22:37:28.197Z
 dateMod: Last Modified
 post_type: article
-category: Fatsack News
+category: News
 tags:
+  - Fatsack News
   - Charity
 image_card: /images/gaming-tuesday.jpg
 image_card_alt: Gaming Tuesday Banner
@@ -24,9 +25,9 @@ seo_desc: "I'm participating in Save The Children's #GamingTuesday 2020 charity
 ---
 <div class="flex flex-wrap justify-center pb-8"><a href="https://tiltify.com/@fatsackfails/fatsack-fails-gaming-tuesday-2020" target="_blank" class="fs-btn mr-4">View Campaign</a><a href="https://tiltify.com/@fatsackfails/fatsack-fails-gaming-tuesday-2020/donate" target="_blank" class="fs-btn">Donate to Campaign</a></div>
 
-Here we go again! Once more I'm helping the Save The Children's #GamingTuesday charity event. That means from November 24th until December 8th, I'll be <a href="https://tiltify.com/@fatsackfails/fatsack-fails-gaming-tuesday-2020/donate" target="_blank">fundraising and running charity streams</a> on the channel to raise money. 2020 has been a rough year for many people across the globe, and Save The Children is working <a href="https://www.savethechildren.org/us/what-we-do" target="_blank">to provide COVID relief and many other benefits</a> to children all across the world. 
+Here we go again! Once more I'm helping the Save The Children's #GamingTuesday charity event. That means from November 24th until December 8th, I'll be <a href="https://tiltify.com/@fatsackfails/fatsack-fails-gaming-tuesday-2020/donate" target="_blank">fundraising and running charity streams</a> on the channel to raise money. 2020 has been a rough year for many people across the globe, and Save The Children is working <a href="https://www.savethechildren.org/us/what-we-do" target="_blank">to provide COVID relief and many other benefits</a> to children all across the world.
 
-Last year we raised $400 dollars for the event, doubling our original goal. This year I'm hoping we can raise at least $400 again, so I'll need your help! Please donate what you can, even if it's only a few dollars. 
+Last year we raised $400 dollars for the event, doubling our original goal. This year I'm hoping we can raise at least $400 again, so I'll need your help! Please donate what you can, even if it's only a few dollars.
 
 According to Save The Children, even just $1 can provide four children with pneumonia treatment, so every little bit helps. Please share this with your friends and family and encourage them to donate as well.
 
@@ -40,4 +41,3 @@ If we meet the $400 goal before the Giving Tuesday holiday, December 1st, we'll 
   <li class="">$800 Fatsack Fails at Phasmophobia - PhasMORPHobia Stream</li>
   <li class="">$1200 Fatsack Fails at Dark Souls w/ Crowd Control - Prepare to Die</li>
 </ul>
-
