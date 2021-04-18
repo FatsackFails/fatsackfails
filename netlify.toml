@@ -35,3 +35,4 @@
   for = "/*"
     [headers.values]
     Access-Control-Allow-Origin = "*"
+    Permissions-Policy = "interest-cohort=()"
