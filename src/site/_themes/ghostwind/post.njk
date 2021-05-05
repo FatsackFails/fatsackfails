@@ -86,7 +86,7 @@ layout: default.njk
           <span class="tag">
             {% set separator = joiner(' +') %}
             {% for tag in tags %}
-              {%- if tag != "post" -%}
+              {%- if tag != "post" and tag != "tabletop" and tag != "snippets" -%}
                 {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
                 {{ separator() }} <a href="{{ tagUrl | url }}" rel="tag" class="no-underline">{{ tag }}</a>
               {%- endif -%}
