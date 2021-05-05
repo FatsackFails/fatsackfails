@@ -16,6 +16,8 @@ pagination:
   - nav
   - page
   - posts
+  - tabletop
+  - snippets
   - tagList
   addAllPagesToCollections: true
 eleventyComputed:

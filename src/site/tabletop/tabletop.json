@@ -1,0 +1,6 @@
+{
+  "layout": "post.njk",
+  "tags": "tabletop",
+  "templateEngineOverride": "njk,md",
+  "outputPath": "dist/tabletop/"
+}

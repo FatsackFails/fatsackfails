@@ -4,6 +4,8 @@
 
 // Import Collections
 import post from './collections/post.js';
+import tabletop from './collections/tabletop.js';
+import snippet from './collections/snippets.js';
 import page from './collections/page.js';
 import modules from './collections/modules.js';
 import linkInBio from './collections/linkinbio.js';
@@ -26,6 +28,8 @@ export default {
   show_preview_links: true,
   collections: [
     post,
+    tabletop,
+    snippet,
     page,
     modules,
     linkInBio,
@@ -42,6 +46,8 @@ import Page from './previews/page.js';
 
 // Register Previews
 CMS.registerPreviewTemplate('post', Blog);
+CMS.registerPreviewTemplate('tabletop', Blog);
+CMS.registerPreviewTemplate('snippet', Blog);
 CMS.registerPreviewTemplate('page', Page);
 CMS.registerPreviewTemplate('post_page', Page);
 CMS.registerPreviewTemplate('about', Page);

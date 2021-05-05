@@ -15,7 +15,7 @@ layout: default.njk
 {% set authorLink = theme.labels.authorLink or "Read More" %}
 {% set morePosts = theme.labels.morePosts or "More Posts to Peruse" %}
 {# Grab other posts that aren't this one for the 'more from the blog' feed #}
-{% set recommendedPosts = helpers.getSiblingContent(collections.posts, page) %}
+{% set recommendedPosts = helpers.getSiblingContent(collections.all, page) %}
 
 <article class="mx-auto">
 

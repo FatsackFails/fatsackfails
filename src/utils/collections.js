@@ -27,7 +27,9 @@ module.exports = {
             case "nav":
             case "page":
             case "post":
+            case "tabletop":
             case "tagList":
+            case "snippets":
               return false;
           }
           return true;
@@ -85,6 +87,36 @@ module.exports = {
     return post.reverse();
   },
 
+  // Tabletop
+  tabletop: collection => {
+    const post = collection.getFilteredByGlob('**/tabletop/*.md');
+
+    for (let i = 0; i < post.length; i++) {
+      const prevPost = post[i - 1]
+      const nextPost = post[i + 1]
+
+      post[i].data["prevPost"] = prevPost
+      post[i].data["nextPost"] = nextPost
+    }
+
+    return post.reverse();
+  },
+
+  // Snippets
+  snippets: collection => {
+    const post = collection.getFilteredByGlob('**/snippets/*.md');
+
+    for (let i = 0; i < post.length; i++) {
+      const prevPost = post[i - 1]
+      const nextPost = post[i + 1]
+
+      post[i].data["prevPost"] = prevPost
+      post[i].data["nextPost"] = nextPost
+    }
+
+    return post.reverse();
+  },
+
   // News - aggregates multiple categories
   news: collection => {
     const post = collection.getFilteredByGlob('**/posts/*.md').filter(
@@ -95,9 +127,23 @@ module.exports = {
 
   // Searchable
   searchable: collection => {
-    const post = collection.getFilteredByGlob(['**/posts/*.md', '**/page/*.md']);
+    const post = collection.getFilteredByGlob(['**/posts/*.md', '**/page/*.md', '**/tabletop/*.md', '**/snippets/*.md']);
+
+    return post.reverse();
+  },
+
+  // All Posts
+  all: collection => {
+    const post = collection.getFilteredByGlob(['**/posts/*.md', '**/tabletop/*.md', '**/snippets/*.md']);
+
+    for (let i = 0; i < post.length; i++) {
+      const prevPost = post[i - 1]
+      const nextPost = post[i + 1]
+
+      post[i].data["prevPost"] = prevPost
+      post[i].data["nextPost"] = nextPost
+    }
 
     return post.reverse();
   }
-
 }

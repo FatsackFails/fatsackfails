@@ -1,0 +1,6 @@
+{
+  "layout": "post.njk",
+  "tags": "snippets",
+  "templateEngineOverride": "njk,md",
+  "outputPath": "dist/snippets/"
+}
