@@ -51,3 +51,4 @@ Chat Send "This toggle is now off!"
 exit
 Chat Send "This toggle is now on!"
 ```
+[View the Gist](https://gist.github.com/FatsackFails/4ca2b87384468da79f4538255ef3a319)
