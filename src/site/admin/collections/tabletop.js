@@ -88,6 +88,13 @@ export default {
       hint: 'Describe this image for anyone who can\'t see it.'
     },
     {
+      label: 'Image Card Credit',
+      name: 'image_card_credit',
+      widget: 'string',
+      required: false,
+      hint: 'Give credit where credit is due.'
+    },
+    {
       label: 'Video ID',
       name: 'video_id',
       widget: 'string',
