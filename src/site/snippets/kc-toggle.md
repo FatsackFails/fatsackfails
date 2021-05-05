@@ -13,7 +13,7 @@ image_card_alt: Mockup of toggle demo code for Kruiz Control.
 image_card_credit: >-
   [snappify](https://snappify.io/) for code mockup
 excerpt: >-
-  Basic framework of toggle system to switch between two states with the same command or event. On/Off, Red Mode/Blue Mode, etc.
+  Basic framework of toggle system to switch between two states with the same command or event in [Kruiz Control](https://github.com/Kruiser8/Kruiz-Control). On/Off, Red Mode/Blue Mode, etc.
 teaser: Code Demo to Toggle in KC!
 seo_title: Kruiz Control - Toggle Demo
 seo_desc: Code snippet giving an example of how to toggle between two states in
