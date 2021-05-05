@@ -43,7 +43,7 @@
   <div class="flex flex-wrap mx-auto">
     {% set postslist = collections.category["Game Reviews"] | reverse | limit(1) %}
     {% include "postslist.njk" %}
-    {% set postslist = collections.category["Tabletop RPGs"] | reverse | limit(1) %}
+    {% set postslist = collections["tabletop"] | limit(1) %}
     {% include "postslist.njk" %}
     {% set postslist = collections["Play Throughs"] | reverse | limit(1) %}
     {% include "postslist.njk" %}
