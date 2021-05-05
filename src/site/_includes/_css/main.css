@@ -76,6 +76,10 @@ main:focus {
   display: block;
 }
 
+a[name="toc"], h2, h3, h4, h5, h6, .footnote-ref a, .footnote-item {
+  scroll-margin-top: 5.5rem;
+}
+
 /**
  * Typography
  * These sizes apply to all NJK and MD files
