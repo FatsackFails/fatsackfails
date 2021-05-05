@@ -27,7 +27,7 @@ Breaking it down to its basic parts, this framework of events will take a `false
 
 [[toc]]
 
-# The Code
+## The Code
 KC Version: v1.3.4
 
 Usage: `!toggle` to switch back and forth between two states
@@ -61,8 +61,9 @@ Chat Send "This toggle is on!"
 
 [Back to Contents](#toc)
 
-# Breaking Down Each Section
-## Setting Toggle Default
+## Breaking Down Each Section
+
+### Setting Toggle Default
 ```bash
 #Sets toggle01 to off when KC starts up
 OnInit
@@ -79,7 +80,7 @@ We use `OnInit` to create our variable called `toggle01` and set it to `false`. 
 
 [Back to Contents](#toc)
 
-## One Way to Activate Toggle
+### One Way to Activate Toggle
 ```bash
 #Send Message to switch toggle01
 OnCommand b 0 !toggle
@@ -96,7 +97,7 @@ Using `Message Send` allows us to set up multiple triggers to fire off the toggl
 
 [Back to Contents](#toc)
 
-## Making the Toggle Switch
+### Making the Toggle Switch
 ```bash
 #Switches toggle01 on and off with confirmation
 OnMessage switchToggle
@@ -115,14 +116,14 @@ Once the `switchToggle` message is received we use the `Variable Load` action wi
 
 [`Function` Used to create a JavaScript function using the input text.](https://github.com/Kruiser8/Kruiz-Control/blob/master/js/Documentation.md#function)
 
-### Tangent on Custom JavaScript Code in KC
+#### Tangent on Custom JavaScript Code in KC
 Our Javascript is written in a specific way so that Kruiz Control can use the result of our custom coding while still maintaining the structure KC needs of 1 action per line. All code inside of the `Function` action is closed, meaning it doesn't see or affect any code out of the quotes unless we specify it. We'll need to pull in and push out variables that can be used outside of the function.
 
 Looking at our custom code in the `Function` action, one can read it as "create a variable called `toggle` that uses the same value as our `toggle01` variable we're pulling in from outside this function. Then take the value of our newly created `toggle` variable and set it to the opposite of what it currently is. Finally, create a new variable called `result` that can be used outside this function that has the same value of our now modified `toggle` variable." We can now use the `result` variable in this event as we need to. Note that our `toggle = !toggle` statement only works if the values of our variable are Boolean `true` or `false`.
 
 [Back to Contents](#toc)
 
-## Example of Using Toggle
+### Example of Using Toggle
 ```bash
 #Checks to see if toggle01 is on or off
 OnCommand b 0 !checktoggle
@@ -154,7 +155,7 @@ The `Exit` action after the first `Chat Send` action tells KC to stop after send
 
 [Back to Contents](#toc)
 
-# Final Words
+## Final Words
 There's a lot of cool ways you could use this framework. If you come up with a way to use this toggle framework, I'd love to see it! Feel free to [get in touch](/contact) as well if you come up with a better way to implement something like this!
 
 If you love Kruiz Control as much as I do, consider [supporting the project on Patreon](https://www.patreon.com/kruiser8). This invaluable tool that [Kruiser8](https://twitch.tv/kruiser8) has created for Twitch streamers deserves as much support as it can get.
