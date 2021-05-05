@@ -11,13 +11,12 @@ excerpt: >-
 teaser: >-
   Fallout: Cypher with Ace Gammagun
 post_type: video
-category: Tabletop RPGs
+category: Cypher System
 tags:
   - Fallout
-  - Cypher System
   - Play Throughs
 seo_title: 'Fallout: Cypher - Ace Gammagun Episodes'
 seo_desc: >-
-    Episodes of Fallout: Cypher focusing on Ace Gammagun played by DailyEraser. Fallout: Cypher is an on-going tabletop roleplay campaign set in the Fallout universe for the Cypher System.
+    Episodes of Fallout: Cypher focusing on Ace Gammagun played by DailyEraser. Fallout: Cypher was an on-going tabletop roleplay campaign set in the Fallout universe for the Cypher System.
 ---
 Episodes of Fallout: Cypher focusing on Ace Gammagun played by [DailyEraser](https://twitch.tv/dailyeraser)

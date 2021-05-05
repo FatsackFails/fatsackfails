@@ -9,9 +9,10 @@ slug: clever-brawler
 date: 2019-10-18T15:51:45.982Z
 dateMod: Last Modified
 post_type: article
-category: Tabletop RPGs
+category: Dungeons and Dragons
 tags:
-  - Dungeons and Dragons
+  - 5e
+  - Subclass
 image_card: /images/tabletop01-cropped.jpg
 image_card_alt: Some board game pieces on a table representing characters in battle.
 teaser: New Fighting Style & Martial Archetype for the D&D 5e Variant Fighter by

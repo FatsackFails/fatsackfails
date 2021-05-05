@@ -11,10 +11,9 @@ excerpt: >-
 teaser: >-
   Fallout: Cypher with Gunther Hardwight
 post_type: video
-category: Tabletop RPGs
+category: Cypher System
 tags:
   - Fallout
-  - Cypher System
   - Play Throughs
 seo_title: 'Fallout: Cypher - Gunther Hardwight Episodes'
 seo_desc: >-

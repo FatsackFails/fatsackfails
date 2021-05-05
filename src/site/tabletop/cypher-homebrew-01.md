@@ -1,6 +1,6 @@
 ---
 title: 'Cypher System Homebrew - 01 Fallout: Cypher Alternate Rules'
-slug: cypher-system-homebrew-01
+slug: cypher-homebrew-01
 date: 2020-01-30T06:00:00.000Z
 dateMod: Last Modified
 post_type: article
@@ -9,9 +9,10 @@ image_card_alt: Fallout Cypher
 image_card_credit:
 excerpt: >-
   These alternate radiation rules, addiction and tolerance rules were used in my Fallout: Cypher Lonestar and the Trinity campaign. These rules change the game in significant ways, so if you decide to use them yourself and there's something you don't like about them, feel free to change or get rid of something.
-category: Tabletop RPGs
+category: Cypher System
 tags:
-  - Cypher System
+  - Character Options
+  - Fallout
 seo_title: 'Cypher System Homebrew - 01 Fallout: Cypher Alternate Rules'
 seo_desc: >-
   Custom rules to bring Fallout to Monte Cook Games' Cypher System. These alternate Radiation rules, Addiction rules, and Tolerance rules were used in the Fallout: Cypher Lonestar and the Trinity campaign.

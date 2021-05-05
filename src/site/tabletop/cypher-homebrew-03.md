@@ -12,9 +12,9 @@ excerpt: >-
   These optional Carry Capacity and Encumbrance rules allow player characters a quick, easy to use system to both track items and deal with the consequences of carrying too much loot at once. Inspired by [Giffyglyph's Darker Dungeons](http://www.giffyglyph.com/darkerdungeons/) supplement  for D&D 5e, specifically the [Inventory Space](http://www.giffyglyph.com/darkerdungeons/rules/inventory_space.html) rules. Giffyglyph's rules were a great reference tool when approaching inventory management and apply it to Cypher System, which does not exist in the core rules.
 teaser: >-
   Optional Carry Capacity and Encumbrance rules for Cypher System.
-category: Tabletop RPGs
+category: Cypher System
 tags:
-  - Cypher System
+  - Optional Rules
 seo_title: Cypher System Homebrew - 03 Carry Capacity and Encumbrance
 seo_desc:
   Optional Carry Capacity and Encumbrance rules for Monte Cook Games' Cypher System that allow player characters a quick, easy to use system to both track items and deal with the consequences of carrying too much loot at once. Inspired by Giffyglyph's Darker Dungeons Homebrew rule set for D&D 5e, specifically his Inventory Space rules.

@@ -11,9 +11,10 @@ excerpt: >-
   These Character Options allow for player characters to play as the various races in the Fallout universe and were used in my Fallout: Cypher Lonestar and the Trinity campaign.
 teaser: >-
   Play as the various races in the Fallout universe in the Cypher System.
-category: Tabletop RPGs
+category: Cypher System
 tags:
-  - Cypher System
+  - Character Options
+  - Fallout
 seo_title: 'Cypher System Homebrew - 02 Fallout: Cypher Character Options'
 seo_desc: >-
   Homebrew rules to bring Fallout to Monte Cook Games' Cypher System. These character options for player characters to be able to play as Ghouls, Super Mutants, Robots, and Dogs were used in the Fallout: Cypher Lonestar and the Trinity campaign.

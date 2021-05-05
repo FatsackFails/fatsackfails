@@ -11,10 +11,9 @@ excerpt: >-
 teaser: >-
   Fallout: Cypher with Ace Gammagun
 post_type: video
-category: Tabletop RPGs
+category: Cypher System
 tags:
   - Fallout
-  - Cypher System
   - Play Throughs
 seo_title: 'Fallout: Cypher - Miguel Garcia Episodes'
 seo_desc: >-
