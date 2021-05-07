@@ -21,7 +21,7 @@
 
 <section class="container xl:min-w-6xl max-w-6xl mx-auto pt-12 px-6 lg:px-0">
   <div class="flex flex-wrap mx-auto">
-    {% set postslist = collections.category["Streamer Resources"] | reverse | limit(1) %}
+    {% set postslist = collections["Streamer Resources"] | reverse | limit(1) %}
     {% include "postslist.njk" %}
     {% set postslist = collections.category["Highlights"] | reverse | limit(1) %}
     {% include "postslist.njk" %}

@@ -11,6 +11,7 @@ dateMod: Last Modified
 post_type: article
 category: Kruiz Control
 tags:
+  - Streamer Resources
   - Toggle
 image_card: /images/toggle-demo.png
 image_card_alt: Mockup of toggle demo code for Kruiz Control.
@@ -137,7 +138,7 @@ Now we take everything we've built and test it. This command is just one of the 
 
 In our example our *Trigger* is `OnCommand`, we *Load* the `toggle01` variable, and *Compare* our variable to the `false` value. The *Result* chooses our actions of either `Chat Send` "This toggle is off!" if `false` or "This toggle is on!" if `true`.
 
-`If` actions use logic operators to compare and can use `Skip` actions if the comparison is false, which can get confusing when doing double negatives or something similar. 
+`If` actions use logic operators to compare and can use `Skip` actions if the comparison is false, which can get confusing when doing double negatives or something similar.
 
 Starting from the `If` line, the example can be read as "If the `toggle01` variable returned as `false` when it was loaded in, send a message in chat saying, 'This toggle is off!' and then `Exit`. Otherwise `Skip` these next 2 lines of code and send a message in chat that says, "This toggle is on!"
 

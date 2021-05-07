@@ -8,9 +8,10 @@ slug: free-resources-twitch
 date: 2020-07-06T08:42:45.567Z
 dateMod: Last Modified
 post_type: article
-category: Streamer Resources
+category: Live Streaming
 tags:
-  - Freebies
+  - Twitch
+  - Streamer Resources
 image_card: /images/free-resources-hero.png
 image_card_alt: Free Twitch Streamer Resources
 teaser: 18 free resources to improve your Twitch stream.
