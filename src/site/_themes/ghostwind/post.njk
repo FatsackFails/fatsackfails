@@ -21,7 +21,22 @@ layout: default.njk
 
   {# Title, Date, Tags #}
   <div class="text-center pt-20 pb-12 flex flex-col px-8">
-    <h1 class="order-2 font-extrabold tracking-tight break-normal text-3xl md:text-5xl mb-0 {{ fontTitle }}">{{ title }}</h1>
+      {% if tags %}
+      <div class="order-2 flex justify-center items-center">
+    <p class="text-base text-{{ theme.colors.main }}-900 dark:text-{{ theme.colors.main }}-100 md:text-center">Tagged:<br class="hidden md:block">
+      <span class="tag">
+        {% set separator = joiner(' +') %}
+        {% for tag in tags %}
+          {%- if tag != "post" and tag != "tabletop" and tag != "snippets" -%}
+            {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+            {{ separator() }} <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+          {%- endif -%}
+        {% endfor %}
+      </span>
+    </p>
+      </div>
+    {% endif %}
+    <h1 class="order-3 font-extrabold tracking-tight break-normal text-3xl md:text-5xl mb-0 {{ fontTitle }}">{{ title }}</h1>
     <p class="order-1 text-sm md:text-base text-{{ theme.colors.accent }}-600 dark:text-{{ theme.colors.main }}-100 font-bold {{ fontMeta }}">
       <time datetime="{{ date }}">{{ date | readableDate | upper }}</time>
       <span class="px-1 text-{{ theme.colors.main }}-900 dark:text-{{ theme.colors.main }}-100">/</span>
@@ -30,7 +45,7 @@ layout: default.njk
       <span class="px-1 text-{{ theme.colors.main }}-900 dark:text-{{ theme.colors.main }}-100">/</span>
         <span class="category">
           {% set catUrl %}/category/{{ category | slug }}/{% endset %}
-          <a href="{{ catUrl | url }}" rel="category" class="no-underline">{{ category | upper }}</a>
+          <a href="{{ catUrl | url }}" rel="category">{{ category | upper }}</a>
         </span>
       {% endif %}
     </p>
@@ -88,7 +103,7 @@ layout: default.njk
             {% for tag in tags %}
               {%- if tag != "post" and tag != "tabletop" and tag != "snippets" -%}
                 {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
-                {{ separator() }} <a href="{{ tagUrl | url }}" rel="tag" class="no-underline">{{ tag }}</a>
+                {{ separator() }} <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
               {%- endif -%}
             {% endfor %}
           </span>
