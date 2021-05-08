@@ -21,11 +21,11 @@ image_card_alt: Free Twitch Affiliate Sub Emotes
 teaser: Over 40 FREE Emotes for your Twitch channel!
 seo_title: Fatsack's Freebies 02 - FREE Twitch Affiliate Sub Emotes
 seo_desc: Another FREE resource for Twitch Affiliate streamers! 41 Twitch Sub
-  Emotes that everyone can use for their channel.
+  Emotes that everyone can use for their channel. Use them on Twitch, Discord, Guilded, or Slack!
 ---
 ![Preview of emotes.](/images/free-twitch-emote-preview.png)
 
-Finally unlocked Twitch Affiliate status and need some sweet Sub Emotes for your channel? You came to the right place! This FREE Sub Emote pack comes with 41 different Emotes for you to immediately upload to your channel today! These Emotes are designed to fit nicely with my [Sub Loyalty Badges](/badges) as well as my [Sub Badge Flairs](/flairs) I made.
+Finally unlocked Twitch Affiliate status and need some sweet Sub Emotes for your channel? Want to spice up your Discord, Guilded, or Slack channels? You came to the right place! This FREE Sub Emote pack comes with 41 different Emotes for you to immediately upload to your channel today! These Emotes are designed to fit nicely with my [Sub Loyalty Badges](/badges) as well as my [Sub Badge Flairs](/flairs) I made.
 
 There's enough variety to have an Emote for every Sub Tier plus some variants for the Bits Tier Emotes Twitch rolled out. Use these awesome Emotes temporarily while you work on your own, or use them forever!
 
@@ -52,6 +52,7 @@ To upload these Emotes to your Twitch channel, go to your *Creator Dashboard* an
 
 I've labeled the images in order, as well as labeled the image size for each Emote. You can either click each Emote size to find and upload from the file picker, or you can drag and drop each image. Make sure to save your changes and you're set! Enjoy the new Sub Emotes.
 
+Discord and Guilded need to navigate to *Server Settings >> Emojis* or *Settings >> Emotes* respectively. Slack can add emojis using the *Add Emoji* button in the emoji picker.
 
 
 ## Editing the Emotes
