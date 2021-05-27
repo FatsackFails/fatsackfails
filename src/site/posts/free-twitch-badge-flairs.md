@@ -12,17 +12,17 @@ tags:
 image_card: /images/free-twitch-sub-badge-flairs.png
 image_card_alt: Free Twitch Sub Badge Flairs
 excerpt: >-
-  This pack of 24 Twitch Sub Badge Flairs is Pay What You
+  This pack of 35 Twitch Sub Badge Flairs is Pay What You
   Want, meaning if you want to get it for free all you have to do is put Zero in
   the price! If you'd like you can read the [thread on
   Twitter](https://twitter.com/FatsackFails/status/1283871221499781120) where I
   discuss making these. [Grab them now](https://gumroad.com/l/FeZPc?wanted=true), or read for more details!
 teaser: Let your Tier 2 and Tier 3 Subs stand out with these Badge Flairs!
 seo_title: Fatsack's Freebies 03 - FREE Twitch Sub Badge Flairs
-seo_desc: This pack of 24 Sub Badge Flairs for Twitch steamers lets their Tier 2
-  and Tier 3 Subs stand out! 24 different options in 6 different colors!
+seo_desc: This pack of 35 Sub Badge Flairs for Twitch steamers lets their Tier 2
+  and Tier 3 Subs stand out! 5 different shapes in 7 different colors!
 ---
-Let your Tier 2 and Tier 3 Subs stand out with these Badge Flairs! Your choice of 24 different choices in 6 different colors!
+Let your Tier 2 and Tier 3 Subs stand out with these Badge Flairs! Your choice of 5 different shapes in 7 different colors!
 
 Use the source file to personalize them with brand colors, change out shapes, or just peek under the hood at how you might want to go about making Badge Flairs yourself. If you like these flairs, **please rate them**! This helps get more eyeballs on my work. Thank you everyone for downloading and rating!
 
