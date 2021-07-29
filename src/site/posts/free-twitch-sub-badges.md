@@ -23,7 +23,10 @@ seo_desc: FREE resource for Twitch Affiliate streamers! Fatsack has created a
 ---
 Just hit Twitch Affiliate and need to set up your Sub Badges? I got you covered! Use these free Sub Loyalty Badges to start hyping up your community. Use them as a temporary stand-in, or forever!
 
-This bundle includes Badges for: Base Subscriber, 2 Months, 3 Months, 6 Months, 9 Months, and 1 Year.
+## Update!
+Twitch recently updated Sub Badges to go up to 5 years for Affiliates! I've updated the pack to include these extra years. Everything's still free, and still licensed CC BY 4.0!
+
+This bundle includes badges for: Base Subscriber, 2 Months, 3 Months, 6 Months, 9 Months, 1 Year, 2 Years, 3 Years, 4 Years, and 5 Years.
 
 Use the source file to personalize them with brand colors, change out shapes, or just peek under the hood at how you might want to go about making Badges yourself.
 
@@ -41,7 +44,7 @@ If you're just using the Badges for your channel and don't plan on editing them 
 
 
 ## Using the Badges
-To use these Sub Loyalty Badges for your Twitch channel, go to your Creator Dashboard and navigate to *Settings >> Affiliate >> Loyalty Badges*. From there you can upload the images found in the 'Badges' folder for each image size.
+To use these Sub Loyalty Badges for your Twitch channel, go to your Creator Dashboard and navigate to *Settings >> Affiliate >> Subscriber Badges*. From there you can upload the images found in the 'Badges' folder for each image size.
 
 I've labeled the images in order, as well as labeled the image size for each badge. You can either click each Badge size to find and upload from the file picker, or you can drag and drop each image. Make sure to save your changes and you're set! Enjoy the new Sub Loyalty Badges.
 
