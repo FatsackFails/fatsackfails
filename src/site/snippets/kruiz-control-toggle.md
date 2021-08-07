@@ -5,7 +5,7 @@ excerpt: Basic framework of toggle system to switch between two states with the
   Mode, etc.
 image_card_credit: "[snappify](https://snappify.io/) for code mockup"
 title: Kruiz Control - Toggle Demo
-slug: kc-toggle
+slug: kruiz-control-toggle
 date: 2021-05-05T05:06:44.448Z
 dateMod: Last Modified
 post_type: article
