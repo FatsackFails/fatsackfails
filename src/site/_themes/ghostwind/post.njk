@@ -57,11 +57,11 @@ layout: default.njk
     <div id="video-frame" class="resp-container video-embed md:rounded overflow-hidden" data-id="{{ video_id }}" data-type="{{ video_type }}">
       <div id="video-preview">
         {% if video_type === "youtube" and image_card %}
-          <img class="preview-image" src="{{ previewImage }}">
+          <img class="preview-image" alt="{{ image_card_alt }}" src="{{ previewImage }}">
         {% elif video_type === "youtube" %}
-          <img class="preview-image" src="https://i3.ytimg.com/vi/{{ video_id }}/maxresdefault.jpg">
+          <img class="preview-image" alt="{{ image_card_alt }}" src="https://i3.ytimg.com/vi/{{ video_id }}/maxresdefault.jpg">
         {% else %}
-          <img class="preview-image" src="{{ previewImage }}">
+          <img class="preview-image" alt="{{ image_card_alt }}" src="{{ previewImage }}">
         {% endif %}
         <div class="play-icon"></div>
       </div>
@@ -70,7 +70,7 @@ layout: default.njk
   {% elif image_card %}
   <div class="hidden lg:block w-full max-w-6xl mx-auto bg-white bg-cover md:rounded overflow-hidden" style="height: 60vh; background-image:url('{{ image_card }}'); background-position: center center; background-repeat: no-repeat; background-size: cover;"></div>
   <div class="lg:hidden w-full max-w-6xl mx-auto bg-white bg-cover overflow-hidden relative pb-16/9">
-    <img src="{{ image_card }}" class="absolute h-full w-full object-cover">
+    <img src="{{ image_card }}" alt="{{ image_card_alt }}" class="absolute h-full w-full object-cover">
   </div>
   {% endif %}
 
