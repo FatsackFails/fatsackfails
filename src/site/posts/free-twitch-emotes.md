@@ -4,7 +4,7 @@ excerpt: >-
   pack of 41 free to use Sub Emotes for your Twitch channel. These are Pay What You Want, but you can put Zero
   in the Price to download for free! You can read my [Twitter
   thread](https://twitter.com/FatsackFails/status/1254271072066777090) where I
-  discuss making these. [Get them now](https://gumroad.com/l/EhazJ?wanted=true), or read on for more details!
+  discuss making these. [Get them now](#gumroad), or read on for more details!
 image_card_credit: null
 title: Fatsack's Freebies 02 - FREE Twitch Affiliate Sub Emotes
 slug: free-twitch-emotes
@@ -71,7 +71,4 @@ Make sure to check back for more Twitch assets and streamer resources!
 
 If these Emotes are helpful for your channel and you find yourself with extra money to burn from all those sweet subs, consider [throwing a few bucks my way](/support)!
 
-
-
-<script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://gumroad.com/l/EhazJ?wanted=true" target="_blank">Get FREE Emotes</a>
+{% cta_gumroad "Over 40 emotes to choose from", "Covering every streamer's needs", "Get FREE Emotes", "https://fatsackfails.gumroad.com/l/twitch-emotes?wanted=true" %}

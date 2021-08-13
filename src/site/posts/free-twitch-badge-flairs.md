@@ -16,7 +16,7 @@ excerpt: >-
   Want, meaning if you want to get it for free all you have to do is put Zero in
   the price! If you'd like you can read the [thread on
   Twitter](https://twitter.com/FatsackFails/status/1283871221499781120) where I
-  discuss making these. [Grab them now](https://gumroad.com/l/FeZPc?wanted=true), or read for more details!
+  discuss making these. [Grab them now](#gumroad), or read for more details!
 teaser: Let your Tier 2 and Tier 3 Subs stand out with these Badge Flairs!
 seo_title: Fatsack's Freebies 03 - FREE Twitch Sub Badge Flairs
 seo_desc: This pack of 35 Sub Badge Flairs for Twitch steamers lets their Tier 2
@@ -50,5 +50,4 @@ If you have any questions about anything, or need something clarified, feel free
 
 If these Badge Flairs are helpful for your channel and you find yourself with extra money to burn from all those sweet subs, consider [throwing a few bucks my way](/support)!
 
-<script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://gumroad.com/l/FeZPc?wanted=true" target="_blank">Get FREE Flairs</a>
+{% cta_gumroad "Top tier Badge Flairs", "for your top tier subscribers", "Get FREE Flairs", "https://fatsackfails.gumroad.com/l/twitch-flairs?wanted=true" %}
