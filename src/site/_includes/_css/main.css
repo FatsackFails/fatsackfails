@@ -427,6 +427,11 @@ pre[class*="language-"] {
   }
 }
 
+/* CTAs */
+#gumroad {
+  scroll-margin-top: 8rem;
+}
+
 /* Table of Contents */
 .md-toc {
   @apply px-4 pb-4 -mt-4 border-b border-solid;
