@@ -2,7 +2,7 @@
 excerpt: >-
   Here's a set of free to use Sub Loyalty Badges that everyone can use for their Twitch channel. This
   set is Pay What You Want, but you can put zero in the price to download for free.
-  [Download now](https://fatsackfails.gumroad.com/l/twitch-badges?wanted=true)
+  [Download now](#gumroad)
   or read on for more details.
 image_card_credit: ""
 title: Fatsack's Freebies 01 - FREE Twitch Affiliate Sub Loyalty Badges
@@ -67,6 +67,4 @@ Make sure to check back for more Twitch assets and streamer resources!
 
 If these Badges are helpful for your channel and you find yourself with extra money to burn from all those sweet subs, consider [throwing a few bucks my way](support)!
 
-<a class="gumroad-button" href="https://fatsackfails.gumroad.com/l/twitch-badges?wanted=true" target="_blank" onclick="fathom.trackGoal('DYVHZHS6', 0);">Get FREE Badges</a>
-
-{% cta "Want to collaborate with me?", "Have a business opportunity?", "Let's chat!", "/contact/" %}
+{% cta_gumroad "Celebrate your subscribers", "Show off 5 years of badges", "Get FREE Badges", "https://fatsackfails.gumroad.com/l/twitch-badges?wanted=true" %}

@@ -35,6 +35,25 @@ module.exports = {
     </div>`;
   },
 
+  cta_gumroad: (top_text, bottom_text, button_text, button_url) => {
+    return `<div id="gumroad" class="bg-fspurple-800 rounded">
+      <div class="max-w-screen-xl mx-auto p-6 lg:p-10 lg:flex lg:items-center lg:justify-between">
+        <h2 class="text-3xl leading-9 font-extrabold tracking-tight sm:text-4xl sm:leading-10 text-fspurple-100 my-0">
+          ${top_text}
+          <br>
+          <span class="text-fspink-600">${bottom_text}</span>
+        </h2>
+        <div class="mt-8 flex lg:flex-shrink-0 lg:mt-0 text-fspurple-100 hover:text-fspurple-900">
+          <div class="inline-flex rounded-md shadow">
+            <a href="${button_url}" target="_blank" class="shadow-md font-medium py-2 px-4 cursor-pointer border-fspink-500 border-4 hover:bg-fspink-500 rounded text-lg text-center w-48 no-underline" onclick="fathom.trackGoal('DYVHZHS6', 0);">
+              ${button_text}
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>`;
+  },
+
   button: (button_text, button_url, target) => {
     return `<a href="${button_url}" ${target} rel="noopener noreferrer" class="h-16 text-fspurple-100 hover:text-fspurple-900 bg-fspurple-700 shadow-md font-medium py-2 px-4 cursor-pointer border-fspink-500 border-4 hover:bg-fspink-500 rounded text-lg text-center w-48 no-underline">
     ${button_text}</a>`;
