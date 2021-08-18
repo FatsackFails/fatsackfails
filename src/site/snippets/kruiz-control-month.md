@@ -42,7 +42,7 @@ OBS Source "Date" Text "{monthName}"
 
 ## Breaking It Down
 
-Our action works by using a `Function` event to run a small bit a JavaScript to determine the current month and write that data into an `OBS Source Text` we have set up.
+Our event works by using a `Function` action to run a small bit a JavaScript to determine the current month and write that data into an `OBS Source Text` we have set up.
 
 We use `OnInit` to run this action every time KC starts up (on OBS startup, refreshing the browser source, using the default `!kcreset` command.)
 
