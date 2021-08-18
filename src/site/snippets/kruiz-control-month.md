@@ -18,7 +18,7 @@ seo_title: Kruiz Control - Write Month to OBS Text Source
 seo_desc: Example of how to make Kruiz
   Control write the month into an OBS Text Source.
 ---
-I recently finished a stream overlay commission for [SajochiSama](https://twitch.tv/sajochisama) that was comic book themed. One fun detail I added was to the comic cover on the "Starting Soon" screen. It will automatically update the issue month to match the current date. Here's the code I used in Kruiz Control to do that!
+I recently finished a stream overlay commission for [SajochiSama](https://twitch.tv/sajochisama) that was comic book themed. One fun detail I added was to the comic cover on the "Starting Soon" screen. It will automatically update the issue month to match the current date. Let's explore how I accomplished that using Kruiz Control!
 
 @[vimeo](588778678)
 
@@ -95,7 +95,7 @@ The variable is set to the result of a *getMonth()* Method using our `date` vari
 
 - `monthName: months[date.getMonth()]` in our example is now `monthName: 'AUG'`. This is our final result that will get passed to the OBS Text Source and show up in the overlay.
 
-- `return {monthName: months[date.getMonth()]}` becomes `return {monthName: 'AUG'}` in our example, and creates a parameter in Kruiz Control called `{monthName}` with the value of `'AUG'`. This passing the result of our calculation inside the `Function` action outside allows the it to be used anywhere else in the event we are running. This parameter can be used like any other parameter in KC, so we use at as a parameter for the `OBS Text Source` action to write in the month in our overlay.
+- `return {monthName: months[date.getMonth()]}` becomes `return {monthName: 'AUG'}` in our example, and creates a parameter in Kruiz Control called `{monthName}` with the value of `'AUG'`. This passes the result of our calculation from inside the `Function` action to the outside which allows the it to be used anywhere else in the event. This parameter can be used like any other parameter in KC, so we use it to set the text for the `OBS Text Source` action to write in the month in our overlay.
 
 #### Further Reading
 [getMonth() Method - Returns the month for the specified date, according to local time.](https://www.w3schools.com/jsref/jsref_getmonth.asp)
