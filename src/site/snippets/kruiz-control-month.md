@@ -4,7 +4,7 @@ excerpt: Example of how to make [Kruiz
 image_card_credit: "[snappify](https://snappify.io/) for code mockup"
 title: Kruiz Control - Write Month to OBS Text Source
 slug: kruiz-control-month
-date: 2021-08-06
+date: 2021-08-18
 dateMod: Last Modified
 post_type: article
 category: Kruiz Control
@@ -20,11 +20,13 @@ seo_desc: Example of how to make Kruiz
 ---
 I recently finished a stream overlay commission for [SajochiSama](https://twitch.tv/sajochisama) that was comic book themed. One fun detail I added was to the comic cover on the "Starting Soon" screen. It will automatically update the issue month to match the current date. Here's the code I used in Kruiz Control to do that!
 
+@[vimeo](588778678)
+
 <a name="toc" class="mb-0"></a>
 
 [[toc]]
 
-## The Code
+## The Event
 KC Version: v1.5.0
 
 Usage: `OnInit`
@@ -44,21 +46,21 @@ Our action works by using a `Function` event to run a small bit a JavaScript to 
 
 We use `OnInit` to run this action every time KC starts up (on OBS startup, refreshing the browser source, using the default `!kcreset` command.)
 
-### Triggers and Actions Used
+#### Triggers and Actions Used
 [`OnInit` Used to fire a set of actions when Kruiz Control starts.](https://github.com/Kruiser8/Kruiz-Control/blob/master/js/Documentation.md#oninit)
 
 [`Function` Used to create a JavaScript function using the input text.](https://github.com/Kruiser8/Kruiz-Control/blob/master/js/Documentation.md#function)
 
 [Back to Contents](#toc)
 
-#### JavaScript Code
+## JavaScript Code
 
 ```js
 var date = new Date();
 ```
 Our first piece of JavaScript creates a new date object named `date`. This will pull the entire date all the way down to the millisecond from KC's browser source when called, but for our purposes we only need the month. JavaScript counts months from 0 to 11, with `January = 0` all the way to `December = 11`.
 
-### JavaScript Documentation
+#### JavaScript Documentation
 [JavaScript Date Objects - Used to work with dates.](https://www.w3schools.com/js/js_dates.asp)
 
 ```js
@@ -68,7 +70,7 @@ The second part of our code creates an array named `months` with each element ho
 
 Since our `Function` action has to be written in double quotes to be properly parsed by Kruiz Control, we use single quotes in the array for each element to avoid syntax errors.
 
-### JavaScript Documentation
+#### JavaScript Documentation
 [Array - Used to store multiple values in a single variable.](https://www.w3schools.com/js/js_arrays.asp)
 
 ```js
@@ -87,7 +89,7 @@ The variable is set to the result of a *getMonth()* Method using our `date` vari
 
 - `return {monthName: months[date.getMonth()]}` becomes `return {monthName: 'AUG'}` in our example, and creates a parameter in Kruiz Control called `{monthName}` with the value of `'AUG'`. This passing the result of our calculation inside the `Function` action outside allows the it to be used anywhere else in the event we are running. This parameter can be used like any other parameter in KC, so we use at as a parameter for the `OBS Text Source` action to write in the month in our overlay.
 
-### JavaScript Documentation
+#### JavaScript Documentation
 [getMonth() Method - Returns the month (from 0 to 11) for the specified date, according to local time.](https://www.w3schools.com/jsref/jsref_getmonth.asp)
 
 [return Statement - Stops the execution of a function and returns a value from that function.](https://www.w3schools.com/jsref/jsref_return.asp)
@@ -95,7 +97,7 @@ The variable is set to the result of a *getMonth()* Method using our `date` vari
 [Back to Contents](#toc)
 
 ## End Result
-Here's a little demo showing how all of this comes together for [SajochiSama](https://twitch.tv/sajochisama)'s overlay:
+Once again here's the demo showing how all of this comes together for [SajochiSama](https://twitch.tv/sajochisama)'s overlay:
 
 @[vimeo](588778678)
 
