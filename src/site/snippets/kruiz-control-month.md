@@ -51,6 +51,8 @@ We use `OnInit` to run this action every time KC starts up (on OBS startup, refr
 
 [`Function` Used to create a JavaScript function using the input text.](https://github.com/Kruiser8/Kruiz-Control/blob/master/js/Documentation.md#function)
 
+[`OBS Source Text` Used to change the text of a text source in OBS.](https://github.com/Kruiser8/Kruiz-Control/blob/master/js/Documentation.md#obs-source-text)
+
 [Back to Contents](#toc)
 
 ## JavaScript Code
