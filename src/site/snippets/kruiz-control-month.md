@@ -95,7 +95,7 @@ The variable is set to the result of a *getMonth()* Method using our `date` vari
 
 - `monthName: months[date.getMonth()]` in our example is now `monthName: 'AUG'`. This is our final result that will get passed to the OBS Text Source and show up in the overlay.
 
-- `return {monthName: months[date.getMonth()]}` becomes `return {monthName: 'AUG'}` in our example, and creates a parameter in Kruiz Control called `{monthName}` with the value of `'AUG'`. This passes the result of our calculation from inside the `Function` action to the outside which allows the it to be used anywhere else in the event. This parameter can be used like any other parameter in KC, so we use it to set the text for the `OBS Text Source` action to write in the month in our overlay.
+- `return {monthName: months[date.getMonth()]}` becomes `return {monthName: 'AUG'}` in our example, and creates a parameter in Kruiz Control called `{monthName}` with the value of `'AUG'`. This passes the result of our calculation from inside the `Function` action to the outside which allows it to be used anywhere else in the event. This parameter can be used like any other parameter in KC, so we use it to set the text for the `OBS Text Source` action to write in the month in our overlay.
 
 #### Further Reading
 [getMonth() Method - Returns the month for the specified date, according to local time.](https://www.w3schools.com/jsref/jsref_getmonth.asp)
