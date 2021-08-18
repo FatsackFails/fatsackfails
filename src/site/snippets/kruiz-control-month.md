@@ -55,13 +55,17 @@ We use `OnInit` to run this action every time KC starts up (on OBS startup, refr
 
 ## JavaScript Code
 
+### Part One: Setting new Date()
+
 ```js
 var date = new Date();
 ```
 Our first piece of JavaScript creates a new date object named `date`. This will pull the entire date all the way down to the millisecond from KC's browser source when called, but for our purposes we only need the month. JavaScript counts months from 0 to 11, with `January = 0` all the way to `December = 11`.
 
-#### JavaScript Documentation
+#### Further Reading
 [JavaScript Date Objects - Used to work with dates.](https://www.w3schools.com/js/js_dates.asp)
+
+### Part Two: Creating an Array
 
 ```js
 var  months = ['JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC'];
@@ -70,8 +74,10 @@ The second part of our code creates an array named `months` with each element ho
 
 Since our `Function` action has to be written in double quotes to be properly parsed by Kruiz Control, we use single quotes in the array for each element to avoid syntax errors.
 
-#### JavaScript Documentation
+#### Further Reading
 [Array - Used to store multiple values in a single variable.](https://www.w3schools.com/js/js_arrays.asp)
+
+### Part Three: Putting It All Together
 
 ```js
 return {monthName: months[date.getMonth()]}
@@ -89,10 +95,10 @@ The variable is set to the result of a *getMonth()* Method using our `date` vari
 
 - `return {monthName: months[date.getMonth()]}` becomes `return {monthName: 'AUG'}` in our example, and creates a parameter in Kruiz Control called `{monthName}` with the value of `'AUG'`. This passing the result of our calculation inside the `Function` action outside allows the it to be used anywhere else in the event we are running. This parameter can be used like any other parameter in KC, so we use at as a parameter for the `OBS Text Source` action to write in the month in our overlay.
 
-#### JavaScript Documentation
-[getMonth() Method - Returns the month (from 0 to 11) for the specified date, according to local time.](https://www.w3schools.com/jsref/jsref_getmonth.asp)
+#### Further Reading
+[getMonth() Method - Returns the month for the specified date, according to local time.](https://www.w3schools.com/jsref/jsref_getmonth.asp)
 
-[return Statement - Stops the execution of a function and returns a value from that function.](https://www.w3schools.com/jsref/jsref_return.asp)
+[return Statement - Stops execution of function and returns value from that function.](https://www.w3schools.com/jsref/jsref_return.asp)
 
 [Back to Contents](#toc)
 
