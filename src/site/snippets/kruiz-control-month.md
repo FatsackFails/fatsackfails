@@ -53,7 +53,7 @@ We use `OnInit` to run this action every time KC starts up (on OBS startup, refr
 
 #### JavaScript Code
 
-```JavaScript
+```js
 var date = new Date();
 ```
 Our first piece of JavaScript creates a new date object named `date`. This will pull the entire date all the way down to the millisecond from KC's browser source when called, but for our purposes we only need the month. JavaScript counts months from 0 to 11, with `January = 0` all the way to `December = 11`.
@@ -61,7 +61,7 @@ Our first piece of JavaScript creates a new date object named `date`. This will 
 ### JavaScript Documentation
 [JavaScript Date Objects - Used to work with dates.](https://www.w3schools.com/js/js_dates.asp)
 
-```JavaScript
+```js
 var  months = ['JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC'];
 ```
 The second part of our code creates an array named `months` with each element holding a string representing the different months of the year. Later in the code we'll access the array and reference its index numbers. Array indexes start at 0, so the first element in our example is `[0] 'JAN'`, the second element is `[1] 'FEB'`, and so on. This is what will eventually be written into the OBS Text Source.
@@ -71,7 +71,7 @@ Since our `Function` action has to be written in double quotes to be properly pa
 ### JavaScript Documentation
 [Array - Used to store multiple values in a single variable.](https://www.w3schools.com/js/js_arrays.asp)
 
-```JavaScript
+```js
 return {monthName: months[date.getMonth()]}
 ```
 
