@@ -34,7 +34,7 @@ The Hate Raid Response community is a hard working group of creators, developers
 
 ## Kruiz Control
 
-If you're not familiar with Kruiz Control at all, it's an automation tool for Twitch that allows you to create events that can be triggered by chat, by alerts, by channel points, by OBS, and more. It's powerful enough to be a full fledged Twitch bot by itself, but can also be used to boost the customization and power of other bots you're using. KC runs locally, which means everything needed to make it work runs on your computer, so KC is only on when you're OBS is open.
+If you're not familiar with Kruiz Control at all, it's an automation tool for Twitch that allows you to create events that can be triggered by chat, by alerts, by channel points, by OBS, and more. It's powerful enough to be a full fledged Twitch bot by itself, but can also be used to boost the customization and power of other bots you're using. KC runs locally, which means everything needed to make it work runs on your computer, so KC is only on when your OBS is open.
 
 There's a [quick setup guide](https://github.com/Kruiser8/Kruiz-Control#setup-guide) and a full [settings walkthrough](https://github.com/Kruiser8/Kruiz-Control/blob/master/settings/Settings.md#kruiz-control-settings) for getting Kruiz Control running on your channel. There's also a friendly [support Discord](https://discord.gg/wU3ZK3Q) if you have any questions. I hang out there a lot answering questions and [sharing fun things you can do with KC](https://fatsackfails.com/category/kruiz-control/).
 
