@@ -1,6 +1,6 @@
 # Redirects from what the browser requests to what Netlify serves
 /home            /
-/featured        /posts/free-resources-twitch/
+/featured        /posts/kruiz-control-mod-tools/
 /analytics       https://app.usefathom.com/share/urpahtzu/fatsackfails.com
 /discord         https://discord.gg/0103GELTxGwRCCgaN
 /twitch          https://twitch.tv/fatsackfails
@@ -68,4 +68,3 @@
 /tags/snippets/   /snippets/
 /category/streamer-resources/ /tags/streamer-resources
 /snippets/kc-toggle/       /snippets/kruiz-control-toggle
-/posts/kruiz-control-mod-tools- /posts/kruiz-control-mod-tools
