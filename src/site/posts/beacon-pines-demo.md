@@ -8,12 +8,12 @@ category: Highlights
 tags:
   - Beacon Pines
 image_card: /images/beacon-pines.png
-image_card_alt: Button City Header Image
+image_card_alt: Beacon Pines splash art
 video_id: "1129891313"
 video_type: vod
 excerpt: "Download the [Beacon Pines
-  DEMO](https://store.steampowered.com/app/1269640/Beacon_Pines/) and wishlist it on Steam!"
-teaser: Fatsack Fails at Subliminal's Button City Demo!
+  demo](https://store.steampowered.com/app/1269640/Beacon_Pines/) and wishlist it on Steam!"
+teaser: Cute and creepy!
 seo_title: Fatsack Fails at Beacon Pines Demo
 seo_desc: Fatsack Fails at Hiding Spot Games' Beacon Pines Demo! Beacon Pines is a cute and creepy adventure game within a magical storybook. You play as both the reader of the book and its main character, Luka. Explore the town to find word charms. Use your charms to change the course of fate!
 ---
