@@ -57,4 +57,4 @@ Make sure to check back for more Twitch assets and streamer resources!
 
 If these Emotes are helpful for your channel and you find yourself with extra money to burn from all those sweet subs, consider [throwing a few bucks my way](/support)!
 
-{% cta_gumroad "Over 100 designs!", "Channel Points, Rewards, Emotes, and Sub Badges", "Get FREE Designs", "https://fatsackfails.gumroad.com/l/twitch-affiliate-starter-kit?wanted=true" %}
+{% cta_gumroad "Hit Those Sub Goals!", "Emotes, Badges, Flairs, and Channel Points", "Get Starter Kit", "https://fatsackfails.gumroad.com/l/twitch-affiliate-starter-kit?wanted=true" %}
