@@ -22,6 +22,12 @@ Hitting Affiliate status is a great achievement, but the cost of getting custom 
 
 Let your community celebrate right away without the pressure of having to find an artist to commission. Use the designs as placeholders for the time being, or as a base to build on for custom artwork. Over 100+ artwork elements already sized and organized to upload to your Creator Dashboard the moment you download. Pay what you want starting at $10 USD.
 
+![Preview of Twitch emote designs](/images/twitch-emote-designs.png)
+
+![Preview of Twitch badge and flair designs](/images/twitch-badge-and-flair-designs.png)
+
+![Preview of Twitch channel point designs](/images/twitch-channel-point-designs.png)
+
 ## Includes:
 
 - Badges up to 5 years of Subs
