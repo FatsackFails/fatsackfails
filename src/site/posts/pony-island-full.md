@@ -2,8 +2,8 @@
 title: Pony Island Full Play Through
 slug: pony-island-full
 image_card: /images/pony-island.jpg
-video_id: t_EOKVtL7RTfbw
-video_type: collection
+video_id: "182044411"
+video_type: vod
 clipper:
 date: 2017-10-14T02:22:47.952Z
 dateMod: Last Modified
