@@ -20,4 +20,4 @@ seo_desc: Quick and easy tutorial to setup a 2D VTuber inside OBS Studio using t
 ---
 This PNGTuber effect requires Exeldro's [Move Transition Plugin](https://obsproject.com/forum/resources/move-transition.913/). That means it only works with OBS Studio, and not SLOBS or any other broadcast software.
 
-If you use this effect on your stream I'd love to see it! Tag me on [social media](https://twitter.com/fatsackfails) with a clip.
+If you use this effect on your stream I'd love to see it! Tag me on [Twitter](https://twitter.com/fatsackfails) or [Instagram](https://instagram.com/fatsackfails) with a clip.
