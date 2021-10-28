@@ -18,3 +18,4 @@ teaser: I'm Just Trying to Paint, DAD
 seo_title: Fatsack Fails at Layers of Fear Inheritance
 seo_desc: Fatsack fails at Layers of Fear Inheritance by Bloober Team.
 ---
+Set 30 years after the main story, play from the point of view of the Daughter and revisit the nightmare that is Layers of Fear. Use my affiliate link here to [check out the game for yourself](https://www.humblebundle.com/store/layers-of-fear-masterpiece-edition?partner=fatsackfails).
