@@ -31,7 +31,7 @@ seo_desc: "I'm participating in Save The Children's #GamingTuesday 2021 charity
 - $1000 - at 100% of our goal we'll celebrate with a #MorphsuitHype stream!
 - Beyond? - If we go over our initial goal, we'll add more milestones!
 
-This will be my third year participating in Save The Children's #GamingTuesday charity event. From November 23 until December 7, I'll be <a href="https://donate.tiltify.com/@fatsackfails/fatsackfails-gaming-tuesday-2021" target="_blank">running charity streams</a> to raise money. Save The Children has been <a href="https://www.savethechildren.org/us/what-we-do" target="_blank">helping children for over 100 years</a> all across the world.
+This will be my third year participating in Save The Children's #GamingTuesday charity event. From November 23 until December 7, I'll be <a href="https://tiltify.com/@fatsackfails/fatsackfails-gaming-tuesday-2021" target="_blank">running charity streams</a> to raise money. Save The Children has been <a href="https://www.savethechildren.org/us/what-we-do" target="_blank">helping children for over 100 years</a> all across the world.
 
 Last year we raised $1000 dollars for the event, over double our original $400 goal. This year I'm hoping we can raise at least $1000 again, so I'll need your help! Please donate what you can, even if it's only a few dollars.
 
