@@ -30,13 +30,13 @@ seo_desc: "I'm participating in Save The Children's #GamingTuesday 2021 charity
 Donate $50 or more to get access to a limited edition Gaming Tuesday shirt from Design by Humans! All of this is handled by Save the Children and Design by Humans as a way to say thank you for your support.
 
 ## Milestones
-- *$1 COMPLETE 11/23/21* - FIRST dollar donated!
+- ***$1 COMPLETE 11/23/21*** - FIRST dollar donated!
 - $500 - at 50% of our goal we'll celebrate with a Batsack stream!
 - $1000 - at 100% of our goal we'll celebrate with a #MorphsuitHype stream!
 - Beyond? - If we go over our initial goal, we'll add more milestones!
 
 ### Minimum Donation
-Save the Children has reached out to let everyone know that due to changes in payment processor fees they've set the minimum donation amount to $3. This insures that after credit card fees, PayPal fees, etc. go through Save the Children
+**Save the Children has reached out to let everyone know that due to changes in payment processor fees they've set the minimum donation amount to $3.**
 
 This will be my third year participating in Save The Children's #GamingTuesday charity event. From November 23 until December 7, I'll be <a href="https://tiltify.com/@fatsackfails/fatsackfails-gaming-tuesday-2021" target="_blank">running charity streams</a> to raise money. Save The Children has been <a href="https://www.savethechildren.org/us/what-we-do" target="_blank">helping children for over 100 years</a> all across the world.
 
