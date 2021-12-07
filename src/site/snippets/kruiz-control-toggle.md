@@ -32,7 +32,7 @@ Breaking it down to its basic parts, this framework of events will take a `false
 
 ### Updated Method
 
-As of v1.5.4 Kruiz Control added some built in Actions to achieve the same result as writing out custom Functions for the toggle system. The original method still works, and is a great way to learn more about how KC works as well as dip your toes into JavaScript. Here's the updated method the toggles system works.
+As of v1.5.4 Kruiz Control added some built in Actions to achieve the same result as writing out custom Functions for the toggle system. The original method still works, and is a great way to learn more about how KC works as well as dip your toes into JavaScript. Here's the updated method for the toggle system.
 
 ```bash
 # Sets toggle01 to off when KC starts up
@@ -42,7 +42,6 @@ Variable Set toggle01 false
 # Send Message to switch toggle01
 OnCommand b 0 !toggle
 switchToggle
-
 
 # Switches toggle01 on and off
 OnAction switchToggle
@@ -66,7 +65,7 @@ Chat Send "Toggle is on!"
 ```
 
 ##### New Triggers and Actions Used
-[`OnAction` Used to define a list of actions that will get inserted into an event when the provided <action> is called.](https://github.com/Kruiser8/Kruiz-Control/blob/master/js/Documentation.md#onaction)
+[`OnAction` Used to define a list of actions that will get inserted into an event when the provided '<action>' is called.](https://github.com/Kruiser8/Kruiz-Control/blob/master/js/Documentation.md#onaction)
 
 [`Param Negate` Negates the value within the parameter.](https://github.com/Kruiser8/Kruiz-Control/blob/master/js/Documentation.md#param-negate)
 
