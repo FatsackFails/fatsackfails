@@ -1,6 +1,6 @@
 ---
 excerpt: >-
-  From November 23rd to December 7th we're raising funds for [Save
+  From November 23rd to December 15th we're raising funds for [Save
   The Children's](https://www.savethechildren.org/) #GamingTuesday charity
   event!
 
@@ -25,6 +25,9 @@ seo_desc: "I'm participating in Save The Children's #GamingTuesday 2021 charity
 ---
 <div class="flex flex-wrap justify-center pb-8"><a href="https://tiltify.com/@fatsackfails/fatsackfails-gaming-tuesday-2021" target="_blank" class="fs-btn mr-4">View Campaign</a><a href="https://donate.tiltify.com/@fatsackfails/fatsackfails-gaming-tuesday-2021" target="_blank" class="fs-btn">Donate to Campaign</a></div>
 
+## Update! Extended Fundraising Time
+Save the Children has announced they're extending the event an EXTRA WEEK! So you can donate until Dec 15th and still get the rewards and help us meet our milestones!
+
 ## Rewards
 ![Limited edition Gaming Tuesday shirt by Design by Humans](/images/shirt-reward-gamingtuesday2021.png)
 Donate $50 or more to get access to a limited edition Gaming Tuesday shirt from Design by Humans! All of this is handled by Save the Children and Design by Humans as a way to say thank you for your support.
@@ -38,7 +41,7 @@ Donate $50 or more to get access to a limited edition Gaming Tuesday shirt from 
 ### Minimum Donation
 **Save the Children has reached out to let everyone know that due to changes in payment processor fees they've set the minimum donation amount to $3.**
 
-This will be my third year participating in Save The Children's #GamingTuesday charity event. From November 23 until December 7, I'll be <a href="https://tiltify.com/@fatsackfails/fatsackfails-gaming-tuesday-2021" target="_blank">running charity streams</a> to raise money. Save The Children has been <a href="https://www.savethechildren.org/us/what-we-do" target="_blank">helping children for over 100 years</a> all across the world.
+This will be my third year participating in Save The Children's #GamingTuesday charity event. From November 23 until December 15, I'll be <a href="https://tiltify.com/@fatsackfails/fatsackfails-gaming-tuesday-2021" target="_blank">running charity streams</a> to raise money. Save The Children has been <a href="https://www.savethechildren.org/us/what-we-do" target="_blank">helping children for over 100 years</a> all across the world.
 
 Last year we raised $1000 dollars for the event, over double our original $400 goal. This year I'm hoping we can raise at least $1000 again, so I'll need your help! Please donate what you can, even if it's only a few dollars.
 
