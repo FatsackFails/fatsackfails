@@ -65,7 +65,7 @@ Chat Send "Toggle is on!"
 ```
 
 ##### New Triggers and Actions Used
-[`OnAction` Used to define a list of actions that will get inserted into an event when the provided '<action>' is called.](https://github.com/Kruiser8/Kruiz-Control/blob/master/js/Documentation.md#onaction)
+[`OnAction` Used to define a list of actions that will get inserted into an event when the provided "\<action\>" is called.](https://github.com/Kruiser8/Kruiz-Control/blob/master/js/Documentation.md#onaction)
 
 [`Param Negate` Negates the value within the parameter.](https://github.com/Kruiser8/Kruiz-Control/blob/master/js/Documentation.md#param-negate)
 
