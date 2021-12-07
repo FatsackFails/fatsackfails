@@ -29,6 +29,42 @@ Breaking it down to its basic parts, this framework of events will take a `false
 [[toc]]
 
 ## The Code
+
+### Update!
+
+As of v1.5.4 Kruiz Control added some built in Actions to achieve the same result as writing out custom Functions for the toggle system. The original way still works, and is a great way to learn more about how KC works as well as dip your toes into JavaScript. Here's the updated way the toggles system works.
+
+```bash
+# Sets toggle01 to off when KC starts up
+OnInit
+Variable Set toggle01 false
+
+# Send Message to switch toggle01
+OnCommand b 0 !toggle
+switchToggle
+
+
+# Switches toggle01 on and off
+OnAction switchToggle
+Variable Load toggle01
+Param Negate toggle01
+Variable Set toggle01 {toggle01}
+Chat Send "toggle01 set to {toggle01}"
+
+# Checks to see if toggle01 is set to true or false
+OnCommand b 0 !checktoggle
+Variable Load toggle01
+Chat Send "toggle01 set to {toggle01}"
+
+# Tests toggle01 and does a different action depending on if its on or off
+OnCommand b 0 !testtoggle
+Variable Load toggle01
+If 2 {toggle01} = false
+Chat Send "Toggle is off!"
+Exit
+Chat Send "Toggle is on!"
+```
+
 KC Version: v1.3.4
 
 Usage: `!toggle` to switch back and forth between two states
