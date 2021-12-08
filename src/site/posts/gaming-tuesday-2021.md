@@ -36,7 +36,7 @@ Donate $50 or more to get access to a limited edition Gaming Tuesday shirt from 
 - ***$1 COMPLETE 11/23/21*** - FIRST dollar donated!
 - ***$500 COMPLETE 12/7/21*** - at 50% of our goal we'll celebrate with a Batsack stream!
 - ***$1000 COMPLETE 12/7/21*** - at 100% of our goal we'll celebrate with a #MorphsuitHype stream!
-- Beyond? - If we go over our initial goal, we'll add more milestones!
+- $1420.69 - FOR THE MEMES
 
 ### Minimum Donation
 **Save the Children has reached out to let everyone know that due to changes in payment processor fees they've set the minimum donation amount to $3.**
