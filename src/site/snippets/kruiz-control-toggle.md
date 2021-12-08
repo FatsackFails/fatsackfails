@@ -32,7 +32,7 @@ Breaking it down to its basic parts, this framework of events will take a `false
 
 ### Updated Method
 
-As of v1.5.4 Kruiz Control added some built in Actions to achieve the same result as writing out custom Functions for the toggle system. The original method still works, and is a great way to learn more about how KC works as well as dip your toes into JavaScript. Here's the updated method for the toggle system.
+As of v1.5.3 Kruiz Control added some built in Actions to achieve the same result as writing out custom Functions for the toggle system. The original method still works, and is a great way to learn more about how KC works as well as dip your toes into JavaScript. Here's the updated method for the toggle system.
 
 ```bash
 # Sets toggle01 to off when KC starts up
