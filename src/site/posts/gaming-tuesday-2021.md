@@ -34,8 +34,8 @@ Donate $50 or more to get access to a limited edition Gaming Tuesday shirt from 
 
 ## Milestones
 - ***$1 COMPLETE 11/23/21*** - FIRST dollar donated!
-- $500 - at 50% of our goal we'll celebrate with a Batsack stream!
-- $1000 - at 100% of our goal we'll celebrate with a #MorphsuitHype stream!
+- ***$500 COMPLETE 12/7/21*** - at 50% of our goal we'll celebrate with a Batsack stream!
+- ***$1000 COMPLETE 12/7/21*** - at 100% of our goal we'll celebrate with a #MorphsuitHype stream!
 - Beyond? - If we go over our initial goal, we'll add more milestones!
 
 ### Minimum Donation
