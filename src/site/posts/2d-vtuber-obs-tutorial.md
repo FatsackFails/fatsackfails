@@ -1,7 +1,7 @@
 ---
 title: Easy 2D VTuber with OBS Tutorial
 slug: 2d-vtuber-obs-tutorial
-image_card: /images/2d-vtuber-obs-tutorial.png
+image_card: /images/2d-vtuber-obs-tutorial.jpg
 video_id: 'ZHYNC69XgbA'
 video_type: youtube
 date: 2021-10-03T23:40:24Z
