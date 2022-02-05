@@ -14,13 +14,13 @@ tags:
   - Freebies
   - Twitch
   - Streamer Resources
-image_card: /images/free-twitch-channel-point-designs.png
+image_card: /images/free-twitch-channel-point-designs.jpg
 image_card_alt: Free Twitch Affiliate Sub Emotes
 teaser: Over 100 designs for your Channel Points and Rewards!
 seo_title: Fatsack's Freebies 04 - FREE Twitch Channel Point Designs
 seo_desc: FREE resource for Twitch Affiliate streamers! Over 100 designs for Channel Points and Channel Rewards! Use them on Twitch, Discord, Guilded, or Slack!
 ---
-![Preview of over 100 designs. Caption reads, "Use for Channel Points, Rewards, Emotes, or Sub Badges!"](/images/free-twitch-channel-point-designs-preview.png)
+![Preview of over 100 designs. Caption reads, "Use for Channel Points, Rewards, Emotes, or Sub Badges!"](/images/free-twitch-channel-point-designs-preview.jpg)
 
 Want to spice up your Channel Points? Need a design for that cool Reward you want your chat to spend points on? I GOT YOU COVERED!
 
@@ -55,7 +55,7 @@ From there you can upload the images found in the folders for each image size. I
 
 
 
-## Editing the Designs 
+## Editing the Designs
 In the '04 Source Files' folder are Affinity Designer (.afdesign) files used to create these designs. You will need [Affinity Designer](https://affinity.serif.com/en-us/designer/) to be able to open and edit them. I've set up each design in its own labeled artboard. Make any changes you want, like colors, shapes, etc. and then export the images.
 
 Remember you need to export as PNG for the transparency and you need to export each design three times at the different image sizes (112x112, 56x56, and 28x28 for channel points and emotes, 72x72, 36x36, and 18x18 for badges).

@@ -13,7 +13,7 @@ category: Kruiz Control
 tags:
   - Streamer Resources
   - Toggle
-image_card: /images/toggle-demo.png
+image_card: /images/toggle-demo.jpg
 image_card_alt: Mockup of toggle demo code for Kruiz Control.
 teaser: Learn to Toggle in Kruiz Control!
 seo_title: Kruiz Control - Toggle Demo

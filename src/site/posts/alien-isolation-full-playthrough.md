@@ -9,7 +9,7 @@ tags:
   - Alien Isolation
   - Play Throughs
   - Halloween
-image_card: /images/alien-isolation.png
+image_card: /images/alien-isolation.jpg
 image_card_alt: Fatsack Fails at Alien Isolation
 video_id: H_0mtlrz8BQPLA
 video_type: collection

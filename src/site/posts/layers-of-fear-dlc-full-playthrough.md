@@ -9,7 +9,7 @@ tags:
   - Layers of Fear
   - Play Throughs
   - Halloween
-image_card: /images/layers-of-fear-dlc.png
+image_card: /images/layers-of-fear-dlc.jpg
 image_card_alt: Fatsack Fails at Layers of Fear Inheritance
 video_id: x0m9_lJL7RROKg
 video_type: collection

@@ -8,7 +8,7 @@ category: News
 tags:
   - Fatsack News
   - Stream Sites
-image_card: /images/blog-site-update.png
+image_card: /images/blog-site-update.jpg
 excerpt: "FatsackFails.com gets an update! Refreshed design, and new features as
   we continue to improve Stream Sites.\r\n"
 teaser: |

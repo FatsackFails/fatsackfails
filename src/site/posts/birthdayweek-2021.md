@@ -8,7 +8,7 @@ category: News
 tags:
   - Fatsack News
   - BirthdayWeek
-image_card: /images/birthday-week-2021.png
+image_card: /images/birthday-week-2021.jpg
 image_card_alt: Fatsack's Birthday Week is here!
 excerpt: "From February 21 to February 27th, we're celebrating #BirthdayWeek!
   We'll be playing my week long drinking game, Birthday Shots! There's a

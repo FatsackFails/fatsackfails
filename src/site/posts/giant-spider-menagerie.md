@@ -7,7 +7,7 @@ post_type: video
 category: Highlights
 tags:
   - Grounded
-image_card: /images/giant-spider-menagerie.png
+image_card: /images/giant-spider-menagerie.jpg
 image_card_alt: Preview of Clip
 video_id: SincereTalentedPorpoiseCorgiDerp
 video_type: clip

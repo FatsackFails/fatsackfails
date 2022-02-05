@@ -7,7 +7,7 @@ post_type: video
 category: Highlights
 tags:
   - Halo
-image_card: /images/tank-crush.png
+image_card: /images/tank-crush.jpg
 image_card_alt: ""
 video_id: DullCautiousSquirrelRalpherZ
 video_type: clip

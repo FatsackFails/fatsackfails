@@ -12,7 +12,7 @@ tags:
   - Freebies
   - Twitch
   - Streamer Resources
-image_card: /images/make-it-rain-promo.png
+image_card: /images/make-it-rain-promo.jpg
 image_card_alt: Free streamer assets. Make It Rain overlay animations.
 teaser: Streamer Assets to Make Your Alerts Make It Rain!
 seo_title: Fatsack's Freebies 05 - FREE Twitch Streamer Assets - Make It Rain Animations
@@ -20,7 +20,7 @@ seo_desc: FREE resource for Twitch streamers! Animated confetti overlay, Make It
 ---
 @[vimeo](643855989)
 
-![Animations available in both 16:9 horizontal and 9:16 vertical aspect ratio.](/images/make-it-rain-preview-01.png)
+![Animations available in both 16:9 horizontal and 9:16 vertical aspect ratio.](/images/make-it-rain-preview-01.jpg)
 
 I wanted some Make It Rain style animations for my alerts, so I made these! I thought I'd share them with you so you can use them too. Add them to your alerts, videos, etc. Includes vertical cropped versions too!
 

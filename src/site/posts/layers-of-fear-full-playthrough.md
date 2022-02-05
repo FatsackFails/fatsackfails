@@ -9,7 +9,7 @@ tags:
   - Layers of Fear
   - Play Throughs
   - Halloween
-image_card: /images/layers-of-fear.png
+image_card: /images/layers-of-fear.jpg
 image_card_alt: Fatsack Fails at Layers of Fear
 video_id: pFvBqTEqshYoxA
 video_type: collection

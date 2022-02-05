@@ -4,7 +4,7 @@ slug: cypher-homebrew-02
 date: 2020-02-02T13:39:14.370Z
 dateMod: Last Modified
 post_type: article
-image_card: /images/Fallout Cypher Banner 02.png
+image_card: /images/Fallout Cypher Banner 02.jpg
 image_card_alt: Fallout Cypher
 image_card_credit:
 excerpt: >-

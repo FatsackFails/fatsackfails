@@ -15,7 +15,7 @@ tags:
   - Freebies
   - Twitch
   - Streamer Resources
-image_card: /images/free-twitch-affiliate-sub-badges.png
+image_card: /images/free-twitch-affiliate-sub-badges.jpg
 image_card_alt: Display of Sub Badges
 teaser: Free to use Twitch Sub Loyalty Badges.
 seo_title: Fatsack's Freebies 01 - FREE Twitch Affiliate Sub Loyalty badges

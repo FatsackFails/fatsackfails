@@ -8,7 +8,7 @@ category: Kruiz Control
 tags:
   - Streamer Resources
   - Moderation
-image_card: /images/kruiz-control-mod-tools.png
+image_card: /images/kruiz-control-mod-tools.jpg
 image_card_alt: Kruiz Control logo with a Twitch Mod Badge.
 excerpt: >-
   Here are some Twitch chat moderation tools and filters powered by [Kruiz Control](https://github.com/Kruiser8/Kruiz-Control) to protect your channel. Thank you [Kruiser8](https://twitter.com/kruiser8) for looking over my ideas for these KC events, writing and improving on them, as well as letting me share these with others.
@@ -26,7 +26,7 @@ Follow botting, chat spam, and hate raids are unfortunately nothing new on Twitc
 
 Twitch itself has mentioned that it is working on better moderation tools, and that they're coming soon, but that means until that happens we as creators are pretty much on our own when it comes to protecting our channels and protecting our communities. If you or someone you know is worried about hate raids and need info on how to protect your Twitch channel, check out [Hate Raid Response](https://hateraidresponse.carrd.co/). It's a resource roundup that has tons of good advice, tools, and tips for what to do before, during, and after a hate raid occurs.
 
-[![Hate raid response. Hate raids are over. Twitch users providing preventative resources, reactive measures, temporary mods, and general support. Before, during, and after hate raids occur. Together.](/images/hate-raid-response-splash.png)](https://hateraidresponse.carrd.co/)
+[![Hate raid response. Hate raids are over. Twitch users providing preventative resources, reactive measures, temporary mods, and general support. Before, during, and after hate raids occur. Together.](/images/hate-raid-response-splash.jpg)](https://hateraidresponse.carrd.co/)
 
 The Hate Raid Response community is a hard working group of creators, developers, moderators and more all pooling their knowledge and experience dealing with hate raids and helping others do the same. I want to contribute by sharing these Kruiz Control powered chat commands and filters that can help protect your Twitch channel.
 

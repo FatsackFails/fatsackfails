@@ -12,7 +12,7 @@ category: Live Streaming
 tags:
   - Twitch
   - Streamer Resources
-image_card: /images/free-resources-hero.png
+image_card: /images/free-resources-hero.jpg
 image_card_alt: Free Twitch Streamer Resources
 teaser: 18 free resources to improve your Twitch stream.
 seo_title: Free Resources Every Twitch Streamer Needs to Know About
@@ -27,7 +27,7 @@ Whenever I find a way to make my job easier or faster to do, I make note of it b
 
 I've done my best to describe each resource in detail, as well as explain why I use it myself. If there's a way to support the creators, or if there are extra features you can get for using the paid premium version I'll let you know.
 
-## ![Stream Friendly Music](/images/blog-stream-friendly-music-header.png)
+## ![Stream Friendly Music](/images/blog-stream-friendly-music-header.jpg)
 
 At the time of writing, the conversation of music licensing and Twitch streaming is a heated one. I'm certain this will continue to be an important topic for content creators for quite some time. These free music providers allow me to stream music on Twitch without worrying about annoying muted VODs or dreaded DMCA takedowns.
 
@@ -51,7 +51,7 @@ This allows me to easily personalize my stream with custom music that can't be f
 
 Recently purchased by Tribe of Noise in September 2019, Free Music Archive is currently in the middle of a major upgrade at the time of writing. That means navigating the website can be a little difficult, so it's easiest to just [go straight to the search page with the filters already in place](https://www.freemusicarchive.org/search?adv=1&music-filter-CC-attribution-only=1&music-filter-CC-attribution-sharealike=1&music-filter-public-domain=1&music-filter-commercial-allowed=1&music-filter-remix-allowed=1) and search for music there.
 
-## ![Social Media](/images/blog-social-media-header.png)
+## ![Social Media](/images/blog-social-media-header.jpg)
 
 For a lot of Twitch streamers making posts and creating content for social media can be a second job in and of itself. These are a few resources I've used that help me speed up my social media posting without draining my funds.
 
@@ -78,7 +78,7 @@ I use [Instagram](https://instagram.com/fatsackfails) and [Twitter](https://twit
 
 The paid premium version removes branding from your tweets and allows for unlimited posts. If you want [you can use my referral link to sign up for Tweet Photo's free service](https://tweet.photo/?via=ethan). Should you then decide to upgrade to premium within 30 days, I make a commission from the sale at no extra cost to you.
 
-## ![Visual and Audio Editing](/images/blog-visual-and-audio-editing-header.png)
+## ![Visual and Audio Editing](/images/blog-visual-and-audio-editing-header.jpg)
 
 Over the years I've made a lot of assets for my stream. Alert overlays, panels, sound effects, etc. Sometimes they're created from scratch, other times they're edited together from multiple sources. These tools have helped me immensely in creating the different sounds and graphics I need without breaking the bank.
 
@@ -104,7 +104,7 @@ The fact that Resolve can do all of this in one program _and_ render the final v
 
 When you go to download DaVinci Resolve, you'll have to scroll past all the many features that Resolve has to get to the download button at the very bottom of the page. You'll have to register an account to download the program to your computer. It's a bit of a hassle, but you'll never need another program to do any kind of video editing. And if you ever want to take your editing to the next level, there's professional level hardware to speed up your workflow when using Resolve.
 
-## ![Twitch Channel](/images/blog-twitch-channel-header.png)
+## ![Twitch Channel](/images/blog-twitch-channel-header.jpg)
 
 This category is more of a catchall for different resources that I've found useful for making both my stream and my Twitch channel better that don't necessarily fit into the other sections. I still want to include them, however, because they're very good and very free.
 
@@ -126,7 +126,7 @@ Twitch's website has gone under plenty of redesigns, and they're constantly upda
 
 The FFZ browser extension is free to download and use, and if you want to support the project you can [donate to the developers](https://www.frankerfacez.com/donate). Donating $5 USD or more will double your emote limit from 25 to 50 emotes total for your channel. It also allows you to set a custom mod badge for your channel, and you'll get a supporter badge next to your name in all channels for anyone who has FFZ installed to see.
 
-## ![Live Streamer How-to](/images/blog-live-streamer-how-to-header.png)
+## ![Live Streamer How-to](/images/blog-live-streamer-how-to-header.jpg)
 
 Most of the knowledge I have about streaming on Twitch came first hand through trial and error. There's been many occasions where I've messed up and didn't fully understand what I was doing and my stream suffered from it. Thankfully, there are people out there sharing their experience and advice for streamers like me. These cool content creators will teach you how to approach live streaming as a career, content strategy to consider, and advanced techniques that you can use to improve your stream in every way.
 
@@ -144,7 +144,7 @@ Ashni provides all of this advice for free on her YouTube. If you want to suppor
 
 Despite being a newcomer into the educational streamer resources YouTube sphere of influence at the time of writing this, nutty has made a positive impression with me in his video series of advanced techniques for OBS. He showcases various plugins, settings, and setups to make your stream more engaging and entertaining to watch. They're educational, straight forward, and funny. If you want to learn how to take OBS to next level, nutty will show you how.
 
-## ![Stuff I've Made](/images/blog-stuff-ive-made-header.png)
+## ![Stuff I've Made](/images/blog-stuff-ive-made-header.jpg)
 
 This last section is a shameless plug for the free resources that I've created or had a hand in creating. These are things that I wanted to have when I first started out. I hope they're useful for you or another streamer you know who could use them.
 
@@ -162,6 +162,6 @@ Stream Sites attempts to solve a very specific problem for content creators: all
 
 The project is in very early testing, (I'm the only user currently) but there's a form to sign up for early access once we're ready to share it with others. You can also help us better understand what you need from Stream Sites by [answering our anonymous surveys](https://streamsites.xyz/#open-surveys). Stream Sites will be open source, so you can contribute to making it better for everyone!
 
-## ![Final Thoughts](/images/blog-final-thoughts-header.png)
+## ![Final Thoughts](/images/blog-final-thoughts-header.jpg)
 
 I hope this list of free resources improves your Twitch stream and makes it easier to run, nicer to look at, and more engaging for your audience. Do you know about a cool free resource for Twitch streamers that I may have missed? Or even better, have you created a free tool or resource that could help Twitch streamers and want to get more eyeballs on it? Get in touch! Let's all help each other succeed.

@@ -16,14 +16,14 @@ tags:
   - Freebies
   - Twitch
   - Streamer Resources
-image_card: /images/free-twitch-affiliate-sub-emotes.png
+image_card: /images/free-twitch-affiliate-sub-emotes.jpg
 image_card_alt: Free Twitch Affiliate Sub Emotes
 teaser: Over 40 FREE Emotes for your Twitch channel!
 seo_title: Fatsack's Freebies 02 - FREE Twitch Affiliate Sub Emotes
 seo_desc: Another FREE resource for Twitch Affiliate streamers! 41 Twitch Sub
   Emotes that everyone can use for their channel. Use them on Twitch, Discord, Guilded, or Slack!
 ---
-![Preview of emotes.](/images/free-twitch-emote-preview.png)
+![Preview of emotes.](/images/free-twitch-emote-preview.jpg)
 
 Finally unlocked Twitch Affiliate status and need some sweet Sub Emotes for your channel? Want to spice up your Discord, Guilded, or Slack channels? You came to the right place! This FREE Sub Emote pack comes with 41 different Emotes for you to immediately upload to your channel today! These Emotes are designed to fit nicely with my [Sub Loyalty Badges](/badges) as well as my [Sub Badge Flairs](/flairs) I made.
 

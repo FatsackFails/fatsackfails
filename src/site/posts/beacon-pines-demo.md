@@ -7,7 +7,7 @@ post_type: video
 category: Highlights
 tags:
   - Beacon Pines
-image_card: /images/beacon-pines.png
+image_card: /images/beacon-pines.jpg
 image_card_alt: Beacon Pines splash art
 video_id: "1129891313"
 video_type: vod

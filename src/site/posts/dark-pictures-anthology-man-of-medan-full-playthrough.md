@@ -9,7 +9,7 @@ tags:
   - The Dark Pictures Anthology
   - Play Throughs
   - Halloween
-image_card: /images/dark-pictures-anthology-man-of-medan.png
+image_card: /images/dark-pictures-anthology-man-of-medan.jpg
 image_card_alt: Fatsack Fails at The Dark Pictures Anthology Man of Medan
 video_id: "1173100442"
 video_type: vod

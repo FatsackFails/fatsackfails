@@ -16,7 +16,7 @@ category: News
 tags:
   - Fatsack News
   - Charity
-image_card: /images/gamingtuesday2021.png
+image_card: /images/gamingtuesday2021.jpg
 image_card_alt: Gaming Tuesday Banner
 teaser: Donate for the kids!
 seo_title: "Save The Children #GamingTuesday 2021 Charity Event"

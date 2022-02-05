@@ -7,7 +7,7 @@ post_type: article
 category: Web Dev
 tags:
   - Eleventy
-image_card: /images/blog-eleventy-windows.png
+image_card: /images/blog-eleventy-windows.jpg
 excerpt: >
   I set up my Windows 10 PC to use WSL 2, Hyper terminal, and VS Code so I could
   take an online course to learn Eleventy. Here's how you can do it that too.

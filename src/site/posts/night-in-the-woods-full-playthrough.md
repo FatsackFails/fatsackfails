@@ -9,7 +9,7 @@ tags:
   - Night In The Woods
   - Play Throughs
   - Halloween
-image_card: /images/night-in-the-woods.png
+image_card: /images/night-in-the-woods.jpg
 image_card_alt: Fatsack Fails at Night in the Woods
 video_id: adSNqwForRaPNg
 video_type: collection

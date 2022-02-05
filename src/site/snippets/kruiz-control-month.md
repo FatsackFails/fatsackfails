@@ -11,7 +11,7 @@ category: Kruiz Control
 tags:
   - Streamer Resources
   - JavaScript
-image_card: /images/kruiz-control-month.png
+image_card: /images/kruiz-control-month.jpg
 image_card_alt: Mockup of month code for Kruiz Control.
 teaser: Write the Month to OBS Text Source with Kruiz Control!
 seo_title: Kruiz Control - Write Month to OBS Text Source

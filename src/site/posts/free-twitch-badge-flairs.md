@@ -9,7 +9,7 @@ tags:
   - Freebies
   - Twitch
   - Streamer Resources
-image_card: /images/free-twitch-sub-badge-flairs.png
+image_card: /images/free-twitch-sub-badge-flairs.jpg
 image_card_alt: Free Twitch Sub Badge Flairs
 excerpt: >-
   This pack of 35 Twitch Sub Badge Flairs is Pay What You

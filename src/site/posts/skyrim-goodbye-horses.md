@@ -7,7 +7,7 @@ post_type: video
 category: Highlights
 tags:
   - Skyrim
-image_card: /images/goodbye-horses.png
+image_card: /images/goodbye-horses.jpg
 image_card_alt: Skyrim Goodbye Horses "the sound of a thousand whinnies"
 video_id: "907080315"
 video_type: vod

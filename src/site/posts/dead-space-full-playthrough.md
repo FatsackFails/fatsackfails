@@ -9,7 +9,7 @@ tags:
   - Dead Space
   - Play Throughs
   - Halloween
-image_card: /images/dead-space.png
+image_card: /images/dead-space.jpg
 image_card_alt: Fatsack Fails at Dead Space
 video_id: 3aFoqQacsBa8hw
 video_type: collection

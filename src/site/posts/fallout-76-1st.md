@@ -9,7 +9,7 @@ image_card_alt: Fallout 1st Fails
 image_card_credit: >-
   Bethesda
 excerpt: >-
-  Fallout 76 needed a win with the new Fallout 1st subscription service, but the backlash seems to prove it wasn't. 
+  Fallout 76 needed a win with the new Fallout 1st subscription service, but the backlash seems to prove it wasn't.
 teaser:
 category:
 tags:
@@ -20,7 +20,7 @@ seo_desc: >-
   Fallout 76 needed a win with the new Fallout 1st subscription service, but the backlash seems to prove it wasn't. It's in my humble opinion that had Bethesda released the private world feature for free at launch, the whole service would have been much better received. Regardless I'm looking forward to getting Fallout 1st after the Wastelanders DLC comes out.
 ---
 <section class="flex justify-center mb-4">
-<a href="https://twitter.com/Fatsackfails/status/1187203536578367488" target="_blank"><img src="/images/twitter-grab-01.png" alt="tweet in where Fatsack answers a question about Fallout 76's Fallout 1st service"></a>
+<a href="https://twitter.com/Fatsackfails/status/1187203536578367488" target="_blank"><img src="/images/twitter-grab-01.jpg" alt="tweet in where Fatsack answers a question about Fallout 76's Fallout 1st service"></a>
 </section>
 
 This is one of the many answers I've given to different people asking my thoughts on Bethesda's announcement for Fallout 76's new subscription service Fallout 1st. I've always been on the more forgiving side to Fallout 76's many past transgressions, so when I first heard about the service, my initial thought was "Great! They can release this for Fallout 76 and get some positive karma out of this." My hope was a service that works as intended and added in some features that not only had the community been asking for, but would be willing to pay for to get extra goodies.
