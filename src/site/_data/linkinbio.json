@@ -1,28 +1,40 @@
 {
   "linkinbio": [
     {
-      "text": "Featured Post",
-      "link": "/featured"
+      "text": "🆓 Streamer Resources",
+      "link": "/resources"
     },
     {
-      "text": "Merch",
-      "link": "/merch"
+      "text": "🐦 Twitter",
+      "link": "https://twitter.com/fatsackfails"
     },
     {
-      "text": "Twitch",
+      "text": "🎮 Twitch",
       "link": "https://twitch.tv/fatsackfails/about"
     },
     {
-      "text": "Support Fatsack",
-      "link": "https://fatsackfails.com/support"
+      "text": "👕 Merch",
+      "link": "/merch"
     },
     {
-      "text": "Instagram",
+      "text": "📸 Instagram",
       "link": "https://instagram.com/fatsackfails"
     },
     {
-      "text": "Twitter",
-      "link": "https://twitter.com/fatsackfails"
-    }
+      "text": "🤳 TikTok",
+      "link": "https://tiktok.com/@fatsackfails"
+    },
+    {
+      "text": "🎥 YouTube",
+      "link": "https://youtube.com/channel/UCxnthibwNiVFB6yibZJgq5g"
+    },
+    {
+      "text": "💰 Support Fatsack",
+      "link": "/support"
+    },
+    {
+      "text": "📥 Contact",
+      "link": "/contact"
+    },
   ]
 }
