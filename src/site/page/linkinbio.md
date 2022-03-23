@@ -12,7 +12,7 @@ layout: linkinbio.njk
 ---
 
 <div class="flex items-center justify-center">
-   <div class="bg-{{ theme.colors.main }}-700 text-center rounded p-10 max-w-xs">
+   <div class="bg-{{ theme.colors.main }}-700 text-center rounded p-10 max-w-sm">
      <img class="mb-3 mx-auto max-w-fit" src="/images/fatsack-author.png" alt="Ethan Kellogg is Fatsack Fails">
      <p class="text-xl text-{{ theme.colors.main }}-100"> Ethan Kellogg </p>
      <p class="text-lg text-{{ theme.colors.main }}-100 "> Fatsack Fails </p>

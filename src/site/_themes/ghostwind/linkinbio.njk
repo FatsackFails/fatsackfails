@@ -50,7 +50,7 @@ Dynamic Data:
 
         <h1 class="page-title font-extrabold tracking-tight text-2xl md:text-3xl mt-0">{{ title }}</h1>
         <div class="container w-full mx-auto rounded-b justify-center max-w-sm">
-        <div class="content text-lg md:text-base">{{ content | safe }}</div>
+        <div class="text-lg md:text-base">{{ content | safe }}</div>
         <ul class="text-center text-{{ theme.colors.main }}-100 py-4">
           {% for item in linkinbio.linkinbio %}
           <a href="{{ item.link | safe }}" target="_blank" class="rounded lg:p-4 py-3 px-0 block font-bold mb-4 text-fspurple-100 hover:text-fspurple-900 shadow-md font-medium cursor-pointer border-fspink-500 border-4 hover:bg-fspink-500 rounded text-lg text-center no-underline"><li>{{ item.text }}</li></a>
