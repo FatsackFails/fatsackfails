@@ -30,7 +30,7 @@ Dynamic Data:
 
     <div class="wrapper flex flex-col items-stretch min-h-full">
 
-      <header id="header" class="header bg-{{ theme.colors.main }}-700 p-6 flex-shrink-0">
+      <header id="header" class="header p-6 flex-shrink-0">
       	<div class="container flex flex-wrap justify-center items-center m-auto">
       		{# Branding #}
     			<a class="flex items-center hover:text-{{ theme.colors.accent }}-600 dark-hover:text-{{ theme.colors.accent }}-600 hover:no-underline" href="/">
@@ -49,7 +49,7 @@ Dynamic Data:
       <main id="main" class="main flex flex-col sm:m-auto text-center md:w-4/5 flex-grow flex-shrink-0" role="main" tabindex="-1">
 
         <h1 class="page-title font-extrabold tracking-tight text-2xl md:text-3xl mt-0">{{ title }}</h1>
-        <div class="container w-full max-w-5xl mx-auto bg-{{ theme.colors.main }}-700 rounded-t">
+        <div class="container w-full max-w-5xl mx-auto rounded-t">
         <div class="content text-sm md:text-base">{{ content | safe }}</div>
 
         <ul class="text-center text-{{ theme.colors.main }}-100 py-4 w-full">
@@ -60,7 +60,7 @@ Dynamic Data:
       </div>
       </main>
 
-      <footer id="footer" class="footer h-card bg-{{ theme.colors.main }}-700 flex-shrink-0" role="contentinfo">
+      <footer id="footer" class="footer h-card flex-shrink-0" role="contentinfo">
         <div class="footer-inner container m-auto text-{{ theme.colors.main }}-100 pb-8 text-center text-xs md:text-sm">
           <p class="pt-2 md:pt-0">
             © 2022 <a class="p-name u-url" rel="me" href="{{ site.url }}">{{ site.author_name }}</a>.{% if site.footer_credit === "yes" %} Built with <a class="hover:text-{{ theme.colors.accent }}-500 underline" href="https://streamsites.xyz/">Stream Sites</a>.{% endif %}
