@@ -10,7 +10,8 @@ seo_desc: Get in touch!
 type: core
 layout: linkinbio.njk
 ---
-![Ethan Kellogg is Fatsack Fails](/images/fatsack-author.png)
+<div class="flex flex-wrap justify-center w-40"> <img src="/images/fatsack-author.png" alt="Ethan Kellogg is Fatsack Fails">
+</div>
 
 Hi, I'm Ethan! I've been on Twitch since 2015. I like to make stuff to make your live stream better. Art, graphic design, game integrations, bots, and overlays.
 
