@@ -9,7 +9,7 @@ image_card_alt:
 image_card_credit: >-
   [Alice Donovan Rouse](https://unsplash.com/@alicekat) on Unsplash
 excerpt: >-
-  These optional Carry Capacity and Encumbrance rules allow player characters a quick, easy to use system to both track items and deal with the consequences of carrying too much loot at once. Inspired by [Giffyglyph's Darker Dungeons](http://www.giffyglyph.com/darkerdungeons/) supplement  for D&D 5e, specifically the [Inventory Space](http://www.giffyglyph.com/darkerdungeons/rules/inventory_space.html) rules. Giffyglyph's rules were a great reference tool when approaching inventory management and apply it to Cypher System, which does not exist in the core rules.
+  These optional Carry Capacity and Encumbrance rules allow player characters a quick, easy to use system to both track items and deal with the consequences of carrying too much loot at once. Inspired by [Giffyglyph's Darker Dungeons](http://www.giffyglyph.com/darkerdungeons/) supplement  for D&D 5e, specifically the [Active Inventory](http://www.giffyglyph.com/darkerdungeons/grimoire/4.0.0/en/active_inventory.html) rules. Giffyglyph's rules were a great reference tool when approaching inventory management and apply it to Cypher System, which does not exist in the core rules.
 teaser: >-
   Optional Carry Capacity and Encumbrance rules for Cypher System.
 category: Cypher System
