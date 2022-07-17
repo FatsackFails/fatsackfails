@@ -9,7 +9,7 @@ dateMod: Last Modified
 excerpt: >-
   Learn how to use Nested Scenes in OBS Studio to make more complex and advanced overlays for your Twitch livestream.
 teaser: >-
-  Live your VTuber life with Move Transition and 2 PNGs
+  Get fancy with your livestream overlays
 post_type: video
 category: OBS Tutorial
 tags:
