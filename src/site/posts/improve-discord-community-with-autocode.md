@@ -20,7 +20,7 @@ tags:
   - Work
 image_card: /images/improve-discord-community-with-autocode-splash.jpg
 image_card_alt:
-teaser: Streamer Assets to Make Your Alerts Make It Rain!
+teaser: Learn How I Upgraded My Job's Community Feedback
 seo_title: How I Improved My Job's Discord Community with Autocode
 seo_desc: Here's how I improved my work's community feedback system on Discord in a single afternoon using Autocode.
 ---
