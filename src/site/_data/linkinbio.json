@@ -5,6 +5,10 @@
       "link": "/resources"
     },
     {
+      "text": "📥 Contact",
+      "link": "/contact"
+    },
+    {
       "text": "🐦 Twitter",
       "link": "https://twitter.com/fatsackfails"
     },
@@ -15,6 +19,14 @@
     {
       "text": "👕 Merch",
       "link": "/merch"
+    },
+    {
+      "text": "💻 Tumblr",
+      "link": "https://tumblr.com/fatsackfails"
+    },
+    {
+      "text": "🐘 Mastodon",
+      "link": "https://mastodon.lol/web/@FatsackFails"
     },
     {
       "text": "📸 Instagram",
@@ -31,10 +43,6 @@
     {
       "text": "💰 Support Fatsack",
       "link": "/support"
-    },
-    {
-      "text": "📥 Contact",
-      "link": "/contact"
     }
   ]
 }
