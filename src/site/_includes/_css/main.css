@@ -1,5 +1,8 @@
 @tailwind base;
+@tailwind components;
+@tailwind utilities;
 
+@layer base {
 html, body {
   width: 100%;
   height: 100%;
@@ -126,9 +129,9 @@ pre[class*="language-"] {
   @apply px-0;
   font-size: 1rem;
 }
+}
 
-@tailwind components;
-
+@layer components {
 /*
  * Link Highlights
  */
@@ -548,11 +551,13 @@ li.footnote-item:last-of-type {
   background-size: contain;
 }
 
-@tailwind utilities;
-
-#menu-toggle:checked+#menu {
+	#menu-toggle:checked+#menu {
   display: block;
 }
+	
+}
+
+@layer utilities {
 
 /**
  * Syntax Highlight
@@ -701,4 +706,5 @@ pre[class*="language-"] {
 
 .token.inserted {
 	color: green;
+}
 }
