@@ -7,6 +7,9 @@ export default {
   create: true,
   slug: '{{fields.slug}}',
   preview_path: 'tabletop/{{fields.slug}}',
+  editor: {
+		preview: false,
+	},
   sortableFields: ['title', 'date'],
   view_filters: [
     {
