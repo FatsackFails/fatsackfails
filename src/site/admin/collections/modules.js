@@ -103,6 +103,7 @@ export default {
           name: 'excerpt',
           widget: 'markdown',
           required: false,
+	show_raw: true,
           hint: 'A short description of this post for people who don\'t want to read. Shown at the beginning of the post. You can use Markdown!'
         },
         {
@@ -161,10 +162,14 @@ export default {
           'default': 'contact'
         },
         {
-          label: 'Publish Date',
-          name: 'date',
-          widget: 'datetime'
-        },
+		      label: 'Publish Date',
+		      name: 'date',
+		      widget: 'datetime',
+					date_format: 'yyyy-MM-dd', // e.g. 2022-12-24
+					time_format: 'HH:mm', //  e.g. 21:05
+					format: 'yyyy-MM-dd', // e.g. 2022-12-24
+					default: '',
+		    },
         {
           label: 'Last Modified',
           name: 'dateMod',
@@ -225,13 +230,14 @@ export default {
           name: 'excerpt',
           widget: 'markdown',
           required: false,
+		show_raw: true,
           hint: 'A short description of this post for people who don\'t want to read. Shown at the beginning of the post. You can use Markdown!'
         },
         {
           label: 'Body',
           name: 'body',
-          buttons: ['bold', 'italic', 'code', 'link', 'heading-two', 'heading-three', 'heading-four', 'heading-five', 'heading-six', 'quote', 'bulleted-list', 'numbered-list'],
-          widget: 'markdown'
+          widget: 'markdown',
+		show_raw: true,
         },
         {
           label: 'SEO Title',
@@ -272,10 +278,14 @@ export default {
           widget: 'string'
         },
         {
-          label: 'Effective Date',
-          name: 'date',
-          widget: 'datetime'
-        },
+		      label: 'Effective Date',
+		      name: 'date',
+		      widget: 'datetime',
+					date_format: 'yyyy-MM-dd', // e.g. 2022-12-24
+					time_format: 'HH:mm', //  e.g. 21:05
+					format: 'yyyy-MM-dd', // e.g. 2022-12-24
+					default: '',
+		    },
         {
           label: 'Slug',
           name: 'slug',
@@ -285,8 +295,8 @@ export default {
         {
           label: 'Body',
           name: 'body',
-          buttons: ['bold', 'italic', 'code', 'link', 'heading-two', 'heading-three', 'heading-four', 'heading-five', 'heading-six', 'quote', 'bulleted-list', 'numbered-list'],
-          widget: 'markdown'
+          widget: 'markdown',
+		show_raw: true,
         },
         {
           label: 'SEO Title',
@@ -338,10 +348,14 @@ export default {
           'default': 'search'
         },
         {
-          label: 'Publish Date',
-          name: 'date',
-          widget: 'datetime'
-        },
+		      label: 'Publish Date',
+		      name: 'date',
+		      widget: 'datetime',
+					date_format: 'yyyy-MM-dd', // e.g. 2022-12-24
+					time_format: 'HH:mm', //  e.g. 21:05
+					format: 'yyyy-MM-dd', // e.g. 2022-12-24
+					default: '',
+		    },
         {
           label: 'Last Modified',
           name: 'dateMod',
@@ -771,10 +785,14 @@ export default {
           'default': '404'
         },
         {
-          label: 'Publish Date',
-          name: 'date',
-          widget: 'datetime'
-        },
+		      label: 'Publish Date',
+		      name: 'date',
+		      widget: 'datetime',
+					date_format: 'yyyy-MM-dd', // e.g. 2022-12-24
+					time_format: 'HH:mm', //  e.g. 21:05
+					format: 'yyyy-MM-dd', // e.g. 2022-12-24
+					default: '',
+		    },
         {
           label: 'Last Modified',
           name: 'dateMod',
