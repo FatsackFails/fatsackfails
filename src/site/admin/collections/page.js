@@ -11,6 +11,9 @@ export default {
   },
   slug: '{{fields.slug}}',
   preview_path: '{{fields.slug}}',
+  editor: {
+		preview: false,
+	},
   fields: [
     {
       label: 'Title',
