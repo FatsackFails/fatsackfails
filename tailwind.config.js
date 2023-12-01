@@ -1014,121 +1014,6 @@ module.exports = {
 
   /*
   |-----------------------------------------------------------------------------
-  | Variants                Default: https://tailwindcss.com/docs/state-variants
-  |             Dark mode: https://github.com/ChanceArthur/tailwindcss-dark-mode
-  |-----------------------------------------------------------------------------
-  |
-  | Here is where you control which modules are generated and what variants are
-  | generated for each of those modules.
-  |
-  | Default variants supported:
-  |   - responsive
-  |   - hover
-  |   - focus
-  |   - focus-within
-  |   - active
-  |   - group-hover
-  |
-  | Dark Mode variants supported:
-  |   - dark (e.g. dark:bg-black)
-  |   - dark-hover
-  |   - dark-focus
-  |   - dark-focus-within
-  |   - dark-active
-  |   - dark-group-hover
-  |
-  | To disable a module completely, use `false` instead of an array.
-  |
-  */
-
-  variants: {
-    appearance: ['responsive'],
-    backgroundAttachment: ['responsive'],
-    backgroundColor: ['responsive', 'hover', 'focus', 'dark', 'dark-hover', 'dark-group-hover'],
-    backgroundPosition: ['responsive'],
-    backgroundRepeat: ['responsive'],
-    backgroundSize: ['responsive'],
-    borderCollapse: [],
-    borderColor: ['responsive', 'hover', 'focus', 'dark', 'dark-focus', 'dark-focus-within'],
-    borderRadius: ['responsive'],
-    borderStyle: ['responsive'],
-    borderWidth: ['responsive'],
-    cursor: ['responsive'],
-    display: ['responsive', 'hover', 'focus', 'dark-focus', 'dark-focus-within'],
-    flexDirection: ['responsive'],
-    flexWrap: ['responsive'],
-    alignItems: ['responsive'],
-    alignSelf: ['responsive'],
-    justifyContent: ['responsive'],
-    alignContent: ['responsive'],
-    flex: ['responsive'],
-    flexGrow: ['responsive'],
-    flexShrink: ['responsive'],
-    float: ['responsive'],
-    fontFamily: ['responsive'],
-    fontWeight: ['responsive', 'hover', 'focus'],
-    height: ['responsive'],
-    lineHeight: ['responsive'],
-    listStylePosition: ['responsive'],
-    listStyleType: ['responsive'],
-    margin: ['responsive'],
-    maxHeight: ['responsive'],
-    maxWidth: ['responsive'],
-    minHeight: ['responsive'],
-    minWidth: ['responsive'],
-    negativeMargin: ['responsive'],
-    objectFit: ['responsive'],
-    objectPosition: ['responsive'],
-    opacity: ['responsive'],
-    outline: ['focus'],
-    overflow: ['responsive'],
-    padding: ['responsive'],
-    pointerEvents: ['responsive'],
-    position: ['responsive'],
-    inset: ['responsive'],
-    resize: ['responsive'],
-    boxShadow: ['responsive', 'hover', 'focus'],
-    fill: [],
-    stroke: [],
-    tableLayout: ['responsive'],
-    textAlign: ['responsive'],
-    textColor: ['responsive', 'hover', 'focus', 'dark', 'dark-hover', 'dark-active'],
-    fontSize: ['responsive'],
-    fontStyle: ['responsive'],
-    textTransform: ['responsive'],
-    textDecoration: ['responsive', 'hover', 'focus'],
-    fontSmoothing: ['responsive'],
-    letterSpacing: ['responsive'],
-    userSelect: ['responsive'],
-    verticalAlign: ['responsive'],
-    visibility: ['responsive'],
-    whitespace: ['responsive'],
-    wordBreak: ['responsive'],
-    width: ['responsive'],
-    zIndex: ['responsive'],
-    gap: ['responsive'],
-    gridAutoFlow: ['responsive'],
-    gridTemplateColumns: ['responsive'],
-    gridColumn: ['responsive'],
-    gridColumnStart: ['responsive'],
-    gridColumnEnd: ['responsive'],
-    gridTemplateRows: ['responsive'],
-    gridRow: ['responsive'],
-    gridRowStart: ['responsive'],
-    gridRowEnd: ['responsive'],
-    transform: ['responsive'],
-    transformOrigin: ['responsive'],
-    scale: ['responsive', 'hover', 'focus'],
-    rotate: ['responsive', 'hover', 'focus'],
-    translate: ['responsive', 'hover', 'focus'],
-    skew: ['responsive', 'hover', 'focus'],
-    transitionProperty: ['responsive'],
-    transitionTimingFunction: ['responsive'],
-    transitionDuration: ['responsive'],
-  },
-
-  /*
-  |-----------------------------------------------------------------------------
   | Plugins                                https://tailwindcss.com/docs/plugins
   |-----------------------------------------------------------------------------
   |
@@ -1159,9 +1044,6 @@ module.exports = {
   | For Checkbox and Radio:
   | - use .text-{color} to apply color to checked state
   | - use .h-{size} and .w-{size} for sizing
-  |
-  |-----------------------------------------------------------------------------
-  | Dark Mode Variants     https://github.com/ChanceArthur/tailwindcss-dark-mode
   |-----------------------------------------------------------------------------
   |
   */
