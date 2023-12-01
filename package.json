@@ -27,7 +27,7 @@
 		"netlify": "npm-run-all build:html build:css build:css:admin build:js",
 		"build": "npm-run-all build:html build:css build:css:admin build:js",
 		"build:html": "NODE_ENV=production eleventy --config=eleventy.config.js",
-		"build:css": "NODE_ENV=production postcss src/site/_includes/_css/main.css -o dist/css/main.min.css",
+		"build:css": "TAILWIND_ENV=production postcss src/site/_includes/_css/main.css -o dist/css/main.min.css",
 		"build:css:admin": "NODE_ENV=admin postcss src/site/_includes/_css/main.css -o dist/admin/css/tailwind.min.css",
 		"build:js": "terser dist/js/main.js -c -o dist/js/main.min.js",
 		"debug": "DEBUG=Eleventy* npm run build:html",
