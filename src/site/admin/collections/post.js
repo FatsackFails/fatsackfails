@@ -7,7 +7,13 @@ export default {
   create: true,
   slug: '{{fields.slug}}',
   preview_path: 'posts/{{fields.slug}}',
-  sortableFields: ['title', 'date'],
+  sortable_fields: {
+		fields: ['commit_date', 'date', 'title'],
+		default: {
+			field: 'date',
+			direction: 'Descending',
+		},
+	},
   view_filters: [
     {
       label: "Articles",
@@ -20,6 +26,7 @@ export default {
       pattern: "video"
     }
   ],
+  summary_fields: ['date', 'title'],
   fields: [
     {
       label: 'Title',
