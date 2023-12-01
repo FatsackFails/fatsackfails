@@ -4,7 +4,7 @@ const SELECTORS = {
   toggleBtn: '.js-darkmode-toggle'
 }
 const CLASSES = {
-  darkMode: 'mode-dark'
+  darkMode: 'dark'
 }
 
 const STORAGE_KEY = 'darkMode'
