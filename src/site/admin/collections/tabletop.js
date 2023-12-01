@@ -7,6 +7,9 @@ export default {
   create: true,
   slug: '{{fields.slug}}',
   preview_path: 'tabletop/{{fields.slug}}',
+  editor: {
+		preview: false,
+	},
   sortableFields: ['title', 'date'],
   view_filters: [
     {
@@ -34,7 +37,11 @@ export default {
     {
       label: 'Publish Date',
       name: 'date',
-      widget: 'datetime'
+      widget: 'datetime',
+		  date_format: 'yyyy-MM-dd', // e.g. 2022-12-24
+			time_format: 'HH:mm', //  e.g. 21:05
+			format: 'yyyy-MM-dd', // e.g. 2022-12-24
+			default: '',
     },
     {
       label: 'Last Modified',
@@ -145,7 +152,7 @@ export default {
       label: 'TL;DR',
       name: 'excerpt',
       widget: 'markdown',
-      buttons: ['bold', 'italic', 'code', 'link', 'bulleted-list', 'numbered-list'],
+	    show_raw: true,
       required: false,
       hint: 'A short description of this post for people who don\'t want to read. Shown at the beginning of the post. You can use Markdown!'
     },
@@ -159,8 +166,8 @@ export default {
     {
       label: 'Body',
       name: 'body',
-      buttons: ['bold', 'italic', 'code', 'link', 'heading-two', 'heading-three', 'heading-four', 'heading-five', 'heading-six', 'quote', 'bulleted-list', 'numbered-list'],
-      widget: 'markdown'
+      widget: 'markdown',
+    show_raw: true,
     },
     {
       label: 'SEO Title',

@@ -6,8 +6,17 @@ export default {
   folder: 'src/site/posts',
   create: true,
   slug: '{{fields.slug}}',
+editor: {
+	preview: false,
+},
   preview_path: 'posts/{{fields.slug}}',
-  sortableFields: ['title', 'date'],
+  sortable_fields: {
+		fields: ['commit_date', 'date', 'title'],
+		default: {
+			field: 'date',
+			direction: 'Descending',
+		},
+	},
   view_filters: [
     {
       label: "Articles",
@@ -20,6 +29,7 @@ export default {
       pattern: "video"
     }
   ],
+  summary_fields: ['date', 'title'],
   fields: [
     {
       label: 'Title',
@@ -34,7 +44,11 @@ export default {
     {
       label: 'Publish Date',
       name: 'date',
-      widget: 'datetime'
+      widget: 'datetime',
+			date_format: 'yyyy-MM-dd', // e.g. 2022-12-24
+			time_format: 'HH:mm', //  e.g. 21:05
+			format: 'yyyy-MM-dd', // e.g. 2022-12-24
+			default: '',
     },
     {
       label: 'Last Modified',
@@ -145,8 +159,8 @@ export default {
       label: 'TL;DR',
       name: 'excerpt',
       widget: 'markdown',
-      buttons: ['bold', 'italic', 'code', 'link', 'bulleted-list', 'numbered-list'],
       required: false,
+	    show_raw: true,
       hint: 'A short description of this post for people who don\'t want to read. Shown at the beginning of the post. You can use Markdown!'
     },
     {
@@ -159,8 +173,8 @@ export default {
     {
       label: 'Body',
       name: 'body',
-      buttons: ['bold', 'italic', 'code', 'link', 'heading-two', 'heading-three', 'heading-four', 'heading-five', 'heading-six', 'quote', 'bulleted-list', 'numbered-list'],
-      widget: 'markdown'
+      widget: 'markdown',
+      show_raw: true,
     },
     {
       label: 'SEO Title',

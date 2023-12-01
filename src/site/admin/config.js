@@ -17,15 +17,19 @@ export default {
     name: 'git-gateway',
     branch: 'master'
   },
-  load_config_file: false,
-  media_folder: 'images',
+  local_backend: true,
+	load_config_file: false,
+	media_folder: 'images',
+	public_folder: '/images',
   site_url: `${window.location.protocol}//${window.location.host}`,
   display_url: `${window.location.protocol}//${window.location.host}`,
-  // TODO: import logo from _data/site.json
-  // logo_url: `${window.location.protocol}//${window.location.host}${site.logo}`,
-  // Export locale if not English
-  // locale: 'en',
-  show_preview_links: true,
+  logo_url: `${window.location.protocol}//${window.location.host}/images/f-plus-logo-pink.png`,
+	show_preview_links: true,
+	slug: {
+		encoding: 'ascii',
+		clean_accents: true,
+		sanitize_replacement: '-',
+	},
   collections: [
     post,
     tabletop,
@@ -37,31 +41,3 @@ export default {
     custom
   ]
 }
-
-// Import Previews
-import Blog from './previews/blog.js';
-import Page from './previews/page.js';
-// TODO: delete Video preview after fields copied to Post
-// import Video from './previews/video.js';
-
-// Register Previews
-CMS.registerPreviewTemplate('post', Blog);
-CMS.registerPreviewTemplate('tabletop', Blog);
-CMS.registerPreviewTemplate('snippet', Blog);
-CMS.registerPreviewTemplate('page', Page);
-CMS.registerPreviewTemplate('post_page', Page);
-CMS.registerPreviewTemplate('about', Page);
-CMS.registerPreviewTemplate('contact', Page);
-CMS.registerPreviewTemplate('privacy', Page);
-CMS.registerPreviewTemplate('search', Page);
-CMS.registerPreviewTemplate('tag', Page);
-CMS.registerPreviewTemplate('tags', Page);
-CMS.registerPreviewTemplate('category', Page);
-CMS.registerPreviewTemplate('categories', Page);
-CMS.registerPreviewTemplate('404_page', Page);
-
-CMS.registerPreviewStyle('./css/tailwind.min.css');
-CMS.registerPreviewStyle('./previews/inline.css');
-
-// Register locale if not English
-// CMS.registerLocale('en', en);
