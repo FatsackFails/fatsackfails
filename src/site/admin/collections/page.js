@@ -77,6 +77,7 @@ export default {
       name: 'excerpt',
       widget: 'markdown',
       required: false,
+	    show_raw: true,
       hint: 'A short description of this post for people who don\'t want to read. Shown at the beginning of the post. You can use Markdown!'
     },
     {
