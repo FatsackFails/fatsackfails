@@ -3,7 +3,7 @@
   <div class="container mx-auto flex items-center justify-between text-{{ theme.colors.main }}-900 dark:text-{{ theme.colors.main }}-100 font-semibold">
     <div class="flex justify-start">
 			{# Branding #}
-			<a class="flex items-center hover:text-{{ theme.colors.accent }}-600 dark-hover:text-{{ theme.colors.accent }}-600 hover:no-underline" href="/">
+			<a class="flex items-center hover:text-{{ theme.colors.accent }}-600 dark:hover:text-{{ theme.colors.accent }}-600 hover:no-underline" href="/">
         {% if navigation.nav_brand === "logo" %}
         <img src="{{ site.logo }}" alt="{{ site.name }}" class="h-8 w-auto mr-2">
         {% elif navigation.nav_brand === "text" %}
