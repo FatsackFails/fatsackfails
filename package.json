@@ -64,6 +64,6 @@
 		"terser": "^4.8.0"
 	},
 	"devDependencies": {
-		"win-node-env": "^0.4.0"
+		"cross-env": "^7.0.3"
 	}
 }
