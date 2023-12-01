@@ -49,7 +49,8 @@ export default {
         {
           label: 'Body',
           name: 'body',
-          widget: 'markdown'
+          widget: 'markdown',
+          show_raw: true
         },
         {
           label: 'SEO Title',
