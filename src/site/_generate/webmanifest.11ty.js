@@ -7,7 +7,7 @@ class WebAppManifest {
 
   render(data) {
     const tailwind = require('../../../tailwind.config.js');
-    const mainColor = tailwind.theme.extend.colors[data.theme.colors.main]['700'];
+    const mainColor = '#2F2149';
 
     const content = {
       "short_name": data.site.name,
