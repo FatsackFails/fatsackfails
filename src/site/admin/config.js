@@ -19,7 +19,7 @@ export default {
   },
   local_backend: true,
 	load_config_file: false,
-	media_folder: 'src/assets/images',
+	media_folder: 'images',
 	public_folder: '/images',
   site_url: `${window.location.protocol}//${window.location.host}`,
   display_url: `${window.location.protocol}//${window.location.host}`,
