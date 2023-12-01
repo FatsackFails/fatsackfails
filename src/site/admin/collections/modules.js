@@ -7,6 +7,9 @@ export default {
   delete: false,
   slug: '{{slug}}',
   preview_path: '{{fields.slug}}',
+  editor: {
+		preview: false,
+	},
   files: [
     {
       label: 'About',
