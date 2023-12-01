@@ -21,9 +21,9 @@
 */
 
 module.exports = {
-  prefix: '',
   important: false,
-  separator: ':',
+	content: ['./src/**/*.{js,html,md,njk}'],
+	darkMode: 'class',
   theme: {
 
     /*
@@ -1166,9 +1166,7 @@ module.exports = {
   |
   */
 
-  corePlugins: {},
   plugins: [
-     require('tailwindcss-dark-mode')(),
-     require('@tailwindcss/custom-forms'),
+     require('@tailwindcss/forms'),
   ],
 }
