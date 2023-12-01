@@ -1,5 +1,5 @@
 // Dark Mode
-const SELECTORS = { toggleBtn: '.js-color-toggle' };
+const SELECTORS = { toggleBtn: '.js-darkmode-toggle' };
 const CLASSES = { darkMode: 'dark' };
 const STORAGE_KEY = 'darkMode';
 const COLOR_SCHEME_KEY = '--color-scheme';
