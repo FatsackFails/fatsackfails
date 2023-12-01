@@ -69,12 +69,12 @@ main:focus {
   z-index: 1;
 }
 
-.mode-dark .icon-dark,
+.dark .icon-dark,
 .icon-light {
   display: none;
 }
 
-.mode-dark .icon-light,
+.dark .icon-light,
 .icon-dark {
   display: block;
 }
@@ -140,7 +140,7 @@ pre[class*="language-"] {
     background-image: linear-gradient(180deg, transparent 70%, rgba(160, 174, 192, .3) 0);
 }
 
-.mode-dark .highlight-gray a {
+.dark .highlight-gray a {
     background-image: linear-gradient(180deg, transparent 70%, rgba(247, 250, 252, .3) 0);
     color: #fff;
 }
@@ -148,9 +148,9 @@ pre[class*="language-"] {
 .highlight-gray a:hover,
 .highlight-gray a:active,
 .highlight-gray a:focus,
-.mode-dark .highlight-gray a:hover,
-.mode-dark .highlight-gray a:focus,
-.mode-dark .highlight-gray a:active {
+.dark .highlight-gray a:hover,
+.dark .highlight-gray a:focus,
+.dark .highlight-gray a:active {
     background-image: linear-gradient(180deg, transparent 70%, rgba(160, 174, 192, .7) 0);
 }
 
@@ -158,7 +158,7 @@ pre[class*="language-"] {
     background-image: linear-gradient(180deg, transparent 70%, rgba(245, 101, 101, .3) 0);
 }
 
-.mode-dark .highlight-red a {
+.dark .highlight-red a {
     background-image: linear-gradient(180deg, transparent 70%, rgba(255, 245, 245, .3) 0);
     color: #fff;
 }
@@ -166,9 +166,9 @@ pre[class*="language-"] {
 .highlight-red a:hover,
 .highlight-red a:active,
 .highlight-red a:focus,
-.mode-dark .highlight-red a:hover,
-.mode-dark .highlight-red a:focus,
-.mode-dark .highlight-red a:active {
+.dark .highlight-red a:hover,
+.dark .highlight-red a:focus,
+.dark .highlight-red a:active {
     background-image: linear-gradient(180deg, transparent 70%, rgba(245, 101, 101, .7) 0);
 }
 
@@ -176,7 +176,7 @@ pre[class*="language-"] {
     background-image: linear-gradient(180deg, transparent 70%, rgba(237, 137, 54, .3) 0);
 }
 
-.mode-dark .highlight-orange a {
+.dark .highlight-orange a {
     background-image: linear-gradient(180deg, transparent 70%, rgba(255, 250, 240, .3) 0);
     color: #fff;
 }
@@ -184,9 +184,9 @@ pre[class*="language-"] {
 .highlight-orange a:hover,
 .highlight-orange a:active,
 .highlight-orange a:focus,
-.mode-dark .highlight-orange a:hover,
-.mode-dark .highlight-orange a:focus,
-.mode-dark .highlight-orange a:active {
+.dark .highlight-orange a:hover,
+.dark .highlight-orange a:focus,
+.dark .highlight-orange a:active {
     background-image: linear-gradient(180deg, transparent 70%, rgba(237, 137, 54, .7) 0);
 }
 
@@ -194,7 +194,7 @@ pre[class*="language-"] {
    background-image: linear-gradient(180deg, transparent 70%, rgba(236, 201, 75, .3) 0);
 }
 
-.mode-dark .highlight-yellow a {
+.dark .highlight-yellow a {
    background-image: linear-gradient(180deg, transparent 70%, rgba(255, 255, 240, .3) 0);
    color: #fff;
 }
@@ -202,9 +202,9 @@ pre[class*="language-"] {
 .highlight-yellow a:hover,
 .highlight-yellow a:active,
 .highlight-yellow a:focus,
-.mode-dark .highlight-yellow a:hover,
-.mode-dark .highlight-yellow a:focus,
-.mode-dark .highlight-yellow a:active {
+.dark .highlight-yellow a:hover,
+.dark .highlight-yellow a:focus,
+.dark .highlight-yellow a:active {
    background-image: linear-gradient(180deg, transparent 70%, rgba(236, 201, 75, .7) 0);
 }
 
@@ -212,7 +212,7 @@ pre[class*="language-"] {
    background-image: linear-gradient(180deg, transparent 70%, rgba(72, 187, 120, .3) 0);
 }
 
-.mode-dark .highlight-green a {
+.dark .highlight-green a {
    background-image: linear-gradient(180deg, transparent 70%, rgba(240, 255, 244, .3) 0);
    color: #fff;
 }
@@ -220,9 +220,9 @@ pre[class*="language-"] {
 .highlight-green a:hover,
 .highlight-green a:active,
 .highlight-green a:focus,
-.mode-dark .highlight-green a:hover,
-.mode-dark .highlight-green a:focus,
-.mode-dark .highlight-green a:active {
+.dark .highlight-green a:hover,
+.dark .highlight-green a:focus,
+.dark .highlight-green a:active {
    background-image: linear-gradient(180deg, transparent 70%, rgba(72, 187, 120, .7) 0);
 }
 
@@ -230,7 +230,7 @@ pre[class*="language-"] {
    background-image: linear-gradient(180deg, transparent 70%, rgba(56, 178, 172, .3) 0);
 }
 
-.mode-dark .highlight-teal a {
+.dark .highlight-teal a {
    background-image: linear-gradient(180deg, transparent 70%, rgba(230, 255, 250, .3) 0);
    color: #fff;
 }
@@ -238,9 +238,9 @@ pre[class*="language-"] {
 .highlight-teal a:hover,
 .highlight-teal a:active,
 .highlight-teal a:focus,
-.mode-dark .highlight-teal a:hover,
-.mode-dark .highlight-teal a:focus,
-.mode-dark .highlight-teal a:active {
+.dark .highlight-teal a:hover,
+.dark .highlight-teal a:focus,
+.dark .highlight-teal a:active {
    background-image: linear-gradient(180deg, transparent 70%, rgba(56, 178, 172, .7) 0);
 }
 
@@ -248,7 +248,7 @@ pre[class*="language-"] {
   background-image: linear-gradient(180deg, transparent 70%, rgba(66, 153, 225, .3) 0);
 }
 
-.mode-dark .highlight-blue a {
+.dark .highlight-blue a {
   background-image: linear-gradient(180deg, transparent 70%, rgba(235, 248, 255, .3) 0);
   color: #fff;
 }
@@ -256,9 +256,9 @@ pre[class*="language-"] {
 .highlight-blue a:hover,
 .highlight-blue a:active,
 .highlight-blue a:focus,
-.mode-dark .highlight-blue a:hover,
-.mode-dark .highlight-blue a:focus,
-.mode-dark .highlight-blue a:active {
+.dark .highlight-blue a:hover,
+.dark .highlight-blue a:focus,
+.dark .highlight-blue a:active {
   background-image: linear-gradient(180deg, transparent 70%, rgba(66, 153, 225, .7) 0);
 }
 
@@ -266,7 +266,7 @@ pre[class*="language-"] {
   background-image: linear-gradient(180deg, transparent 70%, rgba(102, 126, 234, .3) 0);
 }
 
-.mode-dark .highlight-indigo a {
+.dark .highlight-indigo a {
   background-image: linear-gradient(180deg, transparent 70%, rgba(235, 244, 255, .3) 0);
   color: #fff;
 }
@@ -274,9 +274,9 @@ pre[class*="language-"] {
 .highlight-indigo a:hover,
 .highlight-indigo a:active,
 .highlight-indigo a:focus,
-.mode-dark .highlight-indigo a:hover,
-.mode-dark .highlight-indigo a:focus,
-.mode-dark .highlight-indigo a:active {
+.dark .highlight-indigo a:hover,
+.dark .highlight-indigo a:focus,
+.dark .highlight-indigo a:active {
   background-image: linear-gradient(180deg, transparent 70%, rgba(102, 126, 234, .7) 0);
 }
 
@@ -284,7 +284,7 @@ pre[class*="language-"] {
   background-image: linear-gradient(180deg, transparent 70%, rgba(159, 122, 234, .3) 0);
 }
 
-.mode-dark .highlight-purple a {
+.dark .highlight-purple a {
   background-image: linear-gradient(180deg, transparent 70%, rgba(250, 245, 255, .3) 0);
   color: #fff;
 }
@@ -292,9 +292,9 @@ pre[class*="language-"] {
 .highlight-purple a:hover,
 .highlight-purple a:active,
 .highlight-purple a:focus,
-.mode-dark .highlight-purple a:hover,
-.mode-dark .highlight-purple a:focus,
-.mode-dark .highlight-purple a:active {
+.dark .highlight-purple a:hover,
+.dark .highlight-purple a:focus,
+.dark .highlight-purple a:active {
   background-image: linear-gradient(180deg, transparent 70%, rgba(159, 122, 234, .7) 0);
 }
 
@@ -303,7 +303,7 @@ pre[class*="language-"] {
   font-weight: 700;
 }
 
-.mode-dark .highlight-pink a {
+.dark .highlight-pink a {
   background-image: linear-gradient(180deg, transparent 70%, rgba(251, 182, 206, .3) 0);
   color: #fff;
 }
@@ -311,9 +311,9 @@ pre[class*="language-"] {
 .highlight-pink a:hover,
 .highlight-pink a:active,
 .highlight-pink a:focus,
-.mode-dark .highlight-pink a:hover,
-.mode-dark .highlight-pink a:focus,
-.mode-dark .highlight-pink a:active {
+.dark .highlight-pink a:hover,
+.dark .highlight-pink a:focus,
+.dark .highlight-pink a:active {
   background-image: linear-gradient(180deg, transparent 70%, rgba(213, 63, 140, .7) 0);
 }
 
@@ -322,7 +322,7 @@ pre[class*="language-"] {
   font-weight: 700;
 }
 
-.mode-dark .highlight-fspink a {
+.dark .highlight-fspink a {
   background-image: linear-gradient(180deg, transparent 70%, rgba(253, 207, 233, .3) 0);
   color: #fff;
 }
@@ -330,9 +330,9 @@ pre[class*="language-"] {
 .highlight-fspink a:hover,
 .highlight-fspink a:active,
 .highlight-fspink a:focus,
-.mode-dark .highlight-fspink a:hover,
-.mode-dark .highlight-fspink a:focus,
-.mode-dark .highlight-fspink a:active {
+.dark .highlight-fspink a:hover,
+.dark .highlight-fspink a:focus,
+.dark .highlight-fspink a:active {
   background-image: linear-gradient(180deg, transparent 70%, rgba(250, 136, 200, .7) 0);
 }
 
@@ -340,10 +340,10 @@ pre[class*="language-"] {
 [class*="highlight-"] a:hover.no-underline,
 [class*="highlight-"] a:active.no-underline,
 [class*="highlight-"] a:focus.no-underline,
-.mode-dark [class*="highlight-"] .no-underline,
-.mode-dark [class*="highlight-"] a:hover.no-underline,
-.mode-dark [class*="highlight-"] a:active.no-underline,
-.mode-dark [class*="highlight-"] a:focus.no-underline {
+.dark [class*="highlight-"] .no-underline,
+.dark [class*="highlight-"] a:hover.no-underline,
+.dark [class*="highlight-"] a:active.no-underline,
+.dark [class*="highlight-"] a:focus.no-underline {
   background-image: none;
   color: unset;
 }
