@@ -21,7 +21,6 @@
 */
 
 module.exports = {
-  purge: false,
   prefix: '',
   important: false,
   separator: ':',
