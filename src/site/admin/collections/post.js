@@ -6,6 +6,9 @@ export default {
   folder: 'src/site/posts',
   create: true,
   slug: '{{fields.slug}}',
+editor: {
+	preview: false,
+},
   preview_path: 'posts/{{fields.slug}}',
   sortable_fields: {
 		fields: ['commit_date', 'date', 'title'],
