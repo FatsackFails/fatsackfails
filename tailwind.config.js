@@ -16,7 +16,7 @@
 
 module.exports = {
   important: false,
-	content: ['./src/site/**/*.{js,html,md,njk}'],
+	content: ['./src/**/*.{js,html,md,njk}'],
 	darkMode: 'class',
   theme: {
     /*
