@@ -6,22 +6,21 @@ class WebAppManifest {
   }
 
   render(data) {
-    const tailwind = require('../../../tailwind.config.js');
-    const mainColor = '#2F2149';
 
     const content = {
       "short_name": data.site.name,
       "name": data.site.name,
-      "description": "Weather forecast information",
+      "description": data.site.description,
       "icons": [
         {
           "src": data.site.favicon,
           "type": "image/png",
-          "sizes": "512x512"
+          "sizes": "512x512",
+          purpose: 'any maskable',
         }
       ],
-      "theme_color": mainColor,
-      "background_color": mainColor,
+      "theme_color": "#2F2149",
+      "background_color":  "#2F2149",
       "display": "standalone",
       "start_url": "/",
       "scope": "/"
