@@ -23,6 +23,6 @@ Twitter DM: @FatsackFails</a>
 
 Instagram DM: `FatsackFails`
 
-Discord DM: `Fatsack#0051`
+Discord DM: `FatsackFails`
 
 [Telegram DM: @FatsackFails](https://t.me/FatsackFails)
