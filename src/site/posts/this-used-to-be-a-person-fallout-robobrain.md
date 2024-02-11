@@ -18,14 +18,14 @@ excerpt: >
   atrocity of science that is the Robobrain.
 teaser: The Vault Dweller discovers a dark secret
 seo_title: This Used to be a Person - Fallout Fanfic
-seo_desc: a short fiction set in the world of Fallout about discovering the
+seo_desc: A short fiction set in the world of Fallout about discovering the
   atrocity of science that is the Robobrain.
 ---
 The Vault Dweller steps into the hallway of the ancient abandoned science facility. The stab of sharp footsteps sting their ears, echoing throughout the halls and bouncing off grimy scientific apparatuses untouched since before the bombs dropped.
 
 Taking in the scene before them, the Vault Dweller begins to reminisce of stories told to them by their elders: stories before the war. Before the vaults. Before they left home. Before the rad storms, the bullet rationing, the desperate hungry look in someone's eyes that says this will be a fight to the death.
 
-This was a place of learning. This was a place of science. Where the county's intellectual elite used the knowledge and technology of those that came before them to edge an inkling further beyond humanity's limitations. One step away from the primitive, barbaric human nature and one step towards enlightenment. This was a place where pre-war knowledge and progress could have altered history, diverging into a less destructive future. 
+This was a place of learning. This was a place of science. Where the country's intellectual elite used the knowledge and technology of those that came before them to edge an inkling further beyond humanity's limitations. One step away from the primitive, barbaric human nature and one step towards enlightenment. This was a place where pre-war knowledge and progress could have altered history, diverging into a less destructive future.
 
 Now it's a place to scavenge for supplies and get away from the harsh wasteland sun. One step forward, two steps back. The Vault Dweller searches methodically room by room, checking overturned desks and rotted open lockers for something, ANYTHING, that will help them survive another day. One room at the end of the hallway offers potential respite. Among the trash and debris within lies a pile of human remains. Scraps of cloth hint that these people were once scientists. It appears like they were brought into the room, placed on their knees, and shot in the head execution style. The once sterilized floors still look fairly decent, even after all this time, save for the half dozen large discolored stains surrounding the fractured skulls.
 
@@ -41,20 +41,20 @@ The Vault Dweller freezes, heart racing. They were not expecting to find someone
 
 "Uh, hello?"
 
-"I'm sorry, only authorized users are allowed within the facilities. _*crackle*_"
+"I'm sorry, only authorized users are allowed within the facilities. _/*crackle/*_"
 
 "I have a keycard."
 
-"... _*crackle*_ ... I see."
+"... _/*crackle/*_ ... I see."
 
 The speaker box cuts out and a door further down the hall slowly creaks open. The Vault Dweller hesitates to move for their weapon, not wanting to scare whoever they just spoke with. That moment of hesitation turns into a full body freeze of shock as the chassis of a robot rolls into the Vault Dweller's view. Its servomotors and motorized actuators whir and hum beneath its heavily armored chassis, supported by two tracks of treading that allow it to glide smoothly into the hall. At first only one of the robot's flexible arm-like extenders can be seen until its chassis turns to face the Vault Dweller. The appendages appear to have opposable manipulators formed into precise claws that can use devices made for human hands. Its using those claws to hold a combat shotgun. The feeling of shock turns to horror as the Vault Dweller clocks the glass dome sitting atop the chassis houses the central processing unit: a human brain. This isn't a robot.
 
-This thing has a human brain shoved into it. This used to be a person. Someone removed this person's brain and put it into this machine. The country's intellectual elite had used the knowledge and technology of those that came before them to edge an inkling beyond humanity's limitations. One step away from our primitive, barbaric human nature and one step towards enlightenment. The pinnacle of pre-war knowledge and progress stands before the Vault Dweller. 
+This thing has a human brain shoved into it. This used to be a person. Someone removed this person's brain and put it into this machine. The country's intellectual elite had used the knowledge and technology of those that came before them to edge an inkling beyond humanity's limitations. One step away from our primitive, barbaric human nature and one step towards enlightenment. The pinnacle of pre-war knowledge and progress stands before the Vault Dweller.
 
-"_*zzzt*_ I'm sorry, only authorized users are allowed within the facilities." Its single eyestalk adjusts focus inside the glass dome as the voice transmits from somewhere inside a speaker inside the chassis.
+"_/*zzzt/*_ I'm sorry, only authorized users are allowed within the facilities." Its single eyestalk adjusts focus inside the glass dome as the voice transmits from somewhere inside a speaker inside the chassis.
 
 The Vault Dweller slowly raises their hand, showing the red keycard grabbed from the dead scientists. There's a moment of pause, as if the robotic creature is giving the Vault Dweller a moment of grace to realize their mistake. Then the moment passes. It adjusts its stance, loading shells into the shotgun.
 
-"Shame. _*zzzt*_"
+"Shame. _/*zzzt/*_"
 
 One step forward, two steps back.
