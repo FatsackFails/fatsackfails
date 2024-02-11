@@ -10,14 +10,12 @@ tags:
   - Short Fiction
 image_card: /images/fallout-robobrain-charles-kim.jpg
 image_card_alt: concept art for the Robobrain in Fallout 4 by Charles Kim
-image_card_credit: Original art by Charles Kim
-excerpt: >+
-  Inspired by (a post I saw on
-  Tumblr)[https://www.tumblr.com/fatsackfails/741165456021454848/the-vault-dweller-steps-into-the-hallway-of-the],
+image_card_credit: "[Charles Kim](https://charleskim.artstation.com/projects/LDQR0)"
+excerpt: >
+  Inspired by [a post I saw on
+  Tumblr](https://www.tumblr.com/fatsackfails/741165456021454848/the-vault-dweller-steps-into-the-hallway-of-the),
   here's a short fiction set in the world of Fallout about discovering the
   atrocity of science that is the Robobrain.
-
-
 teaser: The Vault Dweller discovers a dark secret
 seo_title: This Used to be a Person - Fallout Fanfic
 seo_desc: a short fiction set in the world of Fallout about discovering the
