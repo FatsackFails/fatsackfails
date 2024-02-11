@@ -41,20 +41,20 @@ The Vault Dweller freezes, heart racing. They were not expecting to find someone
 
 "Uh, hello?"
 
-"I'm sorry, only authorized users are allowed within the facilities. _/*crackle/*_"
+"I'm sorry, only authorized users are allowed within the facilities. _\*crackle\*_"
 
 "I have a keycard."
 
-"... _/*crackle/*_ ... I see."
+"... _\*crackle\*_ ... I see."
 
 The speaker box cuts out and a door further down the hall slowly creaks open. The Vault Dweller hesitates to move for their weapon, not wanting to scare whoever they just spoke with. That moment of hesitation turns into a full body freeze of shock as the chassis of a robot rolls into the Vault Dweller's view. Its servomotors and motorized actuators whir and hum beneath its heavily armored chassis, supported by two tracks of treading that allow it to glide smoothly into the hall. At first only one of the robot's flexible arm-like extenders can be seen until its chassis turns to face the Vault Dweller. The appendages appear to have opposable manipulators formed into precise claws that can use devices made for human hands. Its using those claws to hold a combat shotgun. The feeling of shock turns to horror as the Vault Dweller clocks the glass dome sitting atop the chassis houses the central processing unit: a human brain. This isn't a robot.
 
 This thing has a human brain shoved into it. This used to be a person. Someone removed this person's brain and put it into this machine. The country's intellectual elite had used the knowledge and technology of those that came before them to edge an inkling beyond humanity's limitations. One step away from our primitive, barbaric human nature and one step towards enlightenment. The pinnacle of pre-war knowledge and progress stands before the Vault Dweller.
 
-"_/*zzzt/*_ I'm sorry, only authorized users are allowed within the facilities." Its single eyestalk adjusts focus inside the glass dome as the voice transmits from somewhere inside a speaker inside the chassis.
+"_\*zzzt\*_ I'm sorry, only authorized users are allowed within the facilities." Its single eyestalk adjusts focus inside the glass dome as the voice transmits from somewhere inside a speaker inside the chassis.
 
 The Vault Dweller slowly raises their hand, showing the red keycard grabbed from the dead scientists. There's a moment of pause, as if the robotic creature is giving the Vault Dweller a moment of grace to realize their mistake. Then the moment passes. It adjusts its stance, loading shells into the shotgun.
 
-"Shame. _/*zzzt/*_"
+"Shame. _\*zzzt\*_"
 
 One step forward, two steps back.
