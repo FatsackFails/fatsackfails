@@ -5,8 +5,12 @@
       "link": "/resources"
     },
     {
-      "text": "📥 Contact",
-      "link": "/contact"
+      "text": "🦋 Bluesky",
+      "link": "https://bsky.app/profile/fatsackfails.com"
+    },
+    {
+      "text": "💻 Tumblr",
+      "link": "https://tumblr.com/fatsackfails"
     },
     {
       "text": "🐦 Twitter",
@@ -21,16 +25,12 @@
       "link": "/merch"
     },
     {
-      "text": "💻 Tumblr",
-      "link": "https://tumblr.com/fatsackfails"
-    },
-    {
-      "text": "🐘 Mastodon",
-      "link": "https://mastodon.lol/web/@FatsackFails"
-    },
-    {
       "text": "📸 Instagram",
       "link": "https://instagram.com/fatsackfails"
+    },
+    {
+      "text": "🧵 Threads",
+      "link": "https://www.threads.net/@fatsackfails"
     },
     {
       "text": "🤳 TikTok",
@@ -43,6 +43,10 @@
     {
       "text": "💰 Support Fatsack",
       "link": "/support"
+    },
+    {
+      "text": "📥 Contact",
+      "link": "/contact"
     }
   ]
 }
