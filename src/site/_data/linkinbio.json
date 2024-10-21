@@ -5,18 +5,6 @@
       "link": "/resources"
     },
     {
-      "text": "🦋 Bluesky",
-      "link": "https://bsky.app/profile/fatsackfails.com"
-    },
-    {
-      "text": "💻 Tumblr",
-      "link": "https://tumblr.com/fatsackfails"
-    },
-    {
-      "text": "🐦 Twitter",
-      "link": "https://twitter.com/fatsackfails"
-    },
-    {
       "text": "🎮 Twitch",
       "link": "https://twitch.tv/fatsackfails/about"
     },
@@ -25,8 +13,20 @@
       "link": "/merch"
     },
     {
+      "text": "🦋 Bluesky",
+      "link": "https://bsky.app/profile/fatsackfails.com"
+    },
+    {
+      "text": "💻 Tumblr",
+      "link": "https://tumblr.com/fatsackfails"
+    },
+    {
       "text": "📸 Instagram",
       "link": "https://instagram.com/fatsackfails"
+    },
+    {
+      "text": "🐦 Twitter",
+      "link": "https://twitter.com/fatsackfails"
     },
     {
       "text": "🧵 Threads",
