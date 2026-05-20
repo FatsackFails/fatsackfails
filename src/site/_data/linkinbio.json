@@ -5,6 +5,10 @@
       "link": "/charity"
     },
     {
+      "text": "💰 Tip Fatsack",
+      "link": "/tip"
+    },
+    {
       "text": "🆓 Streamer Resources",
       "link": "/resources"
     },
@@ -43,10 +47,6 @@
     {
       "text": "🎥 YouTube",
       "link": "https://youtube.com/channel/UCxnthibwNiVFB6yibZJgq5g"
-    },
-    {
-      "text": "💰 Support Fatsack",
-      "link": "/support"
     },
     {
       "text": "📥 Contact",
